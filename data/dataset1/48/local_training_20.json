@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Are the following two questions the same?\nWhat are the good career option after b.tech in electrical engineering from an NIT?\nWhat is the best career option for an electrical engineer who is interested in coding?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Would you rather be book smart or street smart?\nWhat is better; to be street smart or book smart?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhich question has the most views on Quora?\nWhat question on Quora has the most views?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: I am in first year. In which direction should I start my preparation to clear for IAS exam?\nSecond question: As an engineering 3rd year student what should I start preparing for IAS exam?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What are the career options after graduating from chemical engineering?\nWhat do chemical engineers do after their graduation?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Will banning Rs.500 and Rs.1000 notes help to solve black money and corruption?\n\nHow will black money and corruption be stopped by banning 500 and 1000 notes?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: When was the last time you were terrified?\nSecond question: When was the last time you were frightened?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What's your favourite poem?\nWhat is your favourite poem and why?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How do you earn money on Quora?\n\nCan we earn money through Quora?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Why is the iPhone so special?\nQuestion 2: Why iPhone is so special?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nHow do stop smoking?\nHow do I quit smoking?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat do you think of the move of banning 500 and 1000 rupee notes in India (Nov 2016)?\nWhat do you think of the Government's move of banning old Rs. 500 & Rs. 1000 notes?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: How can i find sponsors for my college events in pune?\nQuestion 2: How do I get sponsors for college event?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Who is the most popular character in Game of Thrones, Jon Snow or Tyrion?\nQuestion 2: Who is the overall most popular Game of Thrones character?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Where can I get necessary legal advice and services in Sydney for property transaction?\n\nWhere can I get best assistance in Sydney for any property purchasing?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: When and how is a chemical reaction balanced?\nSecond question: How is a chemical equation balanced?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why isn't the slide to unlock function working on my iPhone?\nWhy is my iPhone slide to unlock not working?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the country with the highest suicide rate?\n\nWhat is the country with the highest rate of suicide?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: How can I stop myself from sabotaging my relationship?\nSecond question: How do I stop sabotaging my relationship?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What are the best ways to learn how to draw?\nHow do you learn to draw?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What should I do if I am not able to study?\nQuestion 2: What should I do when I am not able to study very well?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: How can I earn money part time online?\nQuestion 2: How can I earn money online easily?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How does the IoT work?\n\nHow does iot work?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How can anyone increase height?\nHow do I increase body height?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What should I do to earn money online?\nHow can I start to make money online?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How can green tea help you reduce belly fat?\n\nDoes green tea reduce weight? How does it work? How many glasses should we have daily?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "I had my normal periods 10 days after on my regular date however now I am one week late. Could I be pregnant?\n\nI had sex one day prior to the usual onset of my period and now I'm three days late. Why?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the salary range for classification levels G in Stanford University?\nWhat is the salary range for classification level G in Stanford University?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nDoes prostitution thrive in Saudi Arabia?\nHow are prostitutes punished in Saudi Arabia?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhich is the best way to learn data structures & algorithms from beginner to advanced level?\nWhat materials did you learn data structures and algorithms from?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What are the best places in Hyderabad to cover in a day with family?\n\nWhere are the best places to visit in Hyderabad when the trip is for two days?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Why do dogs throw up yellow foam?\nQuestion 2: What causes a dog to throw up white liquid?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What are the best tasting vodkas? How are they made?\nQuestion 2: What are the best vodkas?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Forgot my Facebook password and email password. How can I log into Facebook?\nHow can I open my Facebook account I forgot my password and Gmail?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat should India do to get entire Pakistan and Bangladesh back? If china occupy Tibet illegally why can't we get our partitioned land?\nWhen will India get back POK illegally captured by Pakistan ?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How can I increase the traffic on my website?\n\nHow to increase my website Traffic?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What scripting language is useful for web development?\nQuestion 2: Which server-side scripting language combination should we use in web development today?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What phone should I buy under Rs 15000?\nWhich is the best phone to buy within Rs.15000?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How do I recover my Facebook email and password?\n\nHow do I get into my Facebook if I can't remember passwords and I can't access email account?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: I'm planning on starting a YouTube gaming channel but I lack Confidence, do you have any words of encouragement or helpful tips, including experience?\nSecond question: I'm planning on starting a YouTube gaming channel but I lack Confidence, do you have any words of encouragement or helpful tips, includingexperience?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Finance: How can the Panic of 1907 be explained in layman's terms?\n\nWhat was the Panic of 1907 and what caused it?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "\"What does 'Hammerklavier' sonata (no. 29), whose last movement contains an especially diabolical fugue' mean?\"\n\"What does ' 'Hammerklavier' sonata (no. 29), whose last movement contains an especially diabolical fugue' mean?\"\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: How do I get rid of pimples permanently?\nQuestion 2: How do I get rid of acne naturally?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: How do I get someone to stop harassing me on quora?\nQuestion 2: What should I do if someone on Quora is harassing me? What should I do if they're harassing me off of Quora?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhat are some silliest questions asked on Quora?\nWhat is the silliest question you have ever read on Quora?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: For an international student, which countries offer free higher education?\nQuestion 2: Which countries have free higher education?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhat songs make you cry?\nWhich songs always makes you cry?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: How should I laugh?\nQuestion 2: How should one laugh?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Is transgender a mental illness?\nQuestion 2: Is homosexuality a mental illness?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhat is the difference between a commercial mortgage broker and a home loan broker?\nWhat is commercial mortgage broker? What is the difference between a commercial mortgage broker and a home loan broker?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  }
+]

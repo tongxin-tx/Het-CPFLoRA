@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Is the following sentence linguistically acceptable?\nWhen I am awake at that time and Susan is asleep, Bill will leave.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Test sentence: \"I consider there a man in that garden.\"\nIs this test sentence a correct grammatical English sentence?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Test sentence: \"John made Mary to cook Korean food.\"\nIs this test sentence a correct grammatical English sentence?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"Groceries are bulging in the bag.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"In price soared oil.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"The hot sun was played under by the children.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"Every man lifted the table together.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nTony bent at the rod.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Is the following sentence linguistically acceptable?\nThose are the folks that you just solve this problem and you'll be able to put them on ice.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nEvery student in Mary's class, whoever they were, happened to vote Republican.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would a linguist find the following sentence to be a valid English sentence grammatically?\n\nSam may be had been interrogating by the FBI.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would a linguist find the following sentence to be a valid English sentence grammatically?\n\nSam stood near yesterday every one of the women we'd been discussing.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "The doctor cured pneumonia from Pat.\n\nHow would you consider the linguistic integrity of the preceding sentence?\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Is the following sentence linguistically acceptable?\nImmediately, John probably will clearly learn French perfectly.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"A tangerine isn't as much different from an orange as I'd thought.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Is the following sentence linguistically acceptable?\nWhat Mary gave was a book to John.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would a linguist find the following sentence to be a valid English sentence grammatically?\n\nWe spotted that they were running.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Test sentence: \"I have half a dozen of these marbles too many.\"\nIs this test sentence a correct grammatical English sentence?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"Susan hopes her to sleep.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nI acknowledged that my father, he was tight as an owl.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Is the next sentence syntactically and semantically acceptable?\n\nJohn believes that Fred likes steak that Joe likes pizza.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nThat piano, the boy's playing which loudly drove everyone crazy, was badly out of tune.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Test sentence: \"Paula hit the sticks.\"\nIs this test sentence a correct grammatical English sentence?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nAbsolutely an owl hunts mice.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"Maxwell isn't half the doctor that that he would be if he studied is certain.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nCarla slid at the book to Dale.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would a linguist find the following sentence to be a valid English sentence grammatically?\n\nThat acorn will grow from a seed into an oak tree.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"It is that he wants to quit school that John told us.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Jason whispered the phoenix had escaped\n\nHow would you consider the linguistic integrity of the preceding sentence?\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nBaseballs toss easily.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"Ellen and Helen conferred together.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"Sally eats more the stuff.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Is the following sentence linguistically acceptable?\nIt's probable in general that he understands what's going on.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would a linguist find the following sentence to be a valid English sentence grammatically?\n\nThe picture of Bill she slept.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Danced extremely, Anson frantically at Trade\n\nHow would you consider the linguistic integrity of the preceding sentence?\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Test sentence: \"John will have been eating enthusiastically cake.\"\nIs this test sentence a correct grammatical English sentence?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Is the following sentence linguistically acceptable?\nBecause never had Sir Thomas been so offended, even Mr Yates left.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"The king of Rock and Roll is more popular than the one of country music.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"When into the room came Aunt Norris, Fanny stopped talking.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Is the following sentence linguistically acceptable?\nGilgamesh has been not reading the cuneiform tablets.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "A pastor was executed, notwithstanding on many applications in favor of him.\n\nHow would you consider the linguistic integrity of the preceding sentence?\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "We think if Bill left.\n\nHow would you consider the linguistic integrity of the preceding sentence?\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nYou filed every paper without inspecting.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"I know a man who hates myself.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"Which god the statue?\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"The more contented for us to pretend to be became possible, the more angry we grew at the doctors.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Sentence: \"I funneled into the bottle.\"\nWould a linguist rate this sentence to be acceptable linguistically?\n\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Is the following sentence linguistically acceptable?\nJohn offered, and Harry gave, Sally a Cadillac.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would a linguist find the following sentence to be a valid English sentence grammatically?\n\nJennifer craned her arm.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  },
+  {
+    "instruction": "Would the following sentence, by the strictest standards, be considered correct by a linguist?\n\nThe cat that the dog that the rat bit chased died.\nOPTIONS:\n- unacceptable\n- acceptable",
+    "output": "unacceptable",
+    "task": "cola",
+    "category": "linguistic_acceptability"
+  }
+]

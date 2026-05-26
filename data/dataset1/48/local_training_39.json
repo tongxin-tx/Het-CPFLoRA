@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Add punctuation: Even the concept of an infinite series for example one which increases according to definite powers of variables is in my opinion only permissible with the reservation that in every special case on the basis of the arithmetic laws of constructing terms or coefficients  certain assumptions must be shown to hold which are applicable to the series like finite expressions and which thus make the extension beyond the concept of a finite series really unnecessary",
+    "output": "Even the concept of an infinite series, for example one which increases according to definite powers of variables, is in my opinion only permissible with the reservation that in every special case, on the basis of the arithmetic laws of constructing terms (or coefficients), ... certain assumptions must be shown to hold which are applicable to the series like finite expressions, and which thus make the extension beyond the concept of a finite series really unnecessary.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The idea is to eliminate the majority of malicious or invasive addons by requiring them to be signed so that they can be installed in Firefox\n\nAdd punctuation",
+    "output": "The idea is to eliminate the majority of malicious or invasive add-ons by requiring them to be signed so that they can be installed in Firefox.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Theodora Sometimes by keeping it simple a great many things can happen I try to be a teacher who provides an opportunity for the next generation to reach above the ordinary to find the real values of human life and I believe that these young people need to be presented with a few simple true codings which they can then take and use their natural abilities to produce wonderful things\n\nAdd punctuation",
+    "output": "Theodora: Sometimes, by keeping it simple, a great many things can happen. I try to be a teacher who provides an opportunity for the next generation to reach above the ordinary, to find the real values of human life, and I believe that these young people need to be presented with a few simple, true codings, which they can then take and use their natural abilities to produce wonderful things.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: That you are able to provide a seamless buying experience from first contact to everything is settled and if necessary returns are received and refund is completed",
+    "output": "That you are able to provide a seamless buying experience from first contact to everything is settled and if necessary, returns are received and refund is completed.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "24 A disciple is not above his teacher nor a servant above his lord\n\nAdd punctuation",
+    "output": "24 A disciple is not above his teacher, nor a servant above his lord.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "A daily life such as this is not unadulterated happiness\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "A daily life such as this is not unadulterated happiness.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Unsure about which type of D2V file you have Do you want to know exactly what it is who created it and how to open it\n\nAdd punctuation",
+    "output": "Unsure about which type of D2V file you have? Do you want to know exactly what it is, who created it, and how to open it?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Winning lottery numbers from around the world for Wednesday 22 June 2016 Click on the links below to view detailed lottery results\n\nAdd punctuation",
+    "output": "Winning lottery numbers from around the world for Wednesday 22 June 2016. Click on the links below to view detailed lottery results:",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: What is File Extension TAZ",
+    "output": "What is File Extension TAZ?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "In addition you have the option of reserving a seat with more leg room\n\nCould you correct the punctuation please?",
+    "output": "In addition, you have the option of reserving a seat with more leg room.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: It is from his personal experiences that he has written The Revolutionary Manual For Future Business  Management Of course the information and energy of this book is a product of his true being his essence that is connected to all that is",
+    "output": "It is from his personal experiences that he has written The Revolutionary Manual For Future Business & Management. Of course the information and energy of this book is a product of his true being; his essence, that is connected to all that is.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "She explored the landscape decking up in the greenhouse gave the trees suit and mixed in some strange way that observed with the developed and all the time she asked questions it was a pleasure to see how she evolved through his personal experiments there was a whole special openness in her pictures as if anything was possible a naive playful quest which was breathtaking and everything she did looked exactly like her\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "She explored the landscape, decking up in the greenhouse, gave the trees suit and mixed in some strange way that observed with the developed, and all the time she asked questions, it was a pleasure to see how she evolved through his personal experiments, there was a whole special openness in her pictures as if anything was possible, a naive, playful quest which was breathtaking, and everything she did looked exactly like her.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: La Tour Menagee  Search for free rooms and guaranteed low rates in Richelieu and book your stay at hotel La Tour Menagee",
+    "output": "La Tour Menagee - Search for free rooms and guaranteed low rates in Richelieu and book your stay at hotel La Tour Menagee",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: You look around and you just cant ignore the lights the laughter the sound of coins hitting the metal when somebody wins or the sounds of the bells ringing",
+    "output": "You look around and you just can't ignore the lights, the laughter, the sound of coins hitting the metal when somebody wins, or the sounds of the bells ringing.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "4 weeks ago 1226 JizzBunker anal dutch double penetration blonde big ass deepthroat milf\n\nCould you correct the punctuation please?",
+    "output": "4 weeks ago 12:26 JizzBunker anal, dutch, double penetration, blonde, big ass, deepthroat, milf",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Did someone email you a XCD file and youre not sure how to open it Maybe you have found a XCD file on your computer and wondering what its for Windows might tell you that you cant open it or in the worst case you might encounter a XCD file related error message\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Did someone email you a XCD file and you're not sure how to open it? Maybe you have found a XCD file on your computer and wondering what it's for? Windows might tell you that you can't open it, or in the worst case, you might encounter a XCD file related error message.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: His father was Johann Georg Wiltheiss a book binder and his mother was Elisabeth Mohr",
+    "output": "His father was Johann Georg Wiltheiss, a book binder, and his mother was Elisabeth Mohr.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Hungarian public reality money",
+    "output": "Hungarian, public, reality, money",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: The other helicopter also took of in the early afternoon heading for Frankfield Bay in North Greenland where Jrgen Skafte and Trine DahlJensen should retrieve data from the earthquake seismic station which has been recording data during the LORITA1 project",
+    "output": "The other helicopter also took of in the early afternoon heading for Frankfield Bay in North Greenland, where Jørgen Skafte and Trine Dahl-Jensen should retrieve data from the earthquake seismic station, which has been recording data during the LORITA-1 project.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is File Extension FAN\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "What is File Extension FAN?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: The pulse can be felt in the neck or back of the arm",
+    "output": "The pulse can be felt in the neck or back of the arm.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: It is hard to believe how fruitful a genius Austria has in this man I have written to  many people who can save Doppler for science and not let him die under the yoke",
+    "output": "It is hard to believe how fruitful a genius Austria has in this man. I have written to ... many people who can save Doppler for science and not let him die under the yoke.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "They also told me that it was irreparable which is not true since that there are tutorials shared by the users themselves in their own forum on how to replace it using a heat gun and a basic reballing kit They allege that as the chip is glued with glue it is impossible to repair\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "They also told me that it was irreparable, which is not true since that there are tutorials shared by the users themselves in their own forum on how to replace it using a heat gun and a basic reballing kit; They allege that as the chip is glued with glue, it is impossible to repair.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nCheck out World Without Oil an imagined scenario where the impacts of an oil shortage are played out in real life Posts around the internet puppet masters governing the situation its a wild expansion of learning This is where I start to get excited",
+    "output": "Check out “World Without Oil”, an imagined scenario where the impacts of an oil shortage are played out in real life. Posts around the internet, puppet masters governing the situation, it’s a wild expansion of learning… This is where I start to get excited.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Our community is therefore built on members using their individual abilities and interests for the welfare and edification of the church\n\nPlease fix the punctuation.",
+    "output": "Our community is therefore built on members using their individual abilities and interests for the welfare and edification of the church.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Those who survived we carry down with our injured man\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "Those who survived we carry down with our injured man.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Marclays work has been shown in museums and galleries worldwide",
+    "output": "Marclay’s work has been shown in museums and galleries worldwide.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The scissors can be universally used in the household\n\nPlease fix the punctuation.",
+    "output": "The scissors can be universally used in the household.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: The fastest and easiest way to open your XBA file is to doubleclick it",
+    "output": "The fastest and easiest way to open your XBA file is to double-click it.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: This mental light this spiritual sunshine became stronger and stronger",
+    "output": "This mental light, this spiritual sunshine became stronger and stronger.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Amounts which are exactly equal to EUR 0005 will be rounded to the nearest even number\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Amounts which are exactly equal to EUR 0.005 will be rounded to the nearest even number.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Separate WC Large lounge Dishwasher Air conditioning",
+    "output": "Separate WC. Large lounge. Dishwasher. Air conditioning.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: While the hinterland is thus characterized by woodland there is a long line of dunes with beautiful beaches and many excellent",
+    "output": "While the hinterland is thus characterized by woodland, there is a long line of dunes with beautiful beaches and many excellent",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "There was no direct promise of eternal life in this series of promises or covenant\n\nPlease fix the punctuation.",
+    "output": "There was no direct promise of eternal life in this series of promises, or \"covenant\".",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: 5032 And the most proud shall stumble and fall and none shall raise him up and I will kindle a fire in his cities and it shall devour all round about him",
+    "output": "50:32 And the most proud shall stumble and fall, and none shall raise him up: and I will kindle a fire in his cities, and it shall devour all round about him.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "guys and suggested that they would put together a band\n\nCould you correct the punctuation please?",
+    "output": "guys and suggested that they would put together a band.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: In many cases good results can be achieved by a higher frequency of airing out maintaining a constant temperature of 2022o C and thoroughly cleaning the buildings",
+    "output": "In many cases, good results can be achieved by a higher frequency of airing out, maintaining a constant temperature of 20–22o C and thoroughly cleaning the buildings.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: The Varimixer profile brochure can also be downloaded or read online",
+    "output": "The Varimixer profile brochure can also be downloaded or read online.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "He was sent to a university in Edinburgh however was staying there something completely different than the Darwin had expected\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "He was sent to a university in Edinburgh, however, was staying there something completely different than the Darwin had expected.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Photos of Sanicle Sanicula europaea Apiaceae\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Photos of Sanicle Sanicula europaea (Apiaceae).",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: The fruit is from Indonesia however it could also be found in Asia Africa and also India It is regularly used in Oriental food preparation so you may have even had some tamarind in your food previously without understanding it",
+    "output": "The fruit is from Indonesia, however it could also be found in Asia, Africa, and also India. It is regularly used in Oriental food preparation, so you may have even had some tamarind in your food previously without understanding it!",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Martinus The Eternal World Picture vol 2 sect 2211",
+    "output": "Martinus: The Eternal World Picture, vol. 2, sect. 22.11.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: This brings the association technically in conflict with the Danish constitution but for fear of making things worse and risking that the association goes underground the authorities have been reluctant to initiate a case against it It goes both ways What came first violent groups or nonfunctional democracy can vary from country to country but if society permits groups other than the elected executive branch to exercise power through violence a power vacuum arises and someone will take advantage of it",
+    "output": "This brings the association technically in conflict with the Danish constitution, but for fear of making things worse and risking that the association goes underground, the authorities have been reluctant to initiate a case against it. ==It goes both ways== What came first, violent groups or non-functional democracy, can vary from country to country, but if society permits groups other than the elected, executive branch to exercise power through violence, a power vacuum arises and someone will take advantage of it.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Maps and services  SoftwareUpgrades  NAVIGON 40 Plus\n\nPlease fix the punctuation.",
+    "output": "- Maps and services - Software-Upgrades - NAVIGON 40 Plus",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nYes it is in fact the most cheaply you can buy in the Tivoli Gardens says Kaj Engmann Larsen 80 years who throughout 25 years faithfully has run the Periscopehire Service in the garden",
+    "output": "\"Yes, it is in fact the most cheaply, you can buy in the Tivoli Gardens\", says Kaj Engmann Larsen, 80 years, who throughout 25 years faithfully has run the Periscope-hire Service in the garden.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "It is essential for Media Representatives to respect the players and the integrity of all Events This includes but is not limited to\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "It is essential for Media Representatives to respect the players and the integrity of all Events. This includes, but is not limited to:",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nIn spring 1865 in an attempt to escape from depression caused by her health she tried to commit suicide by slashing her wrists",
+    "output": "In spring, 1865, in an attempt to escape from depression caused by her health, she tried to commit suicide by slashing her wrists.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Encountering a failed hard drive is an ultimate head ache as the user cannot access any information from the storage media\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Encountering a failed hard drive is an ultimate head ache as the user cannot access any information from the storage media.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Both parties shall usually be asked to pay identical amounts in financial deposit unless otherwise agreed by the parties or otherwise decided by the Secretariat In the event that a party does not pay its share the Secretariat shall require the other party to pay the full financial deposit in order for the DB to be established\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Both parties shall usually be asked to pay identical amounts in financial deposit, unless otherwise agreed by the parties or otherwise decided by the Secretariat. In the event that a party does not pay its share, the Secretariat shall require the other party to pay the full financial deposit in order for the DB to be established.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: The committee supports modernising the conduct of Australian federal elections particularly through the use of new technology the report said Introducing new technology has the potential to enhance voter experience minimise risks related to manual processing improve efficiency and uphold the AECs credibility in the eyes of voters",
+    "output": "“The committee supports modernising the conduct of Australian federal elections, particularly through the use of new technology,” the report said. “Introducing new technology has the potential to enhance voter experience, minimise risks related to manual processing, improve efficiency, and uphold the AEC’s credibility in the eyes of voters.”",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Here is some data: AmeriGas, city, King of Prussia, Pennsylvania; AmeriGas, country, United States.\n\nWrite a sentence that describes this data",
+    "output": "AmeriGas's location is in the city of King of Prussia, Pennsylvania in the United States.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Aleksey Chirikov (icebreaker), builder, Finland; Aleksey Chirikov (icebreaker), length, 99.83; Aleksey Chirikov (icebreaker), shipBeam, 21.2; Aleksey Chirikov (icebreaker), status, \"In service\"; Aleksey Chirikov (icebreaker), builder, Arctech Helsinki Shipyard",
+    "output": "Arctech Helsinki Shipyard built the icebreaker, Aleksey Chirikov in Helsinki Finland which is now in service. The ship is 99.83 m long and has a beam of 21.2m.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Paulo Sousa is the manager of the ACF Fiorentina, he played at the Inter Milan club.\n\nWhat data can be extracted from this sentence?",
+    "output": "ACF Fiorentina, manager, Paulo Sousa; Paulo Sousa, club, Inter Milan",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Suburban Legends, genre, Rock music; Aaron Bertram, associatedBand/associatedMusicalArtist, Suburban Legends",
+    "output": "Aaron Bertram plays for the Suburban Legends band which performs rock music.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The architects James Pain and George Richard Pain designed Adare Manor, which was completed in 1862.\n\nWhat data can be extracted from this sentence?",
+    "output": "Adare Manor, architect, \"James Pain and George Richard Pain,\"; Adare Manor, completionDate, 1862",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The Acharya Institute of Technology is affiliated with the Visvesvaraya Technological University in Belgaum and is located in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.\n\nWhat data can be extracted from this sentence?",
+    "output": "Acharya Institute of Technology, affiliation, Visvesvaraya Technological University; Visvesvaraya Technological University, city, Belgaum; Acharya Institute of Technology, campus, \"In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: ALV X-1, countryOrigin, United States; United States, ethnicGroup, Native Americans in the United States; United States, demonym, Americans.\n\nWrite a sentence that describes this data",
+    "output": "The UNited States is home to Native Americans and Americans as well as the origin of the ALV X-1.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Tarrant County, Texas, largestCity, Fort Worth, Texas; Arlington, Texas, isPartOf, Tarrant County, Texas; Arlington, Texas, isPartOf, Texas; Tarrant County, Texas, country, United States.\n\nGenerate a detailed description of this data",
+    "output": "Arlington is part of Tarrant County in Texas (United States). Where the largest city in the state is Fort Worth.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: AZ Alkmaar, owner, Robert Eenhoorn",
+    "output": "AZ Alkmaar is owned by Robert Eenhoorn.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The Honda Accord is made by Honda.\n\nWhat data can be extracted from this sentence?",
+    "output": "Honda Accord, manufacturer, Honda",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Ardmore Airport (New Zealand), 3rdRunwaySurfaceType, Poaceae; Ardmore Airport (New Zealand), runwayName, \"03L/21R\"\n\nWhat is sentence that verbalizes this data?",
+    "output": "New Zealand's Ardmore airport has the runway name 03L/21R. It also has a third runway surface type which is Poaceae.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Alison O'Donnell was a member of the Flibbertigibbet band and is musically associated with the band Head South By Weaving. 1963 was the beginning of folk music performer Alison O'Donnell's active years.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Alison O'Donnell, associatedBand/associatedMusicalArtist, Head South By Weaving; Alison O'Donnell, associatedBand/associatedMusicalArtist, Flibbertigibbet; Alison O'Donnell, genre, Folk music; Alison O'Donnell, activeYearsStartYear, 1963",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Alan Shepard, almaMater, \"NWC, M.A. 1957\"; Alan Shepard, deathPlace, California; Alan Shepard, deathDate, \"1998-07-21\"",
+    "output": "Alan Shepard graduated from NWC, M.A. in 1957, he died in California on 1998-07-21.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Ayam penyet, region, \"Nationwide, also can be found in Malaysia and Singapore\"; Ayam penyet, country, Java; Ayam penyet, ingredient, Fried chicken; Ayam penyet, mainIngredient, \"Squeezed\" or \"smashed\" fried chicken served with sambal\n\nSentence about the following data:",
+    "output": "Ayam penyet is made nationwide in Java, and can also be found in Malaysia and Singapore. The dish consists of squeezed or smashed fried chicken served with sambal.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Uruguay, leader, Raúl Fernando Sendic Rodríguez; Alfredo Zitarrosa, deathPlace, Uruguay.\n\nGenerate a detailed description of this data",
+    "output": "Alfredo Zitarrosa died in Uruguay, a country led by Raul Fernando Sendic Rodriguez.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Athens International Airport, cityServed, Athens; Athens, country, Greece; Greece, leader, Prokopis Pavlopoulos.\n\nWrite a sentence that describes this data",
+    "output": "Athens International Airport, serving the city of Athens, Greece has a leader of Prokopis Pavlopoulos.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: A Glastonbury Romance, precededBy, Wolf Solent; Wolf Solent, author, John Cowper Powys",
+    "output": "John Cowper Powys is the author of Wolf Solent which is followed by A Glastonbury Romance.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: A Loyal Character Dancer, author, Qiu Xiaolong; A Loyal Character Dancer, isbnNumber, \"1-56947-301-3\"",
+    "output": "The book A Loyal Character Dancer was written by Qiu Xiaolong and has the ISBN number of 1-56947-301-3.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Switzerland, leader, Johann Schneider-Ammann.\n\nGenerate a detailed description of this data",
+    "output": "Switzerland has a leader called Johann Schneider-Ammann.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: BBC, keyPerson, Rona Fairhead; Bananaman, broadcastedBy, BBC; BBC, product, BBC Radio; BBC, city, London",
+    "output": "The BBC, located in London, with Rona Fairhead as a key person, broadcast the TV series Bananaman and produces BBC radio.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: English is the language of the United Kingdom where the AIDS journal was published. It was published by Lippincott Williams & Wilkins whose parent company is Wolters Kluwer.\n\nWhat structured data could we extract from this sentence?",
+    "output": "United Kingdom, language, English language; AIDS (journal), country, United Kingdom; AIDS (journal), publisher, Lippincott Williams & Wilkins; Lippincott Williams & Wilkins, parentCompany, Wolters Kluwer",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: AC Hotel Bella Sky Copenhagen, location, Denmark; Denmark, leader, Margrethe II of Denmark; Marriott International, foundationPlace, Washington, D.C.; AC Hotel Bella Sky Copenhagen, tenant, Marriott International; Marriott International, keyPerson, Bill Marriott.\n\nWrite a sentence that describes this data",
+    "output": "Denmark is led by Margrethe II of Denmark and is the location of the AC Hotel Bella Sky in Copenhagen. The current tenant is Marriott International which was founded in Washington DC and has Bill Marriott as one of the key people.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Auburn, Washington has a population density of 914.8 inhabitants per sq km and a total area of 77.41 sq kms.\n\nWhat data can be extracted from this sentence?",
+    "output": "Auburn, Washington, populationDensity, 914.8 (inhabitants per square kilometre); Auburn, Washington, areaTotal, 77.41 (square kilometres)",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Binignit, mainIngredient, Banana; Binignit, country, Philippines; Binignit, ingredient, Sago.\n\nGenerate a detailed description of this data",
+    "output": "The main ingredient of binignit is banana, along with sago. The dish can be found in the Philippines.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Ahmet Ertegun, genre, Rhythm and blues; Rhythm and blues, stylisticOrigin, Blues; Rhythm and blues, derivative, Disco\n\nWhat is sentence that verbalizes this data?",
+    "output": "Ahmet Ertegun's genre is rhythm and blues, which originated from the blues. Disco is a derivative of rhythm and blues.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Appleton International Airport, runwayLength, 1982.0; Appleton International Airport, elevationAboveTheSeaLevel, 280; Appleton International Airport, operatingOrganisation, Outagamie County, Wisconsin",
+    "output": "Appleton International Airport is elevated 280 metres above sea level and has a runway length of 1982.0. It is operated by an organisation in Outagamie County, Wisconsin.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Abraham A. Ribicoff, office, \"United States Secretary of Health, Education, and Welfare\"; Abraham A. Ribicoff, successor, Anthony J. Celebrezze; Abraham A. Ribicoff, deathPlace, New York City; Abraham A. Ribicoff, birthPlace, Connecticut",
+    "output": "Abraham A. Ribicoff's place of birth was Connecticut and later passed in New York City. He worked as the U.S. Secretary of Health, Education and Welfare and was succeeded by Anthony J. Celebrezze.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Austin is the capital city of Texas.\n\nWhat data can be extracted from this sentence?",
+    "output": "Texas, capital, Austin, Texas",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: 3Arena, owner, Live Nation Entertainment",
+    "output": "The owner of 3Arena is Live Nation Entertainment.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: AWH Engineering College, country, India; AWH Engineering College, established, 2001; AWH Engineering College, academicStaffSize, 250; AWH Engineering College, state, Kerala; AWH Engineering College, city, \"Kuttikkattoor\"; India, river, Ganges",
+    "output": "Established in 2001, the AWH Engineering College in Kuttikkattoor, Kerala India currently has 250 staff. A famous river in the country is the Ganges.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: American Journal of Mathematics, publisher, Johns Hopkins University Press; Johns Hopkins University Press, country, United States; American Journal of Mathematics, issnNumber, \"1080-6377\"; Johns Hopkins University Press, parentCompany, Johns Hopkins University",
+    "output": "The book American Journal of Mathematics has the ISSN number 1080-6377. It is published by Johns Hopkins University Press, Johns Hopkins University, United States.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Chinabank, location, Philippines; Philippines, motto, \"Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa\"; Chinabank, foundingDate, 1920-08-16; Chinabank, foundationPlace, Manila; Chinabank, foundationPlace, Insular Government of the Philippine Islands\n\nWhat is sentence that verbalizes this data?",
+    "output": "Chinabank is located in the Philippines and was founded in the Insular Government of the Philippine Islands in Manila on the 16th of August, 1920. Philippine's motto is \"Maka-Diyos, Maka-Tao, Makakalikasan at Makabansa\".",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Tomato, family, Solanaceae.\n\nWrite a sentence that describes this data",
+    "output": "The tomato comes from the Solanaceae family.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: 200 Public Square is in Cleveland, part of the Cuyahoga County in Ohio.\n\nWhat structured data could we extract from this sentence?",
+    "output": "200 Public Square, location, Cleveland; Cleveland, isPartOf, Cuyahoga County, Ohio; Cleveland, isPartOf, Ohio",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Ardmore Airport (New Zealand), runwayLength, 1411.0; Ardmore Airport (New Zealand), 3rdRunwaySurfaceType, Poaceae; Ardmore Airport (New Zealand), elevationAboveTheSeaLevel, 34.0",
+    "output": "The Ardmore Airport in New Zealand, located 34 meters above sea level, has a runway length of 1411.0 and the third runway is made of Poaceae.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Abel Caballero, inOfficeWhileMonarch, Juan Carlos I of Spain; Juan Carlos I of Spain, predecessor, Francisco Franco\n\nWhat is sentence that verbalizes this data?",
+    "output": "Abel Caballero was in office while Juan Carlos 1 of Spain was Monarch he was preceded by Francisco Franco.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Uttar Pradesh, leader, Ram Naik",
+    "output": "The leader name of Uttar Pradesh is Ram Naik.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Asam pedas, country, Malaysia; Malaysia, ethnicGroup, Malaysian Malay; Sumatra, ethnicGroup, Acehnese people; Asam pedas, region, Sumatra",
+    "output": "Asam pedas is a dish from Sumatra where the Acehnese people are an ethnic group. it is also found in Malaysia where the Malays are an ethnic group.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: 1099 Figneria, epoch, 2006-12-31.\n\nGenerate a detailed description of this data",
+    "output": "The epoch date for 1099 Figneria is 31 December 2006.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Abilene, Texas, country, United States; United States, ethnicGroup, Native Americans in the United States\n\nWhat is sentence that verbalizes this data?",
+    "output": "Abilene is located in Texas, United States and one of the country's ethnic groups are the Native Americans.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "AIDS (journal), academicDiscipline, HIV; AIDS (journal), academicDiscipline, HIV/AIDS; AIDS (journal), firstPublicationYear, 1987\n\nWhat is sentence that verbalizes this data?",
+    "output": "The AIDS Journal, first published in 1987, belongs to the academic discipline HIV/AIDS, predominantly HIV.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: 83646315 is the LCCN number for Acta Mathematica Hungarica which has the abbreviation of \"Acta Math. Hungar\".\n\nWhat structured data could we extract from this sentence?",
+    "output": "Acta Mathematica Hungarica, LCCN number, 83646315; Acta Mathematica Hungarica, abbreviation, \"Acta Math. Hungar.\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Bacon Explosion, country, United States; Bacon Explosion, mainIngredient, \"Bacon,sausage\"; Bacon Explosion, ingredient, Bacon; Bacon Explosion, course, \"Main course\"; Bacon Explosion, mainIngredient, Sausage\n\nSentence about the following data:",
+    "output": "Bacon Explosion is a main course originating from the United States. The dish's main ingredients are sausage and bacon.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Alan Bean, mission, Apollo 12; Apollo 12, operator, NASA; Alan Bean, occupation, Test pilot; Apollo 12, commander, David Scott\n\nSentence about the following data:",
+    "output": "Test Pilot Alan Bean was a crew member of NASA's Apollo 12 mission under commander David Scott.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Anderson, Indiana is part of Adams Fall Creek, Lafayette, Richland, Union within the United States.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Anderson, Indiana, isPartOf, Indiana; Indiana, country, United States; Anderson, Indiana, isPartOf, \"Adams, Fall Creek, Lafayette, Richland, Union\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The Houston Texans are based in Houston, Texas and was the former team of Akeem Dent.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Houston Texans, city, Texas; Akeem Dent, formerTeam, Houston Texans; Houston Texans, city, Houston",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: 108 St Georges Terrace in Perth, Australia, has 50 floors and was completed in 198 at a cost of 120 million Australian dollars.\n\nWhat structured data could we extract from this sentence?",
+    "output": "108 St Georges Terrace, location, Perth; Perth, country, Australia; 108 St Georges Terrace, completionDate, 1988; 108 St Georges Terrace, cost, \"120 million (Australian dollars)\"; 108 St Georges Terrace, floorCount, 50",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: São José dos Pinhais, isPartOf, South Region, Brazil",
+    "output": "Sao Jose dos Pinhais is part of the South Region, Brazil.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: (15788) 1993 SB, epoch, 2006-03-06; (15788) 1993 SB, discoverer, Roque de los Muchachos Observatory.\n\nWrite a sentence that describes this data",
+    "output": "(15788) 1993 SB has an epoch date of March 6th 2006 and it was discovered by Roque de los Muchachos Observatory.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Barny Cakes, country, France; France, leader, Gérard Larcher; France, language, French language\n\nSentence about the following data:",
+    "output": "Barny cakes may be found in France where the French language is spoken and Gerard Larcher is the leader.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  }
+]

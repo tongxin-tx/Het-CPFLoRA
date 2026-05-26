@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Romania, ethnicGroup, Germans of Romania; Romania, leader, Klaus Iohannis; 1 Decembrie 1918 University, state, Alba; Romania, capital, Bucharest; 1 Decembrie 1918 University, latinName, \"Universitas Apulensis\"; 1 Decembrie 1918 University, country, Romania",
+    "output": "The 1 Decembrie 1918 University (Latin name Universitas Apulensis) is found in the state of Alba, Romania. This country has Bucharest as its capital and the country's leader is Klaus Iohannis. Romania has an ethnic group called Germans of Romania.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Adams County lies to the east of Franklin County and south of Cumberland County, Pennsylvania. Carroll County in Maryland lies to the southeast and Frederick County, Maryland to the southwest. The 11th Mississippi Infantry monument which was completed in 2000 is located in Adams County and categorised as contributing property.\n\nWhat data can be extracted from this sentence?",
+    "output": "Adams County, Pennsylvania, hasToItsWest, Franklin County, Pennsylvania; Adams County, Pennsylvania, hasToItsSoutheast, Carroll County, Maryland; 11th Mississippi Infantry Monument, established, 2000; Adams County, Pennsylvania, hasToItsNorth, Cumberland County, Pennsylvania; Adams County, Pennsylvania, hasToItsSouthwest, Frederick County, Maryland; 11th Mississippi Infantry Monument, category, Contributing property; 11th Mississippi Infantry Monument, location, Adams County, Pennsylvania",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The A-Rosa Luna was built by Neptun Werft, a company located in Rostock, Germany. Norbert Lammert is a leader in Germany and the people that live in the country are called Germans.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Germany, leader, Norbert Lammert; Germany, demonym, Germans; Neptun Werft, city, Rostock; Rostock, country, Germany; A-Rosa Luna, builder, Neptun Werft",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Abraham A. Ribicoff, spouse, Casey Ribicoff; Abraham A. Ribicoff, deathPlace, New York City; Abraham A. Ribicoff, nationality, American; Abraham A. Ribicoff, birthPlace, United States; United States, ethnicGroup, African Americans\n\nWhat is sentence that verbalizes this data?",
+    "output": "Abraham A. Ribicoff was from and was born in the U.S., where African Americans are an ethnic group. Casey Ribicoff was the wife of Abraham A. Ribcoff, who died in New York City.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Aleksey Chirikov (icebreaker), builder, Finland; Aleksey Chirikov (icebreaker), shipBeam, 21.2; Aleksey Chirikov (icebreaker), builder, Helsinki.\n\nGenerate a detailed description of this data",
+    "output": "The icebreaker Aleksey Chirikov, built in Helsinki, Finland, has a 21.2 m ship beam.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Bandeja paisa, ingredient, Fried egg",
+    "output": "Fried egg is an ingredient in bandeja paisa.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: HIV, family, Retrovirus",
+    "output": "HIV comes under the family of Retroviruses.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: GMA New Media, located in the Philippines, makes web sites.\n\nWhat data can be extracted from this sentence?",
+    "output": "GMA New Media, location, Philippines; GMA New Media, product, World Wide Web",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Abilene, Texas, isPartOf, Texas; United States, capital, Washington, D.C.; Abilene, Texas, country, United States; Texas, language, Spanish language.\n\nWrite a sentence that describes this data",
+    "output": "The capital of the United States is Washington DC. Texas is one of the country's states, uses the Spanish language and is the location of Abilene.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Aston Martin V8, relatedMeanOfTransportation, Aston Martin DBS; United Kingdom, leader, Elizabeth II; Aston Martin V8, manufacturer, Aston Martin; Aston Martin V8, assembly, United Kingdom; Aston Martin V8, successor, Aston Martin Virage",
+    "output": "Aston Martin is the manufacturer of the Aston Martin V8 which was assembled in the United Kingdom, where Queen Elizabeth II is the ruler. The Aston Martin DBS is a related means of transport to the Aston Martin V8 which was succeeded by the Aston Martin Virage.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: 3Arena, location, North Wall, Dublin.\n\nWrite a sentence that describes this data",
+    "output": "3Arena is located at North Wall, Dublin.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Austria, leader, Doris Bures; Alfons Gorbach, deathPlace, Graz; Alfons Gorbach, deathPlace, Austria",
+    "output": "Alfons Gorbach dies in Graz, Austria, a country led by Doris Bures.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: United States Army, battle, Whiskey Rebellion",
+    "output": "Whiskey Rebellion was one battle fought in the US.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The location of Alpena County Regional Airport is Maple Ridge Township, Alpena County, Michigan, United States and it has a 1533 meters runway.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Alpena County Regional Airport, location, Maple Ridge Township, Alpena County, Michigan; Alpena County Regional Airport, runwayLength, 1533.0; Maple Ridge Township, Alpena County, Michigan, country, United States",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The runway surface at Atlantic City International Airport is made from asphalt and concrete.\n\nWhat data can be extracted from this sentence?",
+    "output": "Atlantic City International Airport, runwaySurfaceType, \"Asphalt/Concrete\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Akeem Ayers, formerTeam, New England Patriots; Akeem Ayers, position, Linebacker; Akeem Ayers, birthDate, 1989-07-10; Akeem Ayers, debutTeam, Tennessee Titans.\n\nGenerate a detailed description of this data",
+    "output": "Akeem Ayers was born July 10th 1989 and has played linebacker for the Tennessee Titans and the New England Patriots.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Andrew Rayel, associatedBand/associatedMusicalArtist, Jwaydan Moyine; Andrew Rayel, associatedBand/associatedMusicalArtist, Jonathan Mendelsohn; Andrew Rayel, genre, Trance music\n\nWhat is sentence that verbalizes this data?",
+    "output": "Andrew Rayel (a Trance artist) is associated with musicians Jonathan Mendelsohn and Jwaydan Moyine.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Batagor and Shumai are both variation of the dish Siomay, which contains shiitake mushrooms.\n\nWhat data can be extracted from this sentence?",
+    "output": "Batagor, dishVariation, Siomay; Siomay, dishVariation, Shumai; Shumai, ingredient, Shiitake",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Elliot See, almaMater, University of Texas at Austin; Elliot See, status, \"Deceased\"; Elliot See, occupation, Test pilot",
+    "output": "Elliot See went to the University of Texas at Austin and served as a test pilot and is now deceased.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Accademia di Architettura di Mendrisio, country, Switzerland; Accademia di Architettura di Mendrisio, numberOfStudents, 600; Accademia di Architettura di Mendrisio, established, 1996; Accademia di Architettura di Mendrisio, city, Mendrisio; Accademia di Architettura di Mendrisio, location, Ticino; Switzerland, leader, Johann Schneider-Ammann",
+    "output": "The Accademia di Architettura di Mendrisio is located in Mendrisio, Ticino, Switzerland. It has 600 students and it was established in 1996. Switzerland's leader is Johann Schneider-Ammann.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Al Asad Airbase, operatingOrganisation, United States Air Force; United States Air Force, attackAircraft, Lockheed AC-130; United States Air Force, aircraftFighter, General Dynamics F-16 Fighting Falcon; United States Air Force, battle, United States invasion of Panama",
+    "output": "The Lockheed AC-130 (an attack aircraft) and the General Dynamics F-16 Fighting Falcon (aircraft fighter) are both used by the United States Air Force. It was involved in the Invasion of Panama and operates the Al Asad Airbase.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Tomato belongs to the genus Solanum and is an ingredient of Amatriciana sauce.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Tomato, genus, Solanum; Amatriciana sauce, ingredient, Tomato",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: 1000 Piazzia, orbitalPeriod, 488160.0",
+    "output": "The celestial body known as 1000 Piazzia has an orbital period of 488160.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: 1955 Dodge, engine, 230 (cubic inches); 1955 Dodge, bodyStyle, Station wagon",
+    "output": "The 1955 Dodge, has a station wagon style body and an engine that is, 230 cubic inches.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: A Wizard of Mars, mediaType, Hardcover; A Wizard of Mars, author, Diane Duane.\n\nWrite a sentence that describes this data",
+    "output": "A Wizard of Mars is published in Hardcover and the author was Diane Duane.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: A.C. Lumezzane, league, Lega Pro; A.C. Lumezzane, season, 2014–15 Lega Pro; A.C. Lumezzane, numberOfMembers, 4150.\n\nGenerate a detailed description of this data",
+    "output": "A.C. Lumezzane has 4150 members and will play in Lega Pro. Lumezzane played in Lega Pro in 2014-2015.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The manager of A.F.C. Blackpool is Stuart Parker, who played football for Bury FC.\n\nWhat structured data could we extract from this sentence?",
+    "output": "A.F.C. Blackpool, manager, Stuart Parker (footballer); Stuart Parker (footballer), club, Bury F.C.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Alessio Romagnoli, currentclub, A.C. Milan; A.C. Milan, manager, Siniša Mihajlović; A.C. Milan, chairman, Silvio Berlusconi; Alessio Romagnoli, club, Italy national under-17 football team; Alessio Romagnoli, club, A.S. Roma.\n\nGenerate a detailed description of this data",
+    "output": "Alessio Romagnoli is currently with A.C. Milan who are managed by Siniša Mihajlović and the chairman is Silvio Berlusconi. Alessio Romagnoli plays for A.S. Roma and is a member of the Italian national under 17 football team.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Anders Osborne, activeYearsStartYear, 1989",
+    "output": "Anders Osborne's musical career began in 1989.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: AFC Ajax (amateurs), ground, Sportpark De Toekomst; Sportpark De Toekomst, operator, AFC Ajax",
+    "output": "AFC Ajax (amateurs)'s ground, Sportpark De Toekomst, is operated by AFC Ajax.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The Alfa Romeo 164(also known as the 168) is a sedan. It has a Straight four engine and is a luxury class vehicle.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Alfa Romeo 164, bodyStyle, Sedan (automobile); Alfa Romeo 164, class, Luxury vehicle; Alfa Romeo 164, engine, Straight-four engine; Alfa Romeo 164, alternativeName, \"Alfa Romeo 168\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Visvesvaraya Technological University, city, Belgaum; Acharya Institute of Technology, director, \"Dr. G. P. Prabhukumar\"; Acharya Institute of Technology, state, Karnataka; Acharya Institute of Technology, affiliation, Visvesvaraya Technological University",
+    "output": "The Acharya Institute of Technology based in the state of Karnataka has the director Dr. G. P. Prabhukumar. The Institute is affiliated with Visvesvaraya Technological University which is located in the city of Belgaum.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: 1634: The Bavarian Crisis, author, Eric Flint; 1634: The Bavarian Crisis, precededBy, Grantville Gazette III.\n\nWrite a sentence that describes this data",
+    "output": "Eric Flint is the author of 1634: The Bavarian Crisis which was preceded by Grantville Gazette III.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Alfred Moore Scales, successor, Daniel Gould Fowle.\n\nWrite a sentence that describes this data",
+    "output": "Daniel Gould Fowle suceeded Alfred Moore Scales.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Angola International Airport, location, Ícolo e Bengo; Ícolo e Bengo, isPartOf, Luanda Province.\n\nGenerate a detailed description of this data",
+    "output": "Angola International Airport is located at Ícolo e Bengo, part of Luanda Province.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Administrative Science Quarterly (abbreviated to Admin. Sci. Q.) comes under the academic discipline of Management and is published by Cornell University.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Administrative Science Quarterly, publisher, Cornell University; Administrative Science Quarterly, academicDiscipline, Management; Administrative Science Quarterly, abbreviation, \"Admin. Sci. Q.\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: United States, ethnicGroup, Native Americans in the United States; United States, demonym, Americans; Albuquerque, New Mexico, country, United States\n\nSentence about the following data:",
+    "output": "The inhabitants of the United States are known as Americans and include the ethnic group of Native Americans. The country is the location of Albuquerque, New Mexico.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Allama Iqbal International Airport, location, Pakistan; Allama Iqbal International Airport, runwayLength, 3360.12.\n\nGenerate a detailed description of this data",
+    "output": "Allama Iqbal international airport has a runway length of 3360.12 and is located in Pakistan.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Akeem Ayers, formerTeam, Los Angeles Rams",
+    "output": "Akeem Ayers' former team was the Los Angeles Rams.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Alvis Speed 25, transmission, \"single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle\"; Alvis Speed 25, engine, 31.48 tax horsepower; Alvis Speed 25, class, Full-size car",
+    "output": "The Alvis Speed 25 has an engine capable of 31.48 horsepower and an impressive transmission consisting of a single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints, and spiral bevel fully floating back axle. It is a full size car.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Andrew Rayel, associatedBand/associatedMusicalArtist, Mark Sixma\n\nWhat is sentence that verbalizes this data?",
+    "output": "Musicians, Andrew Rayel and Mark Sixma, are associates.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: The Secret Scripture, publisher, Faber and Faber; A Long Long Way, followedBy, The Secret Scripture",
+    "output": "The novel A Long Long Way was followed by The Secret Scripture published by Faber and Faber.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: 1099 Figneria, temperature, 156.0 (kelvins)",
+    "output": "The celestial body known as 1099 Figneria has a temperature of 156 kelvins.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Azerbaijan, leader, Artur Rasizade; Azerbaijan, capital, Baku; Azerbaijan, leaderTitle, Prime Minister of Azerbaijan; Baku Turkish Martyrs' Memorial, location, Azerbaijan.\n\nGenerate a detailed description of this data",
+    "output": "Prime Minister of Azerbaijan is Artur Rasizade with the official title of the leader of Azerbaijan. The Baku Turkish Martyrs' Memorial is located in Baku, the capital of Azerbaijan.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Caterpillar Inc., keyPerson, Douglas R. Oberhelman; Caterpillar Inc., location, Illinois; AIDAluna, powerType, Caterpillar Inc.",
+    "output": "AIDAluna is powered by Caterpillar Inc located in Illinois where Douglas R Oberhelman is a key person.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Italy, capital, Rome; A.S. Gubbio 1910, ground, Italy",
+    "output": "The ground of A.S. Gubbio 1910 is located in Italy, which has Rome as its capital.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Quezon City, type, Cities of the Philippines",
+    "output": "Quezon City is one of the cities of the Philippines.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Alcatraz Versus the Evil Librarians, mediaType, Hardcover; Alcatraz Versus the Evil Librarians, numberOfPages, \"320\"; Alcatraz Versus the Evil Librarians, isbnNumber, \"0-439-92550-9\"",
+    "output": "Alcatraz Versus the Evil Librarians is published in Hardcover and is 320 pages long. It has the ISBN number of 0-439-92550-9.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: AEK Athens F.C. is in the Superleague of Greece, where their ground is located.\n\nWhat data can be extracted from this sentence?",
+    "output": "AEK Athens F.C., ground, Greece; AEK Athens F.C., league, Superleague Greece",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Austin, Texas, country, United States; Austin, Texas, leaderTitle, City Manager; United States, ethnicGroup, African Americans\n\nWhat is sentence that verbalizes this data?",
+    "output": "The city manager is the leader of Austin, Texas, in the United States. A country with many ethnic groups, one of which is African Americans.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  }
+]

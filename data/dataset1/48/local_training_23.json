@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Can anyone lend me thier panty?\nWhat is the biggest threat to Apple?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What’s the best resting time for colored french macaron? I get macarons that lift from 1 side only if colored, while my white ones lift perfectly\n\nAm I the only one to realize that the sky in winter is a deep blue while the sky in summer is a bluish white color?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Can I use castor oil for hair dandruff?\nHow is castor oil used to grow hair?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Which is the funniest movie you have ever watched?\nQuestion 2: What is the worst movie you've ever watched?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "A friend and I are planning on starting an investment club. What recommendations, thoughts, and resources would you say we should consider?\n\nWhy do professional tennis players blow on their racquet hand between points?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What are an Indian's chances of getting a job in New Zealand?\n\nWhat are an Indian's chances of getting a job in Canada/New Zealand?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What is the difference between current and voltage harmonics?\nQuestion 2: What is a current source and what are the differences between voltage source and current source?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How one can grow weight?\nWhat is the most expensive thing you would consider buying from eBay?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat purpose were hashtags originally used for on phones, as opposed to now being used as prefix on Twitter & Instagram?\nIs there any way to see which hashtags have been most used by a specific Twitter user?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What are some best podcasts?\nQuestion 2: What are the best podcasts for medicine?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Who are the top 10 richest people of India?\nQuestion 2: Who are the top 100 richest people in world?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What is the scariest zonbie horror movie?\nQuestion 2: What are some of the best horror movies?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the mezzanine of a theater used for?\nWhat is the mezzanine in a theater?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Were do we find maple syrup and cayenne pepper in bangalore?\nQuestion 2: How is maple syrup made?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the Dr. Nowazardan pre-op diet?\n\nWhat are the meal plans for the Dr.Moreno's 17 day diet?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Did the medieval Turks/Persians/Arabs/Muslims/Jews use the scientific method?\nQuestion 2: Did the Ancient Greeks use the scientific method?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Does Google store custom status messages that we set on gtalk?  If yes, Will we be able to access it even after clearing the custom messages locally?\n\nWill a person be able to read my message that was sent through Facebook with iMessage if we aren't friends?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat would the U.S. do if Iran launched a nuclear strike at it, but was destroyed mid-flight?\nIf Israel pre-emptively strikes against Iran's nuclear facilities, what is the U.S. response according to Realism theory?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Is it legal in Washington for a third party person to screen shot two other peoples conversation and share it without either persons concent?\nIn cases where it is legal to advertise a job for one gender only eg. personal care for vulnerable people, how are transgender people treated?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What are supplementary comments? What are some examples?\nQuestion 2: What are some examples of supplementary comments?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: What do logical fallacies do?\nSecond question: What are five logical fallacies?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Is Rio de Janeiro the capital of Brazil?\nHow safe is the city of Rio de Janeiro in Brazil?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWho are the best music artists with an 8-bit music sound?\nWhat is sound therapy? What kind of sounds or music are best to relieve physical pain?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Which are the best torrent sites?\nQuestion 2: What is the best torrent site for soundtracks?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What are the differences between an iPod and other mp3 players?\n\nCan we assemble and install a MP3 player or iPod by ourselves?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nIs Google Glass a flop?\nWill Google Glass flop?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Rigid rotar equation?\nQuestion 2: How can I create a dashboard that displays my consumer and color the cells for whom didn't buy for a long time?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Which website would you recommend to learn Manual Testing?\nQuestion 2: How can I start learning about manual testing in a practical manner?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWho are some people who were historically seen as horrible people but were heroes in reality?\nWho are some people historically seen as heroes who were horrible people in reality?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How can I find out my drivers license number using my name and ssn online 100% free?\n\nWhat's the best way to get my driver’s license number and information if I lost my driver’s license and need the number now?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Is there any famous story of an IITian who has cheated in IIT-JEE?\nDo IITians cheat in exams? If yes, how?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: How does the food chain in Grizzly bears and Kodiak bears differ?\nQuestion 2: Can cooperative housing society treat their members’ commercial car differently?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is one thing you would change about yourself if you could?\n\nWhat is one thing you would never change about yourself?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What makes something philosophical?\n\nWhat makes one a philosopher?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "My app in Google playstore is downloaded nearly 1000 times, but it is still showing 100-500 downloads. Is there any particular reason for that?\nHow much do the apps/games in the Google Play Store make on average? Or do they start paying off after a particular no. of downloads?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the best career choice for an average student?\n\nWhat are good college choices for computer science for a student with a B average in high school but reasonably high SAT scores?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do you think that the sun is the biggest star in the universe?\nWhat is the largest known star?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: What is the logic behind SQL select query ?\nSecond question: How do penguins adapt? What are the adaptations they face?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How do I check the grade of stainless steel 304 or 202?\nWhat is 304 stainless steel?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhich processor in AMD is equivalent to Intel i3 or i5 (4th generation) in gaming ?\nWhy can't we use more then one CPU in a game PC? Isn't it possible to make 2 work together?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: How do tactile telekinesis and telekinesis differ?\nSecond question: What is tactile telekinesis?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: What are some interesting facts about the Harry Potter series?\nSecond question: Who is Odo that they sang about in Harry Potter book series?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why would basses be put in the back of an orchestra?\nIf the leader of an orchestra wasn't around and someone got up there and started to BS hand movements, how much would it throw the orchestra off?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWho are the most underrated actors and actresses in Bollywood?\nWho are the two most underrated actors in Bollywood and Hollywood?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why I don't believe in myself?\n\nWhat can I do to believe in myself?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Jan. 2015 - What is the significance of the fossil jawbone found in Ethiopia recently?\nWhat are some fossils found in Wisconsin's state? How were they found?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhy China don't want to follow United nations tribunal court decision but advocate international laws when it comes to other country?\nWhy does the U.S. recognise the Private & Black Box Operated Arbitration as an International law, but oppose the UN International Court of Justice?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How do I apply for a duplicate 10th standard certificate from CBSE?\nFrom which year CBSE class 10th exam be reintroduced? My sister is going to appear in CBSE 10th exam for year 2016-17. Will it be applicable for her?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How do I stop myself from expecting too much from others?\nHow do I stop expecting too much from myself?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nCan a woman get pregnant a few days before her period and still have period?\nCan I be pregnant even after having a period?\n\nOPTIONS:\n- no\n- yes",
+    "output": "no",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Question 1: Where can I find the solution manual of software engineering a practitioner's approach 7th edition?\nQuestion 2: Where can I find to solution manual of software engineering a practitioner's approach 7th edition?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Why is YouTube loading slowly?\nQuestion 2: Why is YouTube so slow?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What causes the high level of tornado activity in Tornado Alley?\n\nWhy do tornadoes occur in Tornado Alley?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Can I use olive oil as a moisturizer?\nHow can I know what kind of olive oil is the best for my skin?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nI am in love with a girl, but she has a boyfriend, what do I do?\nI love a girl who already has a boyfriend but she says she loves me too. What should I do?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How possible is it to get pregnant one day after my 3 day period?\n\nCan I get pregnant a couple hours before I got my period?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What is the best thing any one has ever done for you?\nQuestion 2: What is the best thing someone ever did for you?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What interesting things does Tokyo have?\nQuestion 2: What are the strangest and most interesting things that the Tokyo area has to offer?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What will most likely cause World War III?\n\nIf there was a world war III around this time period what would most likely be the start of it?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhere can I get different fabric types, and printer options on lanyards in Melbourne?\nWhere can I get various types of custom lanyards in Melbourne?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWho is going to win the presidential election?\nWho is most likely to win the U.S. presidential election and why?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why is Apple’s Siri better than Microsoft’s Cortana?\nWhich is a better assistant, Cortana or Siri or Google Now?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Does resistance change with temperature?\n\nWhat is resistance temperature coefficient?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Which is the best book/resource to learn Python programming language?\nQuestion 2: Which book is the best Python programming?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhat is your favorite music genre? Why?\nWhat is your favorite music genre and why?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What do you think of Mr. Modi's decision to discontinue Rs 500 and 1000 currencies as of midnight November 8th?\nWhat do you think of the decision by the Indian Government to demonetize 500 and 1000 rupee notes?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the difference between a public sector unit job and a government job?\n\nAre public sector jobs and government jobs the same? If not the same, then what is the difference between them?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Why did Ratan Tata remove Cyrus Mistry?\nQuestion 2: Why has the Tata Sons Board voted to remove Cyrus Mistry as chairman?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the difference between email and Gmail?\n\nWhat is the difference between Gmail and email?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is difference between supercharging and turbocharging?\nWhat is the difference between supercharger and turbocharger?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why is Quora awesome?\n\nWhy the Quora is so awesome?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What could be the effect of GST bill on Indian economy?\nQuestion 2: How GST will affect Indian economy after it is enacted?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: Why is Filipino food not popular worldwide outside of Filipino communities?\nSecond question: Why is Filipino food underrated in America?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nHow hard is it to play the ukulele?\nHow hard is it to play ukulele?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Can Trump actually force Mexico to pay for the wall?\n\nHow will Mexico pay for wall?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: How is it like to have a huge penis?\nQuestion 2: What is it like to have a huge penis?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Can I live without money?\n\nIs it possible to live without money?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nIs Getting Fund For StartUp is Good or Bad and How?\nIs getting funded really good for your startup?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Where can I get list of stylish collection of designer floor tiles in Sydney?\nQuestion 2: Where can I get huge selection of floor tiles in Sydney?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: Is the ongoing war in Syria is the start of World War 3?\nSecond question: Is Syria the 'main stage' for a Third World War?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: How do I know when I get my first period?\nSecond question: How can I know when I just had my first period?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do ghosts really exists?\n\nIs there any ghosts in real life?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Why is Pakistan not accepting that any surgical strikes happened?\nQuestion 2: What is the reason behind Pakistan denying the surgical strikes by India?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How to get job at Google as software engineer?\n\nHow can I get into Google as a software engineer?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: Is there a cure for muscular dystrophy?\nSecond question: Is there any cure for muscular dystrophy?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhy is Saltwater Taffy candy imported in Hong Kong?\nWhy are American Saltwater Taffy candies imported in Japan?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why has the Tata Sons Board voted to remove Cyrus Mistry as chairman?\nWhy did Tata group fire Cyrus Mistry from chairman post?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Which brands' motherboard is the best now?\nQuestion 2: Which company is the best motherboard manufacture?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the best whey protein in India while loosing weight for a fat guy?\n\nWhich are the best whey protein brands in India?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: How can I see who viewed my Instagram video?\nSecond question: How can I see who viewed my video I just posted on Instagram?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat are the safety precautions on handling shotguns proposed by the NRA in Vermont?\nWhat are the safety precautions on handling shotguns proposed by the NRA in Maryland?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Does the UN really have much power?\nDoes the UN have any real power?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What are the best pickup line(s) you've ever heard?\nQuestion 2: What are the best pickup lines you've ever heard?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: Do you think Virat Kohli can better Sachin's record?\nSecond question: The way Virat Kohli is playing, do you thing he can break Sachin's record?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: When will Spotify launch it's services in INDIA?\nQuestion 2: Daniel Ek: When will spotify be available in India?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What does it mean if you urinate blood?\nQuestion 2: What should I do if I am peeing blood?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "I'm 18. How can I make money online?\n\nCan I make money online?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Should I leave a tip when I just order take out at a fancy restaurant?\nWhen placing a telephone order for collection from a restaurant, do you leave a tip when collecting your order?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the fastest possible way to lose weight?\nHow should one change their diet to lose weight?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nAre admitted degree candidates at Harvard Extension considered Harvard University students via the Division of Continuing Education?\nIf you’re an admitted degree candidate at Harvard Extension, are you considered a Harvard University student via the Division of Continuing Education?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  }
+]

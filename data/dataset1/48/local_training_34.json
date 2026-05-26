@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Sentence: India is the origin of Bhajji, a dish that includes: gram flour and vegetables.\n\nWhat data can be extracted from this sentence?",
+    "output": "Bhajji, country, India; Bhajji, mainIngredient, \"Gram flour, vegetables\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Al Asad Airbase, runwayLength, 3992.88; Al Asad Airbase, location, \"Al Anbar Province, Iraq\"",
+    "output": "The Al Asad Airbase is situated in the Al Anbar Province, Iraq and has a runway length of 3,992.88.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: A Loyal Character Dancer, country, United States; United States, ethnicGroup, Native Americans in the United States.\n\nWrite a sentence that describes this data",
+    "output": "In almost unrelated facts both the Native Americans ethnic group and the book A Loyal Character Dancer originate in the USA.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Akeem Ayers, formerTeam, New England Patriots; Akeem Ayers, position, Linebacker; Akeem Ayers, birthDate, 1989-07-10; Akeem Ayers, debutTeam, Tennessee Titans",
+    "output": "Linebacker, Akeem Ayers, was born on 10th July 1989. His former team is the New England Patriots and he made his debut for the Tennessee Titans.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Abraham A Ribicoff is from the United States.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Abraham A. Ribicoff, nationality, United States",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: 101 Helena, discoverer, James Craig Watson; James Craig Watson, almaMater, University of Michigan; James Craig Watson, nationality, Canada; James Craig Watson, deathPlace, Madison, Wisconsin; 101 Helena, apoapsis, 441092000.0 (kilometres)",
+    "output": "101 Helena has an apoapsis of 441092000.0 kilometres and was discovered by James Craig Watson. Watson is a Canadian National and studied at the University of Michigan and died in Madison, Wisconsin.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: African Americans are an ethnic group in the US, where English is spoken and where Barack Obama is the leader. Albuquerque, New Mexico, led by Albuquerque City Council, is located in the United States.\n\nWhat structured data could we extract from this sentence?",
+    "output": "United States, ethnicGroup, African Americans; United States, language, English language; United States, leader, Barack Obama; Albuquerque, New Mexico, leaderTitle, Albuquerque City Council; Albuquerque, New Mexico, country, United States",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Alessio Romagnoli, currentclub, A.C. Milan; A.C. Milan, manager, Siniša Mihajlović; A.C. Milan, chairman, Silvio Berlusconi; Alessio Romagnoli, club, U.C. Sampdoria\n\nWhat is sentence that verbalizes this data?",
+    "output": "Alessio Romagnoli plays for U.C. Sampdoria, which is managed by Siniša Mihajlović and the chairman is Silvio Berlusconi. A.C. Milanis the current club of Alessio Romagnoli.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Agra Airport is located in Uttar Pradesh and has the IATA Location Identifier of AGR.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Agra Airport, location, Uttar Pradesh; Agra Airport, iataLocationIdentifier, \"AGR\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Abel Caballero, inOfficeWhileMonarch, Juan Carlos I of Spain; Juan Carlos I of Spain, predecessor, Alfonso XIII of Spain; Abel Caballero, birthPlace, Spain",
+    "output": "Born in Spain, Abel Caballero was in office during the reign of Monarch, Juan Carlos I of Spain, who preceded Alfonso XIII of Spain.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Allama Iqbal International Airport, location, Pakistan; Allama Iqbal International Airport, runwayLength, 3310.0; Allama Iqbal International Airport, operatingOrganisation, Pakistan Civil Aviation Authority; Allama Iqbal International Airport, cityServed, Lahore; Allama Iqbal International Airport, runwayName, \"18R/36L\".\n\nWrite a sentence that describes this data",
+    "output": "Allama Iqbal International airport, located in Pakistan, is operated by The Pakistan Civil Aviation Authority. The airport serves the city of Lahore. The runway - 18R/36L - measures a length of 3310.0.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Aston Martin V8, bodyStyle, Coupé",
+    "output": "The Aston Martin V8's body style is the Coupé.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Albany, Georgia, isPartOf, Georgia (U.S. state); United States, demonym, Americans; United States, ethnicGroup, Asian Americans; Albany, Georgia, leaderTitle, Mayor; Albany, Georgia, country, United States",
+    "output": "Led by a Mayor, Albany, Georgia is in the United States, where Americans live, and where Asian Americans are an ethnic group.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Amarillo Texas is part of Randall County, Texas in the U.S. Washington is the capital in that country and one ethnic group there are known as African Americans.\n\nWhat data can be extracted from this sentence?",
+    "output": "Amarillo, Texas, isPartOf, Randall County, Texas; United States, capital, Washington, D.C.; Amarillo, Texas, country, United States; United States, ethnicGroup, African Americans",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Alfredo Zitarrosa died in Montevideo, the leader of which, is Daniel Martinez. Montevideo is in Uruguay which is led by Tabaré Vázquez.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Uruguay, leader, Tabaré Vázquez; Alfredo Zitarrosa, deathPlace, Montevideo; Montevideo, country, Uruguay; Montevideo, leader, Daniel Martínez (politician)",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: London, leaderTitle, European Parliament",
+    "output": "European Parliament is the leader of London.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Alpena County Regional Airport, runwayLength, 2744.0",
+    "output": "The runway length of Alpena County Regional Airport is 2744.0.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Hip hop music, derivative, Drum and bass.\n\nWrite a sentence that describes this data",
+    "output": "Drum and bass derives its sounds from hip hop music.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Andrew Rayel, associatedBand/associatedMusicalArtist, Mark Sixma; Andrew Rayel, associatedBand/associatedMusicalArtist, Christian Burns; Andrew Rayel, genre, Trance music\n\nSentence about the following data:",
+    "output": "The musical genre of Andrew Rayel is trance music. Andrew Rayel is associated with Mark Sixma and Christian Burns.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Alex Tyus, birthPlace, St. Louis; St. Louis, isPartOf, French First Republic; St. Louis, leader, Francis G. Slay",
+    "output": "Alex Tyus was born is St. Louis, which is part of the French First Republic and the leader is Francis G. Slay.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Atlas II, finalFlight, 2002-12-05",
+    "output": "The final flight of Atlas II took place on the 5th December 2002.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Ardmore Airport (New Zealand), 3rdRunwaySurfaceType, Poaceae; Ardmore Airport (New Zealand), runwayName, \"07/25\"",
+    "output": "New Zealand's Ardmore Airport has a runway named 07/25 and its 3rd runway has a Poaceae surface.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: AEK Athens F.C. manager is Gus Poyet who played for Chelsea F.C.\n\nWhat data can be extracted from this sentence?",
+    "output": "AEK Athens F.C., manager, Gus Poyet; Gus Poyet, club, Chelsea F.C.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Born in New Britain, Connecticut, Abraham A. Ribicoff, was the Governor of Connecticut and his successor was, John N. Dempsey.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Abraham A. Ribicoff, successor, John N. Dempsey; Abraham A. Ribicoff, birthPlace, New Britain, Connecticut; Abraham A. Ribicoff, office, \"Governor of Connecticut\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Anders Osborne, associatedBand/associatedMusicalArtist, Johnny Sansone; Anders Osborne, occupation, Singing; Anders Osborne, recordLabel, Rabadash Records; Anders Osborne, genre, Rock music; Rock music, musicFusionGenre, Bhangra (music)",
+    "output": "Anders Osborne is a rock music singer signed to Rabadash Records and associated with Johnny Sansone. Bhangra is a fusion of rock music.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Abdulsalami Abubakar, successor, Olusegun Obasanjo; Abdulsalami Abubakar, birthPlace, Niger State; Abdulsalami Abubakar, almaMater, Technical Institute, Kaduna; Abdulsalami Abubakar, office, Chief of the Defence Staff (Nigeria)",
+    "output": "Abdulsalami Abubakar, who was a student at Technical Institute in Kaduna, was the Chief of the Defence Staff in Nigeria. He was born in Niger State and was succeeded by Olusegun Obasanjo.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Ajoblanco, country, Spain; Ajoblanco, region, Andalusia; Ajoblanco, ingredient, Olive oil\n\nSentence about the following data:",
+    "output": "Ajoblanco is made from Olive oil and is found in Andalusia in Spain.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: 14th New Jersey Volunteer Infantry Monument, established, \"1907-07-11\".\n\nWrite a sentence that describes this data",
+    "output": "The 14th New Jersey Volunteer Infantry Monument was established on July 11th, 1907.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Germany, demonym, Germans; Neptun Werft, city, Rostock; Germany, leader, Joachim Gauck; Rostock, country, Germany; A-Rosa Luna, builder, Neptun Werft\n\nSentence about the following data:",
+    "output": "Joachim Gauck is the leader of Germany where the inhabitants are known as Germans. Neptun Werft, who built the A-Rosa Luna, is located in the country in Rostock.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: 1036 Ganymed, discoverer, Walter Baade; Walter Baade, deathPlace, Göttingen; Walter Baade, almaMater, University of Göttingen; Walter Baade, doctoralStudent, Allan Sandage",
+    "output": "1036 Ganymed was discovered by Walter Baade, who died in Gottingen. His alma mater was the University of Gottingen and Allan Sandage was his doctoral student.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Alfredo Zitarrosa, genre, Candombe; Alfredo Zitarrosa, background, \"solo singer\"\n\nSentence about the following data:",
+    "output": "Alfredo Zitarrosa's background includes solo singing and his musical genre is Candombe.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: 109 Felicitas, mass, 7.5 (kilograms); 109 Felicitas, discoverer, Christian Heinrich Friedrich Peters; 109 Felicitas, epoch, 2006-12-31; 109 Felicitas, orbitalPeriod, 139705000.0; 109 Felicitas, apoapsis, 523329000.0 (kilometres)\n\nSentence about the following data:",
+    "output": "109 Felicitas, discovered by Christian Heinrich Friedrich Peters, has a mass of 7.5 kgs, an epoch date of December 31st 2006, an orbital period of 139705000.0, and an apoapsis of 523329000.0 kilometres.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: 1. FC Köln, season, 2014; 1. FC Köln, numberOfMembers, 50000",
+    "output": "1. FC Köln has 50000 members and played in the 2014 season.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: 1101 Clematis, epoch, 2006-12-31; 1101 Clematis, mass, 5.7 (kilograms)",
+    "output": "The epoch of 1101 Clematis is on the 31st of July 2016 and it has a mass of 5.7 kilograms.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Alan B. Miller Hall, owner, College of William & Mary; College of William & Mary, chancellor, Robert Gates; Alan B. Miller Hall, tenant, Mason School of Business; Mason School of Business, country, United States",
+    "output": "The Mason School of Business is a tenant of the Alan B. Miller Hall in The United States which is owned by the College Of William and Mary where Robert Gates once served as chancellor.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: United States, language, English language; United States, capital, Washington, D.C.; Albany, Oregon, isPartOf, Benton County, Oregon; Albany, Oregon, country, United States; United States, ethnicGroup, Native Americans in the United States.\n\nWrite a sentence that describes this data",
+    "output": "Albany is part of Benton County, Oregon in the U.S. Washington, D.C. is the capital of the U.S and English is its official language. The Native Americans are an ethnic group within the United States.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Lancia Thema, relatedMeanOfTransportation, Saab 9000; Alfa Romeo 164, relatedMeanOfTransportation, Lancia Thema",
+    "output": "The Lancia Thema is related to the Saab 9000 and the Alfa Romeo 164.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The Acharya Institute of Technology in Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore - 560090, India was established in 2000. Its president is B.M. Reddy. It is associated with the Visvesvaraya Technological University in Belgaum.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Acharya Institute of Technology, president, \"B.M. Reddy\"; Visvesvaraya Technological University, city, Belgaum; Acharya Institute of Technology, established, 2000; Acharya Institute of Technology, country, \"India\"; Acharya Institute of Technology, campus, \"In Soldevanahalli, Acharya Dr. Sarvapalli Radhakrishnan Road, Hessarghatta Main Road, Bangalore – 560090.\"; Acharya Institute of Technology, affiliation, Visvesvaraya Technological University",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: 1634: The Bavarian Crisis, mediaType, \"Print\".\n\nGenerate a detailed description of this data",
+    "output": "1634: The Bavarian Crisis is available in print form.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The British Hong Kong representative is Chris Patten.\n\nWhat data can be extracted from this sentence?",
+    "output": "British Hong Kong, representative, Chris Patten",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: 103 Colmore Row, architect, John Madin; John Madin, origin, Birmingham; Birmingham, leader, John Clancy (Labour politician)",
+    "output": "Birmingham, which is led by the Labour politician John Clancy, is the home town of the architect John Madin who designed 103 Colmore Row.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: 20 Fenchurch Street, location, United Kingdom; United Kingdom, demonym, British people; United Kingdom, currency, Pound sterling.\n\nGenerate a detailed description of this data",
+    "output": "20 Fenchurch Street is located within the United Kingdom whose natives are called British people and whose currency is Pound sterling.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Aleksandr Prudnikov, club, FC Kuban Krasnodar; Aleksandr Prudnikov, club, FC Tom Tomsk",
+    "output": "Aleksandr Prudnikov's club is FC Tom Tomsk and he also plays for FC Kuban Krasnodar.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Albuquerque, New Mexico, populationDensity, 1142.3 (inhabitants per square kilometre); Albuquerque, New Mexico, leaderTitle, New Mexico Senate; Albuquerque, New Mexico, areaTotal, 490.9 (square kilometres)",
+    "output": "Albuquerque, New Mexico, has a population density of 1142,3 inhabitants per square kilometre and a total area of 490.9 sq. km. The New Mexico Senate is the political party in Albuquerque.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Alvah Sabin, office, Secretary of State of Vermont; Alvah Sabin, successor, Homer Elihu Royce; Alvah Sabin, birthPlace, Georgia, Vermont; Alvah Sabin, birthDate, 1793-10-23",
+    "output": "Alvah Sabin was born in Georgia, Vermont on October 23rd, 1793. He worked as the Secretary of the State of Vermont and was succeeded by Homer Elihu Royce.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: China, language, Standard Chinese",
+    "output": "Standard Chinese is a language in China.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Abilene Regional Airport, runwayName, \"17L/35R\"\n\nWhat is sentence that verbalizes this data?",
+    "output": "Abilene Regional Airport runway name is 17L/35R.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Alfred Moore Scales, battle, Siege of Petersburg; Siege of Petersburg, isPartOfMilitaryConflict, American Civil War\n\nWhat is sentence that verbalizes this data?",
+    "output": "Alfred Moore Scales took part in the Siege of Petersburg which occurred during the American Civil War.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Alex Day, genre, Synthpop; Alex Day, background, \"solo singer\"; Synthpop, derivative, House music; Synthpop, stylisticOrigin, Disco",
+    "output": "Alex Day uses the Synthpop genre and he is a solo singer. Synthpop is a musical derivative of house and disco musics.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Switzerland, anthem, Swiss Psalm.\n\nGenerate a detailed description of this data",
+    "output": "The anthem of Switzerland is called the Swiss Psalm.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Then that man knows how to bring the fruit to a higher perfection answered the family Each melon was splendid\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "\"Then that man knows how to bring the fruit to a higher perfection!\" answered the family. \"Each melon was splendid.\"",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Latest visit 4 August 2007 0949\n\nAdd punctuation",
+    "output": "Latest visit 4 August 2007 09:49",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Latest visit 28 February 2009 1144\n\nPlease fix the punctuation.",
+    "output": "Latest visit 28 February 2009 11:44",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: You will be asked to vacate the cottage on departure to 10 clock",
+    "output": "You will be asked to vacate the cottage on departure to 10 clock!",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\ncumshot compilation compilation German Italian cumshot",
+    "output": "cumshot compilation, compilation, German, Italian, cumshot",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: My name is Robert G Miller I was diagnosed in July 1988 with stage 4 nodular and diffuse NonHodgkins lymphoma",
+    "output": "My name is Robert G. Miller. I was diagnosed in July 1988 with stage 4, nodular and diffuse Non-Hodgkins lymphoma.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "you kindly would make available or this website Please do so by proceeding\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "you kindly would make available or this website, Please do so by proceeding",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "This packing roller is working as depth control and ensures a perfect consolidation of grassland\n\nAdd punctuation",
+    "output": "This packing roller is working as depth control and ensures a perfect consolidation of grassland.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Ancient Monuments photos of Ancient Monuments Temple of Kom Ombo  travels",
+    "output": "Ancient Monuments, photos of Ancient Monuments, Temple of Kom Ombo - travels",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "In the Viking Age it was not uncommon to bury silver hoards\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "In the Viking Age it was not uncommon to bury silver hoards.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "But what if it is not a habit for them\n\nCould you correct the punctuation please?",
+    "output": "But what if it is not a habit for them?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Wrong Why  the incorrectly identified outness which when applied does not lead to recovery\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "Wrong Why = the incorrectly identified outness which when applied does not lead to recovery.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Warranty conditions Nike GPS Sportwatch\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "Warranty conditions: Nike+ GPS Sportwatch",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The car is built according to the homologation certificate which the factory defines for the cars used for rally It takes approximately 600 hours to build the car  after that it is ready for the first test drive\n\nPlease fix the punctuation.",
+    "output": "The car is built according to the homologation certificate, which the factory defines, for the cars used for rally. It takes approximately 600 hours to build the car - after that it is ready for the first test drive.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "who did give himself for us that he might ransom us from all lawlessness and might purify to himself a peculiar people zealous of good works\n\nCould you correct the punctuation please?",
+    "output": "who did give himself for us, that he might ransom us from all lawlessness, and might purify to himself a peculiar people, zealous of good works;",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nKY023 Cash benefits by unit type of benefits and visitation 20072015",
+    "output": "KY023 Cash benefits by unit, type of benefits and visitation (2007-2015)",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: But in the later 1950s the US Senate Labor Committee under the chairmanship of John McClellan which had been investigating corruption in American labor unions began to investigate Dave Beck and the Teamsters Union Robert Kennedy was the Committee counsel responsible for this investigation",
+    "output": "But in the later 1950's the U.S. Senate Labor Committee under the chairmanship of John McClellan which had been investigating corruption in American labor unions began to investigate Dave Beck and the Teamsters Union. Robert Kennedy was the Committee counsel responsible for this investigation.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "31 So let all thine enemies perish O LORD but let them that love him be as the sun when he goeth forth in his might And the land had rest forty years\n\nCould you correct the punctuation please?",
+    "output": "31 So let all thine enemies perish, O LORD: but let them that love him be as the sun when he goeth forth in his might. And the land had rest forty years.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "In the autumn of 1903 at age nine he was sent to school again this time to Ayer High School\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "In the autumn of 1903, at age nine, he was sent to school again, this time to Ayer High School.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Payment must be made according to t he payment terms specified on the invoice\n\nCould you correct the punctuation please?",
+    "output": "Payment must be made according to t he payment terms specified on the invoice.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Meditative exercises should be performed in a quiet place preferably outdoors or in a separate room Noise of vehicles loud laughter or a scandal over the wall the possible invasion of the premises of others is unacceptable\n\nPlease fix the punctuation.",
+    "output": "Meditative exercises should be performed in a quiet place, preferably outdoors or in a separate room. Noise of vehicles, loud laughter or a scandal over the wall, the possible invasion of the premises of others is unacceptable.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Room facilities Bath or Shower Bathroom Carpeted Desk Electric kettle Flatscreen TV Free toiletries Hairdryer Heating Ironing Facilities Radio Shower TeaCoffee Maker Telephone Toilet Wake Up ServiceAlarm Clock\n\nPlease fix the punctuation.",
+    "output": "Room facilities: Bath or Shower, Bathroom, Carpeted, Desk, Electric kettle, Flat-screen TV, Free toiletries, Hairdryer, Heating, Ironing Facilities, Radio, Shower, Tea/Coffee Maker, Telephone, Toilet, Wake Up Service/Alarm Clock",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Two years after the end of World War II at the age of sixty Anderson accepted the chair of economics at the University of Munich",
+    "output": "Two years after the end of World War II, at the age of sixty, Anderson accepted the chair of economics at the University of Munich.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Parts and accessories for instruments and appliances used in geodesy topography photogrammetrical surveying hydrography oceanography hydrology meteorology or geophysics and for rangefinders nes\n\nAdd punctuation",
+    "output": "Parts and accessories for instruments and appliances used in geodesy, topography, photogrammetrical surveying, hydrography, oceanography, hydrology, meteorology or geophysics, and for rangefinders n.e.s.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Made in Milan c 1580 Flintlock musket\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "Made in Milan c. 1580. Flint-lock musket",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: In a chronic oral rat study was found a NOAEL of 462 mgkg bwday cf Lijinski and Kovatch 1986 above",
+    "output": "In a chronic oral rat study was found a NOAEL of 462 mg/kg bw/day (cf. Lijinski and Kovatch 1986 above).",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Art need no longer be boring to be serious sensitivity did not rule either irony or twinkle originality was appreciated diversity grew and creativity flourished",
+    "output": "Art need no longer be boring to be serious, sensitivity did not rule either irony or twinkle originality was appreciated, diversity grew, and creativity flourished.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "FIRST  Dessngspel When you in advance talking about what one wants to go in a hole but you do not mention how the balls to go\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "@ FIRST = Dessängspel: When you in advance talking about what one wants to go in a hole, but you do not mention how the balls to go.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "When using the site materials reference to the source\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "When using the site materials reference to the source!",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "3  Write down command on the needed button just hold mouse pointer within button rectangle\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "3 - Write down command on the needed button (just hold mouse pointer within button rectangle).",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: It may be played in denominations of 01 05 25 50 1 and 5 To play put money in the machine by clicking on the chips in the lower right corner and press Bet Max This will play the maximum bet 9 paylines and 45 coins giving you the maximum chance to win and automatically spins the reels",
+    "output": "It may be played in denominations of $.01, $.05, $.25, $.50, $1, and $5. To play, put money in the machine by clicking on the chips in the lower right corner and press “Bet Max.” This will play the maximum bet (9 paylines and 45 coins), giving you the maximum chance to win and automatically spins the reels.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: The Bible is our Makers INSTRUCTION MANUAL which He has sent along with the product of HIS making  humanity",
+    "output": "The Bible is our Maker’s INSTRUCTION MANUAL which He has sent along with the product of HIS making – humanity.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: What is Limited User",
+    "output": "What is Limited User?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Well I suppose I must tell you now he replied two of my daughters must prepare themselves to be married for the marriages certainly will take place",
+    "output": "Well, I suppose I must tell you now, he replied; two of my daughters must prepare themselves to be married, for the marriages certainly will take place.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The fighting had French and Belgian troops sent to Rwanda to protect civilians but was open to the regime\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "The fighting had French and Belgian troops sent to Rwanda to protect civilians, but was open to the regime.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: The windpenetrable fabric is printed on one side in the socalled sublimation method  ie the print is transparent like usual flags",
+    "output": "The wind-penetrable fabric is printed on one side in the so-called sublimation method , i.e., the print is transparent, like usual flags.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nWe look forward to cooperating with Lars Mikkel and the companys management team says Erik Holm",
+    "output": "We look forward to cooperating with Lars, Mikkel and the company’s management team,” says Erik Holm.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: 1524And Saul said to Samuel Great is my sin for I have gone against the orders of the Lord and against your words because fearing the people I did what they said",
+    "output": "15:24And Saul said to Samuel, Great is my sin: for I have gone against the orders of the Lord and against your words: because, fearing the people, I did what they said.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Spacecraft including satellites and suborbital and spacecraft launch vehicles\n\nAdd punctuation",
+    "output": "Spacecraft (including satellites) and suborbital and spacecraft launch vehicles",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "After restarting youll have all your configuration files under the configbackup folder so if you experience any loss of information you can manually restore it by deleting the newly created config file for example HOMEmozilla and moving the old mozilla folder to HOME by doing mv HOMEconfigbackupmozilla HOME\n\nAdd punctuation",
+    "output": "After restarting you’ll have all your configuration files under the config-backup folder, so if you experience any loss of information, you can manually restore it by deleting the newly created config file, for example $HOME/.mozilla and moving the old .mozilla folder to $HOME by doing mv $HOME/config-backup/.mozilla $HOME/",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Debian the distribution and the web site has won awards you can find out which ones on the awards page",
+    "output": "Debian, the distribution and the web site, has won awards, you can find out which ones on the awards page.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Cut protection fibre level 3 in the knit ie all round\n\nCould you correct the punctuation please?",
+    "output": "Cut protection fibre level 3 in the knit, i.e. all round.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "PGD File Analysis Tool utilizes thirdparty software components\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "† PGD File Analysis Tool utilizes third-party software components.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nNausea is one of the distinctive symptoms of pregnancy",
+    "output": "Nausea is one of the distinctive symptoms of pregnancy.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Number of spins The game will automatically spin for the number of spins selected from the dropdown menu\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "Number of spins: The game will automatically spin for the number of spins selected from the drop-down menu.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Transfer from Montenegro to Faro FAO airport\n\nCould you correct the punctuation please?",
+    "output": "Transfer from Montenegro to Faro (FAO) airport",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Field investigations indicate that numerous relatively new wells are flawed particularly by leaky connections where there are connections and improperly placed sealant",
+    "output": "Field investigations indicate that numerous, relatively new wells are flawed, particularly by leaky connections (where there are connections) and improperly placed sealant.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: If anyone desires to come after Me let him deny himself and take up his cross daily and follow Me Luke 923",
+    "output": "‘If anyone desires to come after Me, let him deny himself, and take up his cross daily, and follow Me.’ (Luke 9:23)",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Finally he signs that the loudspeakers live up to our standards",
+    "output": "Finally, he signs that the loudspeakers live up to our standards.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Located just 1 mile from East Putney Tube Station Premier Inn London Wandsworth offers en suite accommodation with air conditioning a restaurant and a bar\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "Located just 1 mile from East Putney Tube Station, Premier Inn London Wandsworth offers en suite accommodation with air conditioning, a restaurant and a bar.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  }
+]

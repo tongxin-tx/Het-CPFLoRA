@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat are the most inspiring short stories?\nWhich are the most inspiring stories?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why do people ask questions on Quora that could simply be googled?\nWhy do people ask stupid questions on Quora that could be easily answered by Google?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is black money and how can it effect the economy of a country?\nWhat is the impact of Black money on the Indian economy?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "I forgot my Gmail password and I can't answer the Gmail recovery questions. What can I do?\nHow can I add a recovery phone number to my Gmail account without password to my account?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why is water considered a polar molecule?\n\nWhy is water polar?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Would you consider yourself lucky?\nDo you consider yourself lucky? Why?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the most inspiring sentence you have ever heard or read?\nWhat are the most inspiring motivational phrases you've ever heard, read or written?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why do you drive on a parkway and park in a driveway?\nWhy do we drive in parkways and park in driveways?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What does it mean when your question has been collapsed on Quora?\nQuestion 2: How does an answer get collapsed on Quora?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Who was Charles Darwin? What were some of his theories?\nQuestion 2: Who was Charles Darwin? What were some of his discoveries?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the best gaming laptop under 2000$?\nWhat's the best gaming laptop around $2000?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: How would I dress like it's the year 1990 if I'm a guy?\nSecond question: How would I dress if I was back in the year called 1990 if I'm a guy?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nIs it true that nothing can travel faster than light? Or was that idea made up?\nHow do you prove that nothing can go faster than light?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What are the advantages of traditional marketing?\n\nWhat are the advantages and the disanvantages of traditional market?\n\nAre these two questions paraphrases of each other?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Who won the vice presidential debate of 2016 between Tim Kaine and Mike Pence?\nQuestion 2: Who won the Vice Presidential debate between Tim Kaine and Mike Pence?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What are some really cool ways animals defend themselves?\nHow do animals defend themselves?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What's the best advice you ever received?\nQuestion 2: What is the best advice you ever received in life?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Who is your favorite movie star?\nWho is your favorite movie star, and why?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is Atal Pension Yojana? Who can join Atal Pension Yojana?\nWhat is Atal Pension Yojana? What are its benefits?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: What are some of the best examples of people with an outstanding profile/CV?\nSecond question: What are the best examples of a successful CV?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: What is the difference between the right and left side of the headphones?\nQuestion 2: Earphones are marked as left and right but is there any difference?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nCan I make money online?\nWhat are the easiest ways to earn money online?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat is the expected cut off NTSE stage 1 up 2016?\nWhat is the expected NTSE stage 1 UP cut off?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the best place in mumbai?\nWHICH IS best place in mumbai?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhat are tracer rounds? Are they legal for the public to possess in the state of Alaska?\nWhat are tracer rounds? Are they legal for the public to possess in the state of Arizona?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is scope in biotechnology?\nWhat are the future trends in biotechnology?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nWhy is Saltwater taffy candy imported in Japan?\nWhy is Saltwater taffy candy imported in Germany?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhy are the signals in railway opposite as compared to the road signals in India? i.e. from top to bottom Green, Yellow and Red.\nWhy do railway traffic lights have green at the top and red at the bottom but road signals are the other way?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhich is the best scotch whiskey available in India?\nWhat is the best scotch whiskey available in India?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Why am I alive in this world?\nQuestion 2: Why are we alive in this world?\n\nWould the answer to these two questions be the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why do so many people ask questions on Quora.com when they could easily find the answers themselves online?\nWhy do so many people ask google-able questions on Quora?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat will government do with the old 500/1000 notes that is being deposited in the banks everyday?\nWhat will the government do with the old notes of Rs 500 and Rs 1000?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Do women like to have sex?\nQuestion 2: How do women like to have sex?\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat are some revision tips for JEE?\nWhat are some tips to crack the IIT-JEE?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Question 1: Which is the best school management software in India?\nQuestion 2: Which is the best school management software for schools in India? Please provide related link if possible!\nAre questions 1 and 2 asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nAvg antivirus 1800</v\\>251<’-‘>4919 Avg tech support phone number 24x7?\nWhat is the customer support phone number for AVG antivirus?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nHow do I become a great programmer?\nHow can I become a very great programmer?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is the matching principle? What are some examples?\n\nWhat is Matching Principle? What are some examples of it?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Why is my phone not charging?\n\nWhy isn't my phone charging?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Are the following two questions the same?\nDid you have a good day?\nDid you have a nice day?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "First question: Why can only the same side of the moon be seen from all parts of earth?\nSecond question: Why do we see the same face of the Moon from anywhere on Earth?\nAre these two questions asking the same thing?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What workout clothes did guys wear in the summer back in the year 1990?\nWhat is the best outfit a guy would wear for working out in the summer like it's the year 1990?\nDo those questions have the same meaning?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How can I speaking fluently speaking English?\n\nHow can I improve fluency in English?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Which answer got the most upvotes on Quora?\n\nWhat are some of the most upvoted answers you came across on Quora?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What is your prediction on Uttar Pradesh Assembly elections 2017? Who is going to win UP this time?\nWho will win 2017 Uttar Pradesh Election and why?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Do these questions have the same meaning?\nWhat is your favorite Pokémon (from any generation or game), and why?\nWhich is your favourite Pokémon and why?\n\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "What are some interesting things that defy logic?\nWhat are some things that defied logic?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How did aurangzeb die?\n\nHow did Mughal Emperor Aurangzeb die?\n\nPlease tell me if those questions are the same.\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "Is it possible to get back lost hair?\nHow do I regain my lost hair?\nWould you say that these questions are the same?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  },
+  {
+    "instruction": "How do I make India as corruption free?\nWhat step must taken to make Indian Politics more transparent? Corruption free?\n\nAre these two questions inquiring about the same information?\nOPTIONS:\n- no\n- yes",
+    "output": "yes",
+    "task": "glue_qqp",
+    "category": "paraphrase"
+  }
+]

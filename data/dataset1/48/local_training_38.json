@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Grape prices are growing in Champagne\n\nAdd punctuation",
+    "output": "Grape prices are growing in Champagne.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Professor Minik Rosing fom Nordic Center for Earth Development and Professor Dorte DahlJensen from Center for Ice and Climate are awarded Amalienborgprisen",
+    "output": "Professor Minik Rosing fom Nordic Center for Earth Development and Professor Dorte Dahl-Jensen from Center for Ice and Climate are awarded “Amalienborgprisen”.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Show family tree starting with Jrgen Nielsen",
+    "output": "Show family tree starting with Jørgen Nielsen",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Follow the bends at the top Corners bend downward from themselves",
+    "output": "Follow the bends at the top. Corners bend downward from themselves.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nYou can use the Special Requests box when booking or contact the property directly with the contact details provided in your confirmation Show all",
+    "output": "You can use the Special Requests box when booking, or contact the property directly with the contact details provided in your confirmation. Show all",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "You can also write down each year to a percentage of the replacement value at beginning of year expressed in nominal terms for example to 35 of the replacement value at beginning of year if you are at 3 years for a machine with a 5 year lifespan\n\nAdd punctuation",
+    "output": "You can also write down each year to a percentage of the replacement value at beginning of year, expressed in nominal terms, for example, to 3/5 of the replacement value at beginning of year if you are at 3 years for a machine with a 5 year lifespan.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: We collect the signature much faster 90 is actually completed the same day",
+    "output": "We collect the signature much faster. 90% is actually completed the same day",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Now lets get to know about the purpose of using OST to PST converter tool which converts OST file to PST\n\nCould you correct the punctuation please?",
+    "output": "Now, let’s get to know about the purpose of using OST to PST converter tool, which converts OST file to PST.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nBut this people whose slave I was will no longer be slave to anyone My sacrifice will remain forever in their souls and my blood will be the price of their ransom I fought against the exploitation of Brazil I fought against the exploitation of her people I have fought with my whole heart Hatred infamy and slander have not conquered my spirit I have given you my life",
+    "output": "But this people, whose slave I was, will no longer be slave to anyone. My sacrifice will remain forever in their souls and my blood will be the price of their ransom. I fought against the exploitation of Brazil. I fought against the exploitation of her people. I have fought with my whole heart. Hatred, infamy and slander have not conquered my spirit. I have given you my life.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The photographs will be unmounted 30 x 40 cm  those below this format should be mounted on lightweight format support 30 x 40cm Slides must be submitted in perro\n\nAdd punctuation",
+    "output": "The photographs will be unmounted 30 x 40 cm .; those below this format should be mounted on lightweight format support 30 x 40cm. Slides must be submitted in perro.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Program packed with lot of trigonometric calculations can be interfaced with hardware to actually control the Arm through software",
+    "output": "Program packed with lot of trigonometric calculations can be interfaced with hardware to actually control the Arm through software.\"",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The Style Shopper also has numerous other items We carry Coach Bags Hermes accessories Smet True Religion and many other great brands and more\n\nPlease fix the punctuation.",
+    "output": "The Style Shopper also has numerous other items. We carry Coach Bags, Hermes accessories, Smet, True Religion, and many other great brands and more.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Low lymphocyte counts in blood tests Article 5 p21 October 2014 Newsletter p 512",
+    "output": "Low lymphocyte counts in blood tests, Article #5, p.21; October 2014 Newsletter, p. 5-12",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Finally you can now discover everything you need to know about your B64 file instantly\n\nAdd punctuation",
+    "output": "Finally, you can now discover everything you need to know about your B64 file... instantly!",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Materials DROPS SilkeAlpaca from Garnstudio\n\nAdd punctuation",
+    "output": "Materials: DROPS Silke-Alpaca, from Garnstudio",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "SafeSearch on your phone SafeSearch is accessible on your mobile device by using the browser to access the Google homepage\n\nPlease fix the punctuation.",
+    "output": "SafeSearch on your phone SafeSearch is accessible on your mobile device by using the browser to access the Google homepage.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "We have decades of experience in the manufacture of perforated sieves using highly developed technical methods\n\nPlease fix the punctuation.",
+    "output": "We have decades of experience in the manufacture of perforated sieves using highly developed technical methods.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nOnline pharmacies for order quality Keselan UK  US  EU shipping Who sell Anxiety drugs from Intas Pharmaceuticals Eurodrugstore medicine price comparison and explorer",
+    "output": "Online pharmacies for order quality Keselan UK & US & EU shipping. Who sell Anxiety drugs from Intas Pharmaceuticals? Eurodrugstore medicine price comparison and explorer.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Showing 1  15 of 64 comments",
+    "output": "Showing 1 - 15 of 64 comments",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Pitch Premium Classic Lazise Camping Village\n\nPlease fix the punctuation.",
+    "output": "Pitch Premium Classic, Lazise Camping Village",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Central apartment with air conditioning and free internet close to Casa Batll",
+    "output": "Central apartment with air conditioning and free internet close to Casa Batlló",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: A lighted cosmetic mirror is uniquely designed for your makeup necessities Unlike standard mirrors you can easily see smudges from eyeliners and lipstick using this type of mirror Of course you have to be happy with your choice of mirror",
+    "output": "A lighted cosmetic mirror is uniquely designed for your make-up necessities. Unlike standard mirrors, you can easily see smudges from eyeliners and lipstick using this type of mirror. Of course, you have to be happy with your choice of mirror.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Room facilities Air conditioning Alarm clock Balcony Bathroom DVD Player Fan Flatscreen TV Free toiletries Garden view Hairdryer Iron Ironing Facilities Patio Radio Refrigerator Safety Deposit Box Shower Telephone TileMarble floor Toilet WardrobeCloset",
+    "output": "Room facilities: Air conditioning, Alarm clock, Balcony, Bathroom, DVD Player, Fan, Flat-screen TV, Free toiletries, Garden view, Hairdryer, Iron, Ironing Facilities, Patio, Radio, Refrigerator, Safety Deposit Box, Shower, Telephone, Tile/Marble floor, Toilet, Wardrobe/Closet",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Express checkin out 44",
+    "output": "Express check-in/ -out (44)",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Amca electronics complete the control system",
+    "output": "Amca electronics complete the control system.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The Chef FlapFront Shoulder Bag is a simple yet very elegant rectangular purse made of calf leather\n\nAdd punctuation",
+    "output": "The Chef Flap-Front Shoulder Bag is a simple yet very elegant rectangular purse made of calf leather.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: I went on lots of trips where I would volunteer to take passengers",
+    "output": "I went on lots of trips, where I would volunteer to take passengers.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The following General Terms and Conditions hereinafter GTC define the terms under which the gaymeetcom Service hereinafter the Service operated by Tyche Technologies AG a Swiss company Reg Nr CHE420114703 registered address Hofstrasse 1A 6300 Zug Switzerland under the brand name Dating Factory hereinafter us we or our or Dating Factory or Dating Factory Network shall be used\n\nAdd punctuation",
+    "output": "The following General Terms and Conditions (hereinafter “GTC”) define the terms under which the gay-meet.com Service (hereinafter “the Service”) operated by Tyche Technologies AG a Swiss company, Reg Nr. CHE-420.114.703 (registered address: Hofstrasse 1A, 6300 Zug, Switzerland), under the brand name Dating Factory (hereinafter \"us” “we” or “our\" or “Dating Factory” or “Dating Factory Network”) shall be used.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "They sent a man named CGA Oldendorp from Herrnhut to the Caribbean in 1767 to document the missions work and achievements\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "They sent a man named C.G.A. Oldendorp from Herrnhut to the Caribbean in 1767 to document the mission’s work and achievements.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The original COCOMO was well suited to traditional practices\n\nPlease fix the punctuation.",
+    "output": "The original COCOMO was well suited to traditional practices.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: New Design South Korea Jade Set  Necklace Bracelet and Matched Earrings",
+    "output": "New Design South Korea Jade Set ( Necklace Bracelet and Matched Earrings )",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Girona situated north of Barcelona is a spectacular city with a rich historic past an admirable monumental assembly and an arts centre that one cannot miss visiting\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Girona, situated north of Barcelona, is a spectacular city with a rich historic past, an admirable monumental assembly and an arts centre that one cannot miss visiting.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Offering free WiFi this airconditioned room features a flatscreen TV a minibar and a private bathroom with a shower",
+    "output": "Offering free Wi-Fi, this air-conditioned room features a flat-screen TV, a minibar and a private bathroom with a shower.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Do your assignments require you to leave the perfect city streets Choose the allnew Volvo FL 44\n\nPlease fix the punctuation.",
+    "output": "Do your assignments require you to leave the perfect city streets? Choose the all-new Volvo FL 4×4.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Wall poster of the census of old soldiers  Metz",
+    "output": "Wall poster of the census of old soldiers ( Metz )",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: If 18000 were murdered every day the figure of one million would be reached in a mere 56 days not in the course of a year",
+    "output": "If 18,000 were murdered every day, the figure of one million would be reached in a mere 56 days, not \"in the course of a year.\"",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "JM withdraws the question\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "JM: withdraws the question.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Latest visit 28 April 2005 1438",
+    "output": "Latest visit 28 April 2005 14:38",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nAn EURepublic of Korea summit is held in Copenhagen Denmark",
+    "output": "An EU-Republic of Korea summit is held in Copenhagen, Denmark.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: You may run into the same problem as Susana Wilkie from Philippines lets see what helps this friend solving it  My Samsung has experienced IMJPKDICDLL was not found problem when playing Delta Force Black Hawk Down",
+    "output": "You may run into the same problem as Susana Wilkie from Philippines, let's see what helps this friend solving it -- \"My Samsung has experienced \"IMJPKDIC.DLL was not found\" problem when playing Delta Force: Black Hawk Down.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Rare Royal Copenhagen Overglaze Figure Girl from Jutland\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "Rare Royal Copenhagen Overglaze Figure: Girl from Jutland",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Description Sanderling at the beach shore",
+    "output": "Description: Sanderling at the beach shore",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The Secret of Life Flower  Chapter 1\n\nCould you correct the punctuation please?",
+    "output": "The Secret of Life Flower - Chapter 1",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Time tracking and reporting for billable tasks\n\nAdd punctuation",
+    "output": "Time tracking and reporting for billable tasks.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation:  FOTOcom 20052016 All rights reserved About us Contact us About us",
+    "output": "© FOTO.com 2005-2016 All rights reserved About us Contact us About us",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Weekend Friday  Sunday 250 SEK incl electricity fee  weekend\n\nCould you correct the punctuation please?",
+    "output": "Weekend, Friday - Sunday 250 SEK incl. electricity fee / weekend",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "shaving amateur panties celebrity dogging strip ebony\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "shaving, amateur, panties, celebrity, dogging, strip, ebony",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text:  Not include madetoorder items",
+    "output": "* Not include made-to-order items.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: The BERNINA 560 is equipped with a large bright TFT touchscreen via which you can retrieve your various functions in the blink of an eye",
+    "output": "The BERNINA 560 is equipped with a large, bright TFT touchscreen via which you can retrieve your various functions in the blink of an eye.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "This is a hereditary skin problem that often begins in childhood as chapped cheeks and scaly patches on the scalp arms legs and torso\n\nAdd punctuation",
+    "output": "This is a hereditary skin problem that often begins in childhood as chapped cheeks and scaly patches on the scalp, arms, legs, and torso.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  }
+]

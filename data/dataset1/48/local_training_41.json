@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "28 And Israel said It is enough Joseph my son is yet alive I will go and see him before I die\n\nCould you correct the punctuation please?",
+    "output": "28 And Israel said, It is enough: Joseph my son is yet alive; I will go and see him before I die.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Denmark Saturday lottery results  Saturday 6 August 2016\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Denmark Saturday lottery results - Saturday 6 August 2016",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: You have to match images by clicking on identical ones that sit side by side",
+    "output": "You have to match images by clicking on identical ones that sit side by side....",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Manyalibo said Yes thats right\n\nAdd punctuation",
+    "output": "Manyalibo said, \"Yes, that’s right.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: The Anderson Packers were an NBA team for only one season in 1950",
+    "output": "The Anderson Packers were an NBA team for only one season, in 1950.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "A maximum of 200 hours of overtime per year is allowable or 300 hours under special agreements with the trade union\n\nCould you correct the punctuation please?",
+    "output": "A maximum of 200 hours of overtime per year is allowable, or 300 hours under special agreements with the trade union.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "When a loop is not active your guitar completely bypasses it for clear and pure signal transfer\n\nAdd punctuation",
+    "output": "When a loop is not active, your guitar completely bypasses it for clear and pure signal transfer.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nThen you will watch the sun set over the mountains and soon after this amazing spectacle you will see the unique starlit desert sky",
+    "output": "Then you will watch the sun set over the mountains, and soon after this amazing spectacle you will see the unique starlit desert sky.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "A short roll will be called a no roll because it is more controllable It is also a no roll if a die or both dice leave the table\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "A short roll will be called a \"no roll\" because it is more controllable. It is also a \"no roll\" if a die or both dice leave the table.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "This is particularly important where the boat has protruding cap rails or a toe rail If the straps are too short you should use a traverse or spreader bar\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "This is particularly important where the boat has protruding cap rails or a toe rail. If the straps are too short, you should use a traverse or spreader bar.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "DROPS CIRCULAR NEEDLE 60 or 80 cm SIZE 6 mm  or size needed to get 14 sts with textured pattern according to A1  width 10 cm\n\nAdd punctuation",
+    "output": "DROPS CIRCULAR NEEDLE (60 or 80 cm) SIZE 6 mm – or size needed to get 14 sts with textured pattern according to A.1 = width 10 cm.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Active coulter and wing pressure ensures the same seed depth across the machines entire working width",
+    "output": "\"Active coulter and wing pressure ensures the same seed depth across the machine's entire working width.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: We are now hoping the weather will give us some respite so that we may have a plane tomorrow",
+    "output": "We are now hoping the weather will give us some respite so that we may have a plane tomorrow.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nMarkets and Bazaars",
+    "output": "Markets and Bazaars »",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Translation of the website  Gateway 2\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Translation of the website - Gateway 2",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nJapan lottery  Loto 6  draws take place on Mondays and Thursdays from 1845",
+    "output": "Japan lottery ( Loto 6 ) draws take place on Mondays and Thursdays from 18:45.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "If you let things get pretty dirty youll need to do a more thorough clean  such as the things Jeff mentioned  but after that its just a matter of maintaining the cleanliness Youll probably still need to do a deeper clean every now and then use your eyes and nose to determine that but for the most part just try to keep things clean\n\nAdd punctuation",
+    "output": "If you let things get pretty dirty, you’ll need to do a more thorough clean — such as the things Jeff mentioned — but after that, it’s just a matter of maintaining the cleanliness. You’ll probably still need to do a deeper clean every now and then (use your eyes and nose to determine that) but for the most part, just try to keep things clean.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Every girl dreams of going to the wedding and enjoy the holiday atmosphere\n\nCould you correct the punctuation please?",
+    "output": "Every girl dreams of going to the wedding and enjoy the holiday atmosphere.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "There is a limited offer from Titan Poker Download\n\nAdd punctuation",
+    "output": "There is a limited offer from Titan Poker Download.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Find fresh fish shrimp crab scallops shellfish and smoked products",
+    "output": "Find fresh fish, shrimp, crab, scallops, shellfish, and smoked products.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Camp 1 was put just above the famousnotorious Killerhang in 6400 meter camp 2 was placed on a small plateau at 7000 meter and finally camp 3 on a shelf at 7600 meters\n\nCould you correct the punctuation please?",
+    "output": "Camp 1 was put just above the famous/notorious \"Killerhang\" in 6400 meter, camp 2 was placed on a small plateau at 7000 meter and finally camp 3 on a shelf at 7600 meters.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: 4979497 Rural areas of rslev Municipality",
+    "output": "497-9497 Rural areas of Årslev Municipality",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "A short interview with the architect about the concept and his inspiration from history\n\nCould you correct the punctuation please?",
+    "output": "A short interview with the architect about the concept and his inspiration from history.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Portrait of Hans Holbein Note the abbess in the background",
+    "output": "Portrait of Hans Holbein. Note the abbess in the background.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Many many thanks to everybody in Hamary for some fantastic days",
+    "output": "Many many thanks to everybody in Hamarøy for some fantastic days.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Online Poker rooms  play poker games at Titanpokercom  Multicurrency Options",
+    "output": "Online Poker rooms - play poker games at Titanpoker.com : Multicurrency Options",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Rose Cottage Killarney provides ideal lodging in Killarney Many Killarney sights including Ross Castle Killarney Methodist Church and St\n\nPlease fix the punctuation.",
+    "output": "Rose Cottage Killarney provides ideal lodging in Killarney. Many Killarney sights, including Ross Castle, Killarney Methodist Church and St.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: It displaced 346 ts and was armed with a 45cmsterntorpedotube for the torpedo F 5 b and was to be propelled by two 90 PS Ford8cyllinder gasolineengines with two shafts and two propellers to a speed of 29 kts",
+    "output": "It displaced 3,46 ts and was armed with a 45-cm-stern-torpedo-tube for the torpedo F 5 b and was to be propelled by two 90 PS Ford-8-cyllinder gasoline-engines with two shafts and two propellers to a speed of 29 kts.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: When Anders Coisbo tasted Coisbo SEVEN for the first time he knew it was spot on and it is a great pleasure to see that the 61 professional judges in Brussels agree",
+    "output": "When Anders Coisbo tasted Coisbo SEVEN for the first time, he knew it was spot on, and it is a great pleasure to see that the 61 professional judges in Brussels agree.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: The luggage is packed and several of the children who should have been asleep long ago peek out and sneak into the laps of their older brothers and sisters",
+    "output": "The luggage is packed, and several of the children, who should have been asleep long ago, peek out and sneak into the laps of their older brothers and sisters.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "26 But this thou hast that thou hatest the works of the Nicolaitanes which I also hate\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "2:6 But this thou hast, that thou hatest the works of the Nicolaitanes, which *I* also hate.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Recommendation If you are inexperienced with updating HCL device drivers manually we highly recommend downloading the HCL Desktop Driver Utility This tool will download and update the correct HCL Desktop driver versions automatically protecting you against installing the wrong Desktop drivers\n\nAdd punctuation",
+    "output": "Recommendation: If you are inexperienced with updating HCL device drivers manually, we highly recommend downloading the HCL Desktop Driver Utility. This tool will download and update the correct HCL Desktop driver versions automatically, protecting you against installing the wrong Desktop drivers.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "25 And when they had spoken the word in Perga they went down to Attalia\n\nAdd punctuation",
+    "output": "25 And when they had spoken the word in Perga, they went down to Attalia;",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Mckinnon Pointe 209 apartment offers accommodaton in Edmonton Valley Zoo is 39 km of the property while Fort Edmonton Park is around 44 km away\n\nPlease fix the punctuation.",
+    "output": "Mckinnon Pointe #209 apartment offers accommodatıon in Edmonton. Valley Zoo is 3.9 km of the property, while Fort Edmonton Park is around 4.4 km away.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Then she said Here is my servant Bilhah go in to her so that she may have a child on my knees and I may have a family by her",
+    "output": "Then she said, Here is my servant Bilhah, go in to her, so that she may have a child on my knees, and I may have a family by her.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Mounting Back mounting by means of two M4 screws\n\nAdd punctuation",
+    "output": "Mounting Back mounting by means of two M4 screws.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nThere are no finished results yet but preliminary it appears that thereis a need to be aware of the risk of movement problems for the typically used broiler when fed an optimized diet ad libitum even in the relatively extensive conditions as the experiment was conducted under",
+    "output": "There are no finished results yet, but preliminary it appears that thereis a need to be aware of the risk of movement problems for the typically used broiler when fed an optimized diet ad libitum, even in the relatively extensive conditions as the experiment was conducted under.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: The living room forms a single space with the kitchen and displays a special decoration with unique wallpapers and brick veneer walls giving an industrial look to the room",
+    "output": "The living room forms a single space with the kitchen, and displays a special decoration with unique wallpapers and brick veneer walls giving an industrial look to the room.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "But because you are well anchored in the world this service has to be practical you would not be content to work at a meaningless job and then go home and quietly meditate\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "But because you are well anchored in the world, this service has to be practical; you would not be content to work at a meaningless job and then go home and quietly meditate.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Doctor Barbie invites you in her room to give you a consultation If you are Princess Barbie Dress up\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Doctor Barbie invites you in her room to give you a consultation. If you are... Princess Barbie Dress up",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Following its failure to secure Singapores fourth telco license which was awarded to TPG Rodrigues said MyRepublic received calls from all three local operators to ink a MVNO contract with them",
+    "output": "Following its failure to secure Singapore’s fourth telco license, which was awarded to TPG, Rodrigues said MyRepublic received calls from all three local operators to ink a MVNO contract with them.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Read more  Posted by Max on July 16 2015 No comments",
+    "output": "Read more » Posted by Max on July 16, 2015 No comments",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: God has chosen us to be saved He means it to succeed for us",
+    "output": "God has chosen us to be saved; He means it to succeed for us!",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nHotel bathrooms must also withstand heavy use and abuse so product durability is crucial",
+    "output": "Hotel bathrooms must also withstand heavy use and abuse, so product durability is crucial.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nAnd this worked like a charm When we inevitably took the wrong train on a foreignlanguage subway system or when it rained on the day we went to Disney Sea or when we took three trains and walked 10 blocks only to find the National Childrens Castle closed on Mondays  they said Its part of the adventure",
+    "output": "And this worked like a charm. When we inevitably took the wrong train on a foreign-language subway system, or when it rained on the day we went to Disney Sea, or when we took three trains and walked 10 blocks only to find the National Children’s Castle closed on Mondays … they said, “It’s part of the adventure!”",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "To ensure that EU taxpayers get maximum value for their money the Court of Auditors has the right to check audit any person or organisation handling EU funds The Court frequently carries out onthespot checks\n\nCould you correct the punctuation please?",
+    "output": "To ensure that EU taxpayers get maximum value for their money, the Court of Auditors has the right to check ('audit') any person or organisation handling EU funds. The Court frequently carries out on-the-spot checks.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Unfortunately there is no painting of Christoffer Tnder in the ancestor gallery from Dnnes but there is one of his son chief county admidministrative officer Peder Christoffersen Tnder\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "Unfortunately, there is no painting of Christoffer Tønder in the ancestor gallery from Dønnes, but there is one of his son, chief county admidministrative officer Peder Christoffersen Tønder.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: CISA Exam Registration 440 for ISACA Members and 625 for NonMembers",
+    "output": "CISA Exam Registration: $440 for ISACA Members and $625 for Non-Members",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Fold the slipper double and sew tog edge to edge mid back",
+    "output": "Fold the slipper double and sew tog edge to edge mid back.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Displaying 277 to 288 of 693 products",
+    "output": "Displaying 277 to 288 (of 693 products)",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  }
+]

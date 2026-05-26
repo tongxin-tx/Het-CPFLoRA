@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Here is a question: What Muhammad Ali maneuver was George Foreman the first victim of ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What computer operating system is on the most computers ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What TV series features the adventures of a married couple named Jonathan and Jennifer ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: Where is Inoco based ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "location",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"What dropped 1 , 313 feet in 1980 ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is the best-selling television soundtrack of all time ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What joins white wine to put the spritz in a Spritzer ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What is a fear of being cold ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"What terror of the sea did Johnny Horton sing about ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"Aspartame is also known as what ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What kind of thing would the answer to the question \"What famed gangland slaughter cut into the membership of Bugs Moran 's outfit ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"Which came first , according to Genesis 1 : 2 : 22 - the chicken or the egg ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"Who was the first animal into space ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"What is the best way to overcome a fear ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What kind of thing would the answer to the question \"What kind of tree graces Lebanon 's flag ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What kind of thing would the answer to the question \"What basketball maneuver did Bert Loomis invent ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"What soap was touted as being `` for people who like people '' ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What wheel did Blaise Pascal invent in a search for perpetual motion ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Q: What 's the most extensively grown and eaten food ?\n\nWhich one of the following options would the answer to this be?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What is the longest chemical name , consisting of 35 letters ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What age followed the Bronze Age ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"What 's the most common non-contagious disease in the world ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "entity",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"Who made the first airplane that could fly ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What country 's royal house is Bourbon-Parma ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "location",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"What U.S. state has the second-longest coastline ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "location",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Who was Ezra Taft Benson ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What kind of thing would the answer to the question \"What costume designer decided that Michael Jackson should only wear one glove ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"Name the first private citizen to fly in space .\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What Argentine revolutionary fought with Castro and died in Bolivia in May , 1979 ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What famous husband-and-wife team did radio ads for Blue Nun wine ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"What store does Martha Stewart advertise for ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"Who was the first king of England ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"Who won the Nobel Peace Prize in 1991 ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Who killed JFK ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What type of thing is the question \"Who headed Hitler 's infamous Gestapo ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What were Babe Ruth 's Christian names ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: Who killed Lee Harvey Oswald ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What kind of thing would the answer to the question \"Who invented the paper clip ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What type of thing is the question \"What was the name of `` The Muppets '' creator ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"Who was the lawyer who represented Randy Steven Craft ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"What was the name of Darth Vader 's son ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Q: Whose autobiography is titled Yes I Can ?\n\nWhich one of the following options would the answer to this be?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is the best college in the country ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What type of thing is the question \"What 19th-century painter died in the Marquesas Islands ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"Who was the first black golfer to tee off in the Masters ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"What stereo manufacturer is `` Slightly ahead of its time '' ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: Which of the following famous people does not paint as a hobby ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Q: Who shot Lee Harvey Oswald ?\n\nWhich one of the following options would the answer to this be?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What Polynesian people inhabit New Zealand ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"What Ivy League school plays its home games at Palmer Stadium ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  }
+]

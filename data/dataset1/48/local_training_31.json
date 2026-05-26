@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Here is some data: Auburn, Alabama, country, United States; Auburn, Alabama, isPartOf, Alabama.\n\nWrite a sentence that describes this data",
+    "output": "Auburn is part of Alabama in the United States.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Scotland national under-19 football team, coach, Scot Gemmill; Alan Martin (footballer), club, Scotland national under-19 football team.\n\nWrite a sentence that describes this data",
+    "output": "Alan Martin played football for the Scotland national under 19 team which is coached by Scot Gemmill.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Alfons Gorbach, deathPlace, Styria; Alfons Gorbach, deathPlace, Graz; Alfons Gorbach, birthPlace, Austria; Alfons Gorbach, birthPlace, Imst.\n\nWrite a sentence that describes this data",
+    "output": "Alfons Gorbach, born in Imst in Austria, died in Styria in Graz.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Baku Turkish Martyrs' Memorial, dedicatedTo, \"Ottoman Army soldiers killed in the Battle of Baku\"; Baku Turkish Martyrs' Memorial, location, Azerbaijan; Azerbaijan, leader, Artur Rasizade; Baku Turkish Martyrs' Memorial, designer, \"Hüseyin Bütüner and Hilmi Güner\"\n\nWhat is sentence that verbalizes this data?",
+    "output": "The Baku Turkish Martyrs Memorial designed by Huseyin Butuner and Hilmi Guner has been dedicated to Ottoman Army soldiers killed in the Battle of Baku. The memorial can be found in Azerbaijan, whose leader is Artur Rasizade.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: University of Texas at Austin is affiliated with University of Texas System.\n\nWhat structured data could we extract from this sentence?",
+    "output": "University of Texas at Austin, affiliation, University of Texas System",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Anders Osborne is associated with the band Voice of the Wetlands All-Stars and with the musical artist Billy Iuso.\n\nWhat data can be extracted from this sentence?",
+    "output": "Anders Osborne, associatedBand/associatedMusicalArtist, Billy Iuso; Anders Osborne, associatedBand/associatedMusicalArtist, Voice of the Wetlands All-Stars",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Alan Frew, genre, Rock music; Alan Frew, origin, Canada; Canada, officialLanguage, French language; Rock music, musicFusionGenre, Bhangra (music).\n\nGenerate a detailed description of this data",
+    "output": "Alan Frew who is from Canada, where the official language is French, is a performer of rock music. The music Bhangra is part of Rock fusion music genre.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Germany, leader, Joachim Gauck",
+    "output": "Joachim Gauck is a leader in Germany.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: 3Arena, owner, Live Nation Entertainment; Dublin, country, Republic of Ireland; 3Arena, location, Dublin; Dublin, isPartOf, Leinster; Dublin, leaderTitle, European Parliament",
+    "output": "3Arena (owned by Live Nation Entertainment) is located in European Parliament led Dublin (a part of Leinster of The Republic of Ireland).",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Anaheim, California, leader, Tom Tait\n\nWhat is sentence that verbalizes this data?",
+    "output": "The leader of Anaheim, California, is Tom Tait.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Alvis Speed 25, engine, \"Petrol\"",
+    "output": "The Alvis Speed 25 has a petrol engine.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Ariane 5, launchSite, ELA-3; Ariane 5, finalFlight, 2009-12-18; Ariane 5, maidenFlight, 2008-03-09; Ariane 5, manufacturer, European Space Agency; Ariane 5, diameter, 5.4 (metres).\n\nWrite a sentence that describes this data",
+    "output": "Ariane 5 is manufactured by the European Space Agency and has a diameter of 5.4 metres. It was launched from the ELA-3 launchpad, making its maiden flight on 9 March 2008 and the final flight on 18 December 2009.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: 107 Camilla, discoverer, N. R. Pogson; N. R. Pogson, deathPlace, Chennai; N. R. Pogson, nationality, England\n\nSentence about the following data:",
+    "output": "Englishman N.R. Pogson, who died in Chennai, was the discoverer of 107 Camilla.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: AZ Alkmaar, manager, John van den Brom; John van den Brom, club, AFC Ajax; John van den Brom, club, Vitesse Arnhem; John van den Brom, club, İstanbulspor A.Ş.",
+    "output": "Along with managing AZ Alkmaar, John van den Brom is a player in Istanbulspor A.Ş and plays for AFC Ajax and Vitesse Arnhem.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Indonesia, currency, Indonesian rupiah",
+    "output": "Money in Indonesia is called the Indonesian rupiah.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: United States Air Force, aircraftFighter, McDonnell Douglas F-15 Eagle",
+    "output": "The McDonnell Douglas F-15 Eagle is an aircraft fighter in the U.S. Air Force.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Allen Forrest, birthYear, 1981; Allen Forrest, genre, Acoustic music; Allen Forrest, birthPlace, Dothan, Alabama; Allen Forrest, background, \"solo singer\".\n\nWrite a sentence that describes this data",
+    "output": "Allen Forrest was born in Dothan, Alabama, in 1981. Originally a solo singer, Allen Forrest, plays acoustic music.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: A Fortress of Grey Ice, country, United States; United States, ethnicGroup, Native Americans in the United States.\n\nWrite a sentence that describes this data",
+    "output": "A Fortress of Grey Ice is from the United States where the Native Americans are an ethnic group.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: 11264 Claudiomaccone, periapsis, 296521000.0 (kilometres)\n\nSentence about the following data:",
+    "output": "The periapsis of 11264 Claudiomaccone is at 296521000.0 kilometres.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Saranac Lake, New York, isPartOf, Harrietstown, New York; Harrietstown, New York, isPartOf, New York; Adirondack Regional Airport, cityServed, Saranac Lake, New York; Saranac Lake, New York, country, United States",
+    "output": "Adirondack Regional Airport serves the city of Saranac Lake, part of Harrietstown, New York, United States.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: A Severed Wasp is written in English in the United States where one of the ethnic groups is African American.\n\nWhat structured data could we extract from this sentence?",
+    "output": "A Severed Wasp, language, English language; A Severed Wasp, country, United States; United States, ethnicGroup, African Americans",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: 03L/21R is the runway name of Ardmore Airport in New Zealand where the 3rd runway is made of Poaceae.\n\nWhat data can be extracted from this sentence?",
+    "output": "Ardmore Airport (New Zealand), 3rdRunwaySurfaceType, Poaceae; Ardmore Airport (New Zealand), runwayName, \"03L/21R\"",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Orange County, California, isPartOf, Greater Los Angeles Area.\n\nGenerate a detailed description of this data",
+    "output": "Orange County, is part of the greater Los Angeles area, in California.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Ahmet Ertegun, genre, Rock and roll; Ahmet Ertegun, background, \"non performing personnel\"",
+    "output": "Ahmet Ertegun plays rock and roll but has a no-performing background.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Al Anderson (NRBQ band), associatedBand/associatedMusicalArtist, NRBQ; Al Anderson (NRBQ band), associatedBand/associatedMusicalArtist, The Wildweeds; Al Anderson (NRBQ band), genre, Country music; Al Anderson (NRBQ band), activeYearsStartYear, 1966",
+    "output": "Al Anderson from NRBQ band started his career in 1966 and performs country music. Al Anderson (of the band NRBQ) played once with The Wildweeds.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Agra Airport, iataLocationIdentifier, \"AGR\"; Agra Airport, location, Agra\n\nSentence about the following data:",
+    "output": "AGR is the IATA I.D. of the Agra Airport which is located in Agra.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Alberto Teisaire, profession, Rear admiral; Alberto Teisaire, successor, Isaac Rojas; Alberto Teisaire, birthPlace, Mendoza, Argentina\n\nSentence about the following data:",
+    "output": "Rear Admiral, Alberto Teisaire, was born in Mendoza in Argentina, and succeeded by, Isaac Rojas.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Stuart Parker (footballer), club, Chesterfield F.C.\n\nSentence about the following data:",
+    "output": "The footballer Stuart Parker is attached to Chesterfield football club.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Greece, currency, Euro",
+    "output": "The currency in Greece is the euro.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Buzz Aldrin, birthPlace, Glen Ridge, New Jersey; Buzz Aldrin, mission, Apollo 11; Apollo 11, backupPilot, William Anders; Apollo 11, operator, NASA",
+    "output": "Buzz Aldrin originally from Glen Ridge, New Jersey worked for NASA and became a crew member of Apollo 11 with William Anders as his back up pilot.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Barny Cakes, country, France; France, language, French language; France, leader, François Hollande; France, leader, Manuel Valls; Barny Cakes, ingredient, Sponge cake",
+    "output": "French is the national language of France where the leaders are François Hollande and Manuel Valls. Barny cakes, made with sponge cake, can be found in France.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: ELA-3, site, Guiana Space Centre",
+    "output": "The ELA-3 is located at the Guiana Space Centre.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Addiction (journal), codenCode, \"ADICE5\"",
+    "output": "The CODEN code \"ADICE5\" is for Addiction (journal).",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Alberto Teisaire, deathPlace, Buenos Aires; Alberto Teisaire, party, Justicialist Party; Buenos Aires, leader, Gabriela Michetti; Alberto Teisaire, inOfficeWhilePresident, Juan Perón\n\nSentence about the following data:",
+    "output": "Alberto Teisaire was a member of the Justicialist Party and was in office when Juan Peron was President. Teisaire died in Buenos Aires, where the leader is Gabriela Michetti.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Alison O'Donnell, genre, Jazz; Jazz, stylisticOrigin, Blues; Jazz, stylisticOrigin, Folk music; Jazz, derivative, Funk; Jazz, musicFusionGenre, Afrobeat\n\nWhat is sentence that verbalizes this data?",
+    "output": "Alison O'Donnell plays jazz music which comes from the blues and folk music. Afrobeat has some elements of jazz and funk is derived from jazz.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: School of Business and Social Sciences at the Aarhus University, city, Aarhus; European University Association, headquarter, Brussels; School of Business and Social Sciences at the Aarhus University, country, Denmark; School of Business and Social Sciences at the Aarhus University, academicStaffSize, 737; School of Business and Social Sciences at the Aarhus University, affiliation, European University Association",
+    "output": "The School of Business and Social Sciences at the Aarhus University is located in the city of Aarhus in Denmark and currently has 737 members of staff. The school is affiliated with the European University Association which has its headquarters in Brussels.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Adam Holloway, party, Conservative Party (UK); Adam Holloway, birthPlace, Faversham; Adam Holloway, nationality, United Kingdom",
+    "output": "Adam Holloway, a U.K. national, was born in Faversham, and is a member of the Tories.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Belgium, leader, Charles Michel; Antwerp International Airport, cityServed, Antwerp; Belgium, language, German language; Antwerp, country, Belgium.\n\nWrite a sentence that describes this data",
+    "output": "Charles Michel is the leader of Belgium where the German language is spoken. Antwerp is located in the country and served by Antwerp International airport.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Alfredo Zitarrosa died in Montevideo, in Uruguay, the leaders of which, are Raul Fernando Sendic Rodriguez and Tabaré Vázquez. Uruguay’s national anthem is called the National Anthem of Uruguay.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Uruguay, leader, Raúl Fernando Sendic Rodríguez; Uruguay, anthem, National Anthem of Uruguay; Uruguay, leader, Tabaré Vázquez; Alfredo Zitarrosa, deathPlace, Montevideo; Montevideo, country, Uruguay",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Abel Caballero, birthPlace, Galicia (Spain)\n\nSentence about the following data:",
+    "output": "Abel Caballero was born in Galicia in Spain.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Bionico, country, Mexico; Bionico, course, Dessert; Bionico, mainIngredient, \"Chopped Fruits, Sour Cream, Condensed Milk, Granola, Shredded Coconut, Raisins\"; Bionico, region, Guadalajara; Bionico, ingredient, Raisin\n\nWhat is sentence that verbalizes this data?",
+    "output": "The main ingredients of Bionico are chopped fruits, sour cream, condensed milk, granola, shredded coconut and raisins. It is served for dessert and is from the Guadalajara region, Mexico.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Atlantic City International Airport, cityServed, Atlantic City, New Jersey; Atlantic City, New Jersey, isPartOf, New Jersey; Atlantic City International Airport, location, Egg Harbor Township, New Jersey; Egg Harbor Township, New Jersey, country, United States; Atlantic City, New Jersey, leader, Don Guardian.\n\nWrite a sentence that describes this data",
+    "output": "In Egg Harbor Township, New Jersey, U.S.A lies Atlantic City International Airport. It serves the citizen of Atlantic city New Jersey, which is led by Don Guardian/.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Alan Martin (footballer), club, Accrington Stanley F.C.; Alan Martin (footballer), birthDate, 1989-01-01; Alan Martin (footballer), club, Clyde F.C..\n\nWrite a sentence that describes this data",
+    "output": "Alan Martin, born 1 January 1989, is a footballer who played for Clyde FC and Accrington Stanley FC.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Post-metal, instrument, Cello; Aaron Turner, associatedBand/associatedMusicalArtist, Twilight (band); Aaron Turner, associatedBand/associatedMusicalArtist, Isis (band); Aaron Turner, genre, Post-metal.\n\nWrite a sentence that describes this data",
+    "output": "Aaron Turner played with the band Twilight and is now an artist for the band Isis. His genre is post-metal, which uses the cello.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Binignit, course, Dessert\n\nSentence about the following data:",
+    "output": "Binignit is a dessert.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Alfons Gorbach, deathPlace, Styria; Alfons Gorbach, birthPlace, Imst; Alfons Gorbach, birthPlace, Austria.\n\nGenerate a detailed description of this data",
+    "output": "Alfons Gorbach was born in Imst, Austria and died in Styria.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Asam pedas, country, Malaysia; Malaysia, leader, Abdul Halim of Kedah.\n\nWrite a sentence that describes this data",
+    "output": "Asam pedas is a food found in Malaysia where the leader is Abdul Halim of Kedah.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: A severed Wasp originates from the United States where the leader has the title of President and the Native Americans are an ethnic group.\n\nWhat structured data could we extract from this sentence?",
+    "output": "United States, leaderTitle, President of the United States; A Severed Wasp, country, United States; United States, ethnicGroup, Native Americans in the United States",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: AmeriGas, founded on January 1, 1959, operates throughout the entire United States. The company headquarters are located in the United States where they employ more than 8,500 people.\n\nWhat data can be extracted from this sentence?",
+    "output": "AmeriGas, regionServed, United States; AmeriGas, country, United States; AmeriGas, numberOfEmployees, 8500; AmeriGas, foundingDate, 1959-01-01",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Al Asad Airbase, operatingOrganisation, United States Air Force; United States Air Force, aircraftFighter, General Dynamics F-16 Fighting Falcon\n\nWhat is sentence that verbalizes this data?",
+    "output": "The General Dynamics F-16 Fighting Falcon is an aircraft fighter in the United States Air Force who are the operating organisation for Al Asad airbase.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  }
+]

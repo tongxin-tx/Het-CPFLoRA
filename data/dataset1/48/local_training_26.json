@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Here is a question: What is HTML ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What type of thing is the question \"What does the E stand for in the equation E=mc2 ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What 's the abbreviation for trinitrotoluene ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What is the acronym for the rating system for air conditioner efficiency ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Q: CPR is the abbreviation for what ?\n\nWhich one of the following options would the answer to this be?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"CNN is an acronym for what ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What does the number `` 5 '' stand for on FUBU clothing ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What kind of thing would the answer to the question \"What does NASDAQ stand for ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"What is BPH ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"When did the last Americans leave Vietnam ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"What does the channel ESPN stand for ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What is the full form of .com ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"What will the California gas tax be in the year 2000 ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What type of thing is the question \"What is Judy Garland 's date of birth ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What type of thing is the question \"Approximately how many students are enrolled at the University of Massachusetts ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Q: What day of the week sees the most fatal car accidents ?\n\nWhich one of the following options would the answer to this be?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What kind of thing would the answer to the question \"When was the G7 group of nations formed ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What year did nylon stockings first go on sale ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Q: What is the fine for having a dog on a beach ?\n\nWhich one of the following options would the answer to this be?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"What are the chances of pregnacy if the penis does not penetrate the vagina ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Q: What geological time do we live in ?\n\nWhich one of the following options would the answer to this be?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What are the highest-paying odds on a roulette table ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"How many quarts of whole milk is needed to make one pound of butter ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"When was the Brandenburg Gate in Berlin built ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"How many years do fossils take to form ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What is the exchange rate between England and the U.S. ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"How much did a McDonald 's hamburger cost in 1963 ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What is the temperature for baking Peachy Oat Muffins ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"What does IOC stand for ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "How far away is the moon ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What is Dick Clark 's birthday ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Q: What causes tuberculosis ?\n\nWhich one of the following options would the answer to this be?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "description",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What does the abbreviation OAS stand for ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is AFS ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: What does NECROSIS mean ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What 's the abbreviation for limited partnership ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"What does snafu stand for ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What kind of thing would the answer to the question \"What does IBM stand for ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is Mikhail Gorbachev 's middle initial ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "From the following options, what is the question \"What does NAFTA stand for ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What does the `` blue ribbon '' stand for ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "abbreviation",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "How much is a Canadian 1967 twenty dollar gold coin worth ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"What was the Great Britain population from 1699-172 ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "How many dots make up the symbol for `` because '' ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"How many dollars a day did Arthur Frommer say you could get by on in Europe in 1968 ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "When was the Big Thompson flood ?\n\nWhat kind of thing would answer this question?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Would the answer to the question \"How many people own pets ?\" be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "numeric",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "What is \"What was the V-8 Juice slogan : `` the tastebud '' ?\" asking about?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "description",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Here is a question: Who played Maria in the film West Side Story ?\n\nWould the answer to this question be an entity, an abbreviation, a description, a human, a location, or a numeric value?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  },
+  {
+    "instruction": "Is the question \"Who portrayed Renaud in Casablanca ?\" asking about an entity, an abbreviation, a description, a human, a location, or a numeric entity?\n\nOPTIONS:\n- description\n- entity\n- abbreviation\n- human\n- numeric\n- location",
+    "output": "human",
+    "task": "trec",
+    "category": "question_classification"
+  }
+]

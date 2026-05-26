@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Sentence 1: The two streets connect to become a highway.\nSentence 2: Our computers connected together.\nDoes connect mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "different meanings",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: To raise somebody to office.\nHere is another sentence: Chew with your mouth shut -- were you raised in a barn?\nDoes the term raise mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: Guard against infection.\nSentence 2: Guard against becoming too friendly with the staff.\nDoes guard mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"mine\" mean the same thing in these two sentences?\n\nHe came out of the coal mine with a face covered in black.\n\nMost coal and ore comes from open-pit mines nowadays.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is care used to mean the same thing in the next two sentences?\n\nHe doesn't care about how / whether she comes.\n\nI don't care what he does.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: It just won't make much difference to me.\nSentence 2: His support made a real difference.\nDoes difference mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"voice\" mean the same thing in \"The Times is not the voice of New York.\" and \"The voice of the law.\"?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) We must move quickly. (2) To move in a matter., does the word move mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: Do you want to work after the age of 60?\nSentence 2: Is your husband working again?\nDoes work mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "The war on poverty.\nThe \"war on terror\" is a campaign against terrorist crime.\nDoes the word \"war\" mean the same thing in the above two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: Arouse pity.\nSentence 2: To arouse jealousy.\nDoes arouse mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) I mean no harm. (2) I meant to take the car in for a smog check, but it slipped my mind., does the word mean mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does word \"acquisition\" have the same meaning in the following two sentences?\n\nThe acquisition of wealth.\n\nThe acquisition of sports equipment can be fun in itself.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) How should I take this message? (2) He was often taken to be a man of means., does the word take mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does word \"clarify\" have the same meaning in the following two sentences?\n\nClarify beer.\n\nClarify the butter.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"play\" used in the same way in the following two sentences?\n\nPlay the stock market.\n\nThey played games on their opponents.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"note\" mean the same thing in \"I didn't have any coins to pay with, so I used a note.\" and \"He peeled off five one-thousand-zloty notes.\"?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"neighbour\" have the same definition in the next two sentences?\n\nMy neighbour has an annoying cat.\n\nThey're our neighbours across the street.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: To purchase land, to purchase a house.\nHere is another sentence: Carmen purchased a dress for $50.\nDoes the term purchase mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) The English language. (2) He recorded the spoken language of the streets., does the word language mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does word \"floor\" have the same meaning in the following two sentences?\n\nThe room has a wooden floor.\n\nWe spread our sleeping bags on the dry floor of the tent.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"youth\" mean the same thing in these two sentences?\n\nI made many mistakes in my youth, but learned from them all.\n\nMake the most of your youth, it will not last forever.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is be used to mean the same thing in the next two sentences?\n\nI shall be writing to you soon.\n\nThe sky is a deep blue today.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"feel\" used in the same way in the following two sentences?\n\nMy cold is gone -- I feel fine today.\n\nShe felt sad after her loss.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"have\" used in the same way in the following two sentences?\n\nThe only girl who would have him was the miller's daughter.\n\nI won't have this dog in my house!\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: When I realized that I had hurt my friend, I felt deep shame.\nSentence 2: One mistake brought shame to all his family.\nDoes shame mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) The new railroad will connect the northern part of the state to the southern part. (2) Herman connected the computers., does the word connect mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"check\" have the same definition in the next two sentences?\n\nHe paid all his bills by check.\n\nI was not carrying cash, so I wrote a check for the amount.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: To audit the accounts of a treasure, or of parties who have a suit depending in court.\nHere is another sentence: Audit accounts and tax returns.\nDoes the term audit mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is treat used to mean the same thing in the next two sentences?\n\nShe was tempted to treat the whole affair as a joke.\n\nI treated his advances as a joke.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is level used to mean the same thing in the next two sentences?\n\nTake the elevator and get off at the promenade level.\n\nWhat level is the office on?\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"show\" used in the same way in the following two sentences?\n\nThe dirty side will show.\n\nHis good upbringing really shows.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Leave the young fawn alone.\nUnfortunately, this cleaning product leaves behind a noticeable residue.\nDoes the word \"leave\" mean the same thing in the above two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: His friend's opinion had an impact on his decision.\nHere is another sentence: Our choice of concrete will have a tremendous impact on the building's mechanical performance.\nDoes the term impact mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "This Chinese year is the year of the Rooster.\nI was born in the year 1950.\nDoes the word \"year\" mean the same thing in the above two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"avoid\" used in the same way in the following two sentences?\n\nI try to avoid the company of gamblers.\n\nHe avoided going to the area.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: When the finish is too thin it is difficult to apply evenly.\nSentence 2: The boat had a metallic finish.\nDoes finish mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Hardly enough elbow room to turn around.\nThere wasn't that much elbow room in the aircraft.\nDoes the word \"room\" mean the same thing in the above two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"come\" used in the same way in the following two sentences?\n\nMelons come from a vine.\n\nUnderstanding comes from experience.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: The meaning of life.\nHere is another sentence: What is the meaning of this sentence.\nDoes the term meaning mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"job\" mean the same thing in these two sentences?\n\nThe job of repairing the engine took several hours.\n\nI've got a job for you -- could you wash the dishes?\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is patch used to mean the same thing in the next two sentences?\n\nDoesn't that patch of clouds looks like a bunny?\n\nThe storms last summer washed away parts of the road so we can expect some rough patches up ahead.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: Many children join a sports club.\nHere is another sentence: Most politicians have joined a party.\nDoes the term join mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"analyze\" mean the same thing in these two sentences?\n\nAnalyze the evidence in a criminal trial.\n\nThe inspector analyzed the building for its soundness.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"play\" have the same definition in the next two sentences?\n\nPlay the casinos in Trouville.\n\nPlay the races.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) Remove a threat. (2) Remove the dirty dishes from the table., does the word remove mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "I take it you're not going?\nYou can't take credit for this!\nDoes the word \"take\" mean the same thing in the above two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"course\" used in the same way in the following two sentences?\n\nIf you persist in that course you will surely fail.\n\nOnce a nation is embarked on a course of action it becomes extremely difficult for any retraction to take place.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: After many days of hard work, we finally had enough firewood for the winter.\nHere is another sentence: They collected and cut their own firewood.\nDoes the term firewood mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: They had a good time together.\nHere is another sentence: We had a wonderful time at the party.\nDoes the term time mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  }
+]

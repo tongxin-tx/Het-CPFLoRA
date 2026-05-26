@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nBeat the heat with air conditioning and a mini bar",
+    "output": "Beat the heat with air conditioning and a mini bar.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "In a study conducted in New York schools found that those students who live in places where they constantly heard the noise of passing trains on the entire eleven months behind in its development of the students who lived in areas where they were not constantly exposed to any noise impact\n\nCould you correct the punctuation please?",
+    "output": "In a study conducted in New York schools, found that those students who live in places where they constantly heard the noise of passing trains on the entire eleven months behind in its development of the students who lived in areas where they were not constantly exposed to any noise impact.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\n1 month ago 0700 XXXDan dogging blowjob cumshot milf Hungarian outdoor brunette",
+    "output": "1 month ago 07:00 XXXDan dogging, blowjob, cumshot, milf, Hungarian, outdoor, brunette",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "830  Standard course  host family German Course  20 lessons per week  45 minutes per lesson\n\nCould you correct the punctuation please?",
+    "output": "830 € Standard course + host family (German Course - 20 lessons per week - 45 minutes per lesson)",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "It was some years later as I was reorganising my home office when half a dozen napkins fell out of a notebook and I used them for that song\n\nAdd punctuation",
+    "output": "It was some years later, as I was reorganising my home office, when half a dozen napkins fell out of a notebook and I used them for that song.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Sign up to receive the latest Nobo news solutions  offers eu en\n\nAdd punctuation",
+    "output": "Sign up to receive the latest Nobo news, solutions & offers eu en",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Details With the first class materialfashion in design and comfortable for wearMoncler Loire Coat Women Fur Hoodie Zip With Button Blue are filling with the white goose downvery comfortable for wearingit is a nice choice for people if they are looking for the world fashionthey will lead the market fashion this winteryou should not miss itwelcome to come to our website to get the Moncler Loire Coat Womenand enjoy the feeling they bring to you\n\nCould you correct the punctuation please?",
+    "output": "Details: With the first class material,fashion in design and comfortable for wear,'Moncler Loire Coat Women Fur Hoodie Zip With Button Blue' are filling with the white goose down,very comfortable for wearing,it is a nice choice for people if they are looking for the world fashion,they will lead the market fashion this winter,you should not miss it,welcome to come to our website to get the 'Moncler Loire Coat Women'.and enjoy the feeling they bring to you.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "She made no answer but nodded a little with her head So he climbed up the tree himself carried her down placed her on his horse and bore her home\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "She made no answer, but nodded a little with her head. So he climbed up the tree himself, carried her down, placed her on his horse, and bore her home.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Hotel Bara Junior is a 2star establishment located in the centre of Budapest in a lovely green area on highway M1 and",
+    "output": "Hotel Bara Junior is a 2-star establishment located in the centre of Budapest, in a lovely green area on highway M1 and...",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Even though both the EU and CEN have expressed wishes to include environmental aspects in standards there is still a long way to go before this becomes a reality in all relevant cases",
+    "output": "Even though both the EU and CEN have expressed wishes to include environmental aspects in standards, there is still a long way to go before this becomes a reality in all relevant cases.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Controls included are adjusting seed metering tramlining calibration and logging data  events for example\n\nAdd punctuation",
+    "output": "Controls included are adjusting seed metering, tramlining, calibration and logging data & events, for example.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Perfect location in Pore prices from 56EUR per day\n\nCould you correct the punctuation please?",
+    "output": "Perfect location in Poreč, prices from 56EUR per day.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: These hightech tools additionally boast advanced ergonomics popular with both demanding professionals and amateurs",
+    "output": "These high-tech tools additionally boast advanced ergonomics, popular with both demanding professionals and amateurs.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: 22 Circulation  A set speed limit of 10 km  h is obbligatory in order to circulate inside the campsite",
+    "output": "22. Circulation – A set speed limit of 10 km / h is obbligatory in order to circulate inside the campsite.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: In the Freeway Systems robots palletise the goods in a stable pattern which the robotic stretch wrappers secure in turn providing very stable pallets",
+    "output": "In the Freeway Systems, robots palletise the goods in a stable pattern which the robotic stretch wrappers secure, in turn providing very stable pallets.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Please confirm that you have accepted our Terms  Conditions and our Data Privacy Policy Afterwards you may continue with your registration",
+    "output": "Please confirm that you have accepted our Terms & Conditions and our Data Privacy Policy. Afterwards, you may continue with your registration.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Its been in the poker rooms of Europe and high stakes poker games for a long time and because of the accessibility of low stakes action in the Internet PLO is becoming a house hold name\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "It’s been in the poker rooms of Europe and high stakes poker games for a long time and because of the accessibility of low stakes action in the Internet PLO is becoming a house hold name.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "These are fabricated by our expertise using best quality raw material\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "These are fabricated by our expertise using best quality raw material.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nWritten descriptions are also the only realistic alternative when the final look of the product is yet unclear",
+    "output": "Written descriptions are also the only realistic alternative when the final look of the product is yet unclear.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: This is really something spectacularInstall Living Cell 3D screensaver and turn your desktop into the eyepiece of a powerful microscope",
+    "output": "This is really something spectacular!Install Living Cell 3D screensaver and turn your desktop into the eye-piece of a powerful microscope.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "President Lee Myungbak said Sunday Korea wants to help Greenland pursue economic development in an environmentfriendly way\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "President Lee Myung-bak said Sunday Korea wants to help Greenland pursue economic development in an environment-friendly way.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Unsure about which type of WSIM file you have Do you want to know exactly what it is who created it and how to open it\n\nCould you correct the punctuation please?",
+    "output": "Unsure about which type of WSIM file you have? Do you want to know exactly what it is, who created it, and how to open it?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Once the recovery process is over preview the recovered data to evaluate the recovery results",
+    "output": "Once the recovery process is over, preview the recovered data to evaluate the recovery results.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "1 month ago 5105 Sexu big tits public Spanish stockings lingerie\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "1 month ago 51:05 Sexu big tits, public, Spanish, stockings, lingerie",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Naruto Series game a very high technical skills required clearance\n\nAdd punctuation",
+    "output": "Naruto Series game, a very high technical skills required clearance!",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Breakfast is a varied buffet\n\nCould you correct the punctuation please?",
+    "output": "Breakfast is a varied buffet.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "A table lamp a wall lamp a pendant\n\nCould you correct the punctuation please?",
+    "output": "A table lamp, a wall lamp, a pendant.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nToday in our meeting will be present girlfriend who has a baby He is very fussy and picky eating habits",
+    "output": "Today in our meeting will be present girlfriend, who has a baby. He is very fussy and picky eating habits.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Rocket man needs to get to the bosss office pronto Problem is its up on the tenth floor Use the Intel rocket chair to get our intrepid executive to his meeting as fast as possibleCollect powerups for a rocket boost",
+    "output": "Rocket man needs to get to the boss's office, pronto. Problem is, it's up on the tenth floor! Use the Intel rocket chair to get our intrepid executive to his meeting as fast as possible.Collect power-ups for a rocket boost.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Apartment for rent in Torremolinos 550 month Ref 861\n\nCould you correct the punctuation please?",
+    "output": "Apartment for rent in Torremolinos, 550 €/month (Ref.: 861)",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "03Side rail can be aluminum or PVC\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "03.Side rail can be aluminum or PVC",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Using outdated or corrupt Lucent Technologies Router drivers can cause system errors crashes and cause your computer or hardware to fail Furthermore installing the wrong Lucent Technologies drivers can make these problems even worse",
+    "output": "Using outdated or corrupt Lucent Technologies Router drivers can cause system errors, crashes, and cause your computer or hardware to fail. Furthermore, installing the wrong Lucent Technologies drivers can make these problems even worse.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "owever Mechel did own a single 100 genuine Holbeindrawing  and that was Holbeins pen and wash drawing of a dagger sheath\n\nPlease fix the punctuation.",
+    "output": "owever, Mechel did own a single 100% genuine Holbein-drawing — and that was Holbein's pen and wash drawing of a dagger sheath.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The revolutionary XAC File Analysis Tool scans analyzes and reports back every detail about your XAC file\n\nPlease fix the punctuation.",
+    "output": "The revolutionary XAC File Analysis Tool™ scans, analyzes, and reports back every detail about your XAC file.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "It is one of the most visited district thanks to its many shops restaurants and leisure spots Moreover major sites such as Las Ramblas or Plaza Catalunya are just a few meters away from this apartment\n\nAdd punctuation",
+    "output": "It is one of the most visited district, thanks to its many shops, restaurants and leisure spots. Moreover, major sites such as Las Ramblas or Plaza Catalunya are just a few meters away from this apartment.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: 13 Be it known therefore unto the king that if this city be built and the walls be completed they will not pay tribute tax and toll and in the end it will bring damage to the kings",
+    "output": "13 Be it known therefore unto the king, that, if this city be built and the walls be completed, they will not pay tribute, tax, and toll, and in the end it will bring damage to the kings.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nThe featured China GuangDong CONTROLLER Power supply manufacturers and listed here are sourced by the karnar lighting",
+    "output": "The featured China GuangDong CONTROLLER Power supply manufacturers and listed here are sourced by the karnar lighting.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Some provinces also have own models of subsides\n\nAdd punctuation",
+    "output": "Some provinces also have own models of subsides.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "A state police investigation found that Brunelle was attempting to pass several vehicles along Little River Road when he lost control of his car and struck a guardrail on the Grist Mill Bridge around 1230 a\n\nPlease fix the punctuation.",
+    "output": "A state police investigation found that Brunelle was attempting to pass several vehicles along Little River Road when he lost control of his car and struck a guardrail on the Grist Mill Bridge around 12:30 a…",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "102012 In 6 years around the world Australia 2\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "10/2012 In 6 years around the world: Australia #2",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Selfadhesive paper or paperboard labels of all kinds nonprinted\n\nAdd punctuation",
+    "output": "Self-adhesive paper or paperboard labels of all kinds, non-printed",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nCertain points to consider in picking the featured bathroom accessories set to your bathroom Find out some best ideas which will help make your bathroom look nice using these bathroom accessory sets",
+    "output": "Certain points to consider in picking the featured bathroom accessories set to your bathroom. Find out some best ideas which will help make your bathroom look nice using these bathroom accessory sets.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Posted June 13 2010 by TPBC in News\n\nCould you correct the punctuation please?",
+    "output": "Posted June 13, 2010 by TPBC in News.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\n19 The true light was that which coming into the world lightens every man",
+    "output": "1:9 The true light was that which, coming into the world, lightens every man.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: 1 year ago 1130 NuVid first time dogging stockings penis big cock",
+    "output": "1 year ago 11:30 NuVid first time, dogging, stockings, penis, big cock",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Alto BS series pool heat pump uses stainless steel cabinet and bottom plate to resistible UV and corrosion",
+    "output": "Alto BS series pool heat pump uses stainless steel cabinet and bottom plate to resistible UV and corrosion.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: And Jehovah will make thee the head and not the tail and thou shalt be above only and thou shalt not be beneath if thou hearken unto the commandments of Jehovah thy God which I command thee this day to keep and to do them",
+    "output": "And Jehovah will make thee the head, and not the tail; and thou shalt be above only, and thou shalt not be beneath; if thou hearken unto the commandments of Jehovah thy God, which I command thee this day, to keep and to do them,",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Today Weidemann products are synonymous for compact Hoftracs wheel loaders and telehandlers in the agriculture and the equine industry forestry and wood industries municipalities nurseries biogas plants as well as various areas in industry and commercial enterprises",
+    "output": "Today, Weidemann products are synonymous for compact Hoftracs, wheel loaders and telehandlers in the agriculture and the equine industry, forestry and wood industries, municipalities, nurseries, biogas plants as well as various areas in industry and commercial enterprises.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: sxstraceexe download of 61760016385 for free From above information we can conclude that the majority of DLL errors is because of variety kinds of DLL missing or we can say its essential reason is DLL missing  DLL not found Apparently the easiest way to solve this problem is to download a new one to the right position to get system back to its normal track against PC bad visitors BlindWrite BackdoorWin32DelfQM ProgramWin32Cleanator",
+    "output": "sxstrace.exe download of 6.1.7600.16385 for free: From above information we can conclude that the majority of DLL errors is because of variety kinds of DLL missing, or we can say its essential reason is DLL missing / DLL not found. Apparently the easiest way to solve this problem is to download a new one to the right position to get system back to its normal track against PC bad visitors BlindWrite, Backdoor:Win32/Delf.QM, Program:Win32/Cleanator.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Because just like an old photo or a passed down teak table can bring memories about past experiences of people youve known clothes are just as nostalgic items",
+    "output": "Because just like an old photo or a passed down teak table can bring memories about past experiences of people you’ve known, clothes are just as nostalgic items.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  }
+]

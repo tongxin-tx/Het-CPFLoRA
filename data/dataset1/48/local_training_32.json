@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Ben Urich, creator, Gene Colan",
+    "output": "Ben Urich was created by Gene Colan.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Dublin is the largest city in Ireland.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Ireland, largestCity, Dublin",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: A Loyal Character Dancer is published by Soho Press in the United States. The language of the United States is English.\n\nWhat structured data could we extract from this sentence?",
+    "output": "A Loyal Character Dancer, publisher, Soho Press; A Loyal Character Dancer, country, United States; United States, language, English language",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Bakewell pudding, region, Derbyshire Dales; Derbyshire Dales, leader, Patrick McLoughlin; Derbyshire Dales, isPartOf, Derbyshire.\n\nGenerate a detailed description of this data",
+    "output": "Bakewell pudding originates from the Derbyshire Dales in Derbyshire. The leader of this region is Patrick McLoughlin.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Alessio Romagnoli used to play for the Italy national under-19 football team and currently plays for the Italy national under-17 football team, which is coached by Alessandro Dal Canto.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Alessio Romagnoli, club, Italy national under-17 football team; Italy national under-17 football team, coach, Alessandro Dal Canto; Alessio Romagnoli, club, Italy national under-19 football team",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Ethiopia, leader, Mulatu Teshome; Addis Ababa, isPartOf, Addis Ababa Stadium; Addis Ababa City Hall, location, Addis Ababa; Addis Ababa, country, Ethiopia; Ethiopia, language, Amharic\n\nSentence about the following data:",
+    "output": "Addis Ababa is in in Ethiopia and has a City Hall and Stadium. Mulatu Teshome is an Ethiopian leader and the language is Amharic.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: Acura TLX, engine, V6 engine; Acura TLX, assembly, Marysville Auto Plant; Acura TLX, class, Luxury vehicle; Acura TLX, layout, \"front-wheel drive / all-wheel drive\".\n\nWrite a sentence that describes this data",
+    "output": "The luxury vehicle, Acura TLX, with a V6 engine, front-wheel and all-wheel drive, was made at the Marysville Auto Plant.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Alan Martin (footballer), club, Accrington Stanley F.C.; Alan Martin (footballer), birthDate, 1989-01-01; Alan Martin (footballer), club, Crewe Alexandra F.C.",
+    "output": "Alan Martin was born on 1 January 1989 and previously played football for Accrington Stanley FC and currently with Crewe Alexandra FC.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: Alhambra, shipLaunch, 1855-05-31",
+    "output": "The Alhambra was launched on 31st May 1855.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Asilomar Conference Grounds, architecturalStyle, American Craftsman\n\nWhat is sentence that verbalizes this data?",
+    "output": "The Asilomar Conference Grounds have the architectural style of American Craftsman.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Costa Crociere, parentCompany, Carnival Corporation & plc; AIDAstella, operator, AIDA Cruises; AIDAstella, builder, Meyer Werft; Costa Crociere, location, Italy; AIDAstella, owner, Costa Crociere\n\nWhat is sentence that verbalizes this data?",
+    "output": "AIDAstella is owned by Costa Crociere Italy and operated by AIDA Cruises. Carnival Corporation & plc. are the parent co. of Costa crociere.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Ajoblanco, ingredient, Almond; Almond, family, Rosaceae; Almond, division, Flowering plant\n\nSentence about the following data:",
+    "output": "Ajoblanco has almond as one of its ingredients, which is part of the Rosaceae family and in the division of flowering plants.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Peter Stöger is manager of 1. FC Köln and plays for the Austria National Football team.\n\nWhat structured data could we extract from this sentence?",
+    "output": "1. FC Köln, manager, Peter Stöger; Peter Stöger, club, Austria national football team",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Azerbaijan, leaderTitle, Prime Minister of Azerbaijan; Baku Turkish Martyrs' Memorial, location, Azerbaijan; Azerbaijan, leader, Artur Rasizade\n\nSentence about the following data:",
+    "output": "The Baku Turkish Martyrs' Memorial is found in Azerbaijan, a country led by the Prime Minister Artur Rasizade.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: 250 Delaware Avenue, buildingStartDate, \"January, 2014\"; 250 Delaware Avenue, floorCount, 12",
+    "output": "The construction of 250 Delaware Avenue, which has 12 floors, began in January 2014.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: William Anders, occupation, Fighter pilot; William Anders, mission, Apollo 8; William Anders, birthPlace, British Hong Kong; Apollo 8, backupPilot, Buzz Aldrin; Apollo 8, crewMembers, Frank Borman; Apollo 8, operator, NASA; William Anders, status, \"Retired\".\n\nWrite a sentence that describes this data",
+    "output": "William Anders was born in British Hong Kong. He is a retired fighter pilot who served on the NASA operated Apollo 8. Frank Borman was also a crew member of Apollo 8 and Buzz Aldrin was a backup pilot.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Alex Day, genre, Synthpop; Alex Day, associatedBand/associatedMusicalArtist, Chameleon Circuit (band); Alex Day, associatedBand/associatedMusicalArtist, Charlie McDonnell.\n\nGenerate a detailed description of this data",
+    "output": "Alex Day plays with the band Chameleon Circuit and his music genre is Synthpop. Mr. Day knows Charlie McDonnell, musician.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: The architect of the AC Hotel Bella Sky, Copenhagen was 3XN.\n\nWhat structured data could we extract from this sentence?",
+    "output": "AC Hotel Bella Sky Copenhagen, architect, 3XN",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Abdul Taib Mahmud, almaMater, University of Adelaide; Abdul Taib Mahmud, party, Parti Pesaka Bumiputera Bersatu; Abdul Taib Mahmud, birthPlace, Miri, Malaysia; Abdul Taib Mahmud, successor, Sulaiman Abdul Rahman Taib; Abdul Taib Mahmud, residence, \"Demak Jaya, Jalan Bako, Kuching, Sarawak\".\n\nGenerate a detailed description of this data",
+    "output": "Abdul Taib Mahmud, who was succeeded by Sulaiman Abdul Rahman Taib, was born in Miri, Malaysia and his residence is Demak Jaya, Jalan Bako, Kuching, Sarawak. His alma mater is the University of Adelaide and he belongs to the Parti Pesaka Bumiputera Bersatu.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: 11th Mississippi Infantry Monument, location, Seminary Ridge.\n\nWrite a sentence that describes this data",
+    "output": "The 11th Mississippi Infantry Monument is located at Seminary Ridge.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: A-Rosa Luna, shipDisplacement, 1850.0 (tonnes); A-Rosa Luna, shipLaunch, 2004-12-16; A-Rosa Luna, topSpeed, 24.0; A-Rosa Luna, builder, \"Neptun Werft, Warnemünde,\"; A-Rosa Luna, length, 125800.0 (millimetres)",
+    "output": "The A-Rosa Luna was built by Neptun Werft, Warnemünde. It weighs 1850 tonnes, is 125800.0 (millimetres) long and has a top speed of 24.0. The ship was launched on December 16, 2004.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Albany, Oregon, isPartOf, Oregon; Oregon, capital, Salem, Oregon; Albany, Oregon, country, United States; United States, ethnicGroup, Native Americans in the United States.\n\nGenerate a detailed description of this data",
+    "output": "Albany, Oregon (Capital:Salem) is part of the United States, which is home of Native Americans.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Allen Forrest, genre, Hip hop music; Hip hop music, stylisticOrigin, Funk; Hip hop music, derivative, Drum and bass",
+    "output": "Hip hop, the musical genre of Allen Forrest, has stylistic origins in funk. Drum and bass sound comes from hip hop.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Alberto Teisaire, office, \"Provisional President of the Argentine Senate\"; Alberto Teisaire, party, Justicialist Party; Alberto Teisaire, successor, Isaac Rojas; Alberto Teisaire, birthPlace, Mendoza, Argentina; Alberto Teisaire, inOfficeWhilePresident, Juan Perón.\n\nGenerate a detailed description of this data",
+    "output": "Alberto Teisaire, born in Mendoza, Argentina, worked as a Provisional President of the Argentine Senate and was in office while Juan Peron was President. Teisaire was a member of the Justicialist Party and was succeeded by Isaac Rojas.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Aaron S. Daggett, battle, Battle of the Wilderness; Aaron S. Daggett, award, Purple Heart; Aaron S. Daggett, birthPlace, Greene, Maine",
+    "output": "Greene, Maine is the birthplace of Aaron S Daggett who fought in the Battle of the Wilderness and was awarded the Purple Heart.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: 1089 Tama, escapeVelocity, 0.0068 (kilometrePerSeconds); 1089 Tama, apoapsis, 373513000.0 (kilometres)",
+    "output": "1089 Tama has an escape velocity of 0.0068 kilometres per second and its apoapsis is 373513000.0 kms.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Akron, Ohio, isPartOf, United States; United States, ethnicGroup, African Americans\n\nWhat is sentence that verbalizes this data?",
+    "output": "Akron, Ohio is part of the United States and African Americans are an ethnic group within the U.S.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence about this data: 11 Diagonal Street, floorCount, 20; 11 Diagonal Street, owner, Redefine Properties Limited",
+    "output": "11 Diagonal Street which has 20 floors is owned by Redefine Properties Ltd.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: A.C. Cesena, ground, Cesena; A.C. Cesena, numberOfMembers, 23900",
+    "output": "A.C. Cesena has 23900 members and their ground is in Cesena.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Alexandria is part of Madison County, Indiana, United States. The capital of the state is Indianapolis and the language spoken is American English.\n\nWhat data can be extracted from this sentence?",
+    "output": "Indiana, capital, Indianapolis; Alexandria, Indiana, isPartOf, Indiana; Madison County, Indiana, country, United States; Indiana, language, English Americans; Alexandria, Indiana, isPartOf, Madison County, Indiana",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Alfa Romeo 164, relatedMeanOfTransportation, Fiat Croma; Alfa Romeo 164, assembly, Italy; Italy, capital, Rome; Alfa Romeo 164, relatedMeanOfTransportation, Lancia Thema\n\nWhat is sentence that verbalizes this data?",
+    "output": "The Alfa Romeo 164, assembled in Italy (capital:Rome), the Fiat Croma and Lancia Thema, are related modes of transportation.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: 101 Helena, discoverer, James Craig Watson; James Craig Watson, nationality, Canada\n\nSentence about the following data:",
+    "output": "101 Helena was discovered by the Canadian James Craig Watson.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Allen Forrest, birthPlace, Fort Campbell",
+    "output": "Fort Campbell is the birth place of Allen Forrest.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: São José dos Pinhais, isPartOf, Paraná (state)",
+    "output": "São José dos Pinhais is part of the state of Paraná.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: William Anders, mission, Apollo 8; Apollo 8, crewMembers, Frank Borman",
+    "output": "William Anders and Frank Borman were Apollo 8 were crew members.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "11th Mississippi Infantry Monument, state, \"Pennsylvania\"\n\nWhat is sentence that verbalizes this data?",
+    "output": "The 11th Mississippi Infantry Monument is in Pennsylvania.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Sportpark De Toekomst, owner, AFC Ajax N.V.\n\nSentence about the following data:",
+    "output": "AFC Ajax N.V. own Sportpark De Toekomst.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Akeem Adams, club, Ferencvárosi TC; Ferencvárosi TC, manager, Thomas Doll; Ferencvárosi TC, chairman, Gábor Kubatov; Akeem Adams, club, Central F.C.",
+    "output": "Akeem Adams plays for Central FC and Ferencvarosi TC, where Thomas Doll is the manager and Gabor Kubatov is the chairman.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Philippines, ethnicGroup, Moro people",
+    "output": "People of Moro ethnicity are from the Philippines.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "This is some data: Acura TLX, manufacturer, Honda; Acura TLX, engine, Honda K engine; Acura TLX, relatedMeanOfTransportation, Honda Accord.\n\nGenerate a detailed description of this data",
+    "output": "The Acura TLX is manufactured by Honda, has a Honda K engine, and is related to the Honda Accord.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate a sentence that describes the following data: Juan Perón, inOfficeWhileVicePresident, Hortensio Quijano; Alberto Teisaire, party, Justicialist Party; Alberto Teisaire, inOfficeWhilePresident, Juan Perón",
+    "output": "Alberto Teisaire, who is a member of the Justicialist Party, was in office while Juan Peron was President and Hortensio Quijano was Vice President.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Bionico, ingredient, Raisin; Bionico, dishVariation, Cottage cheese; Bionico, course, Dessert\n\nWhat is sentence that verbalizes this data?",
+    "output": "Bionico contains raisins and can be varied by using cottage cheese, it is served at the dessert course.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Data: Ab Klink, almaMater, Leiden University; Ab Klink, birthPlace, Stellendam\n\nSentence about the following data:",
+    "output": "Ab Klink, born in Stellendam, graduated from Leiden University.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Bionico, country, Mexico; Mexico, leader, Silvano Aureoles Conejo\n\nWhat is sentence that verbalizes this data?",
+    "output": "Silvano Aureoles Conejo is the leader of Mexico where Bionico is one of the local foods.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Agra Airport, icaoLocationIdentifier, \"VIAG\"; Agra Airport, location, Uttar Pradesh; Uttar Pradesh, isPartOf, Awadh; Uttar Pradesh, isPartOf, Bundelkhand\n\nWhat is sentence that verbalizes this data?",
+    "output": "Agra airport has the ICAO location identifier VIAG and is in Uttar Pradesh, part of Awadh and Bundelkhand.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Generate an approximately fifteen-word sentence that describes all this data: Baku Turkish Martyrs' Memorial, designer, \"Hüseyin Bütüner and Hilmi Güner\"; Baku Turkish Martyrs' Memorial, material, \"Red granite and white marble\"",
+    "output": "Huseyin Butuner and Hilmi Guner designed the Baku Turkish Martyrs' Monument which is made of red granite and white marble.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Here is some data: U.S. Città di Palermo, manager, Giuseppe Iachini; Abel Hernández, club, U.S. Città di Palermo.\n\nWrite a sentence that describes this data",
+    "output": "Abel Hernandez plays for the club, U.S. Citta di Palermo, managed by Giuseppe Iachini.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: Abarth 1000 GT Coupé, designCompany, Gruppo Bertone; Abarth 1000 GT Coupé, manufacturer, Abarth; Abarth, foundationPlace, Italy; Abarth, foundedBy, Carlo Abarth",
+    "output": "The Abarth 1000 GT Coupe was designed by Gruppo Bertone and manufactured by Abarth, which was founded by Carlo Abarth. The Abarth foundation was founded in Italy.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Produce a long descriptive sentence that uses all these words: American Journal of Mathematics, publisher, Johns Hopkins University Press; Johns Hopkins University Press, country, United States; American Journal of Mathematics, issnNumber, \"1080-6377\"",
+    "output": "With the ISSN number 1080-6377, The American Journal of Mathematics was published by Johns Hopkins University Press in the United States.",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  },
+  {
+    "instruction": "Sentence: Auburn is in Pierce County, Washington, in the United States.\n\nWhat structured data could we extract from this sentence?",
+    "output": "Auburn, Washington, isPartOf, Pierce County, Washington; Auburn, Washington, country, United States",
+    "task": "web_nlg_en",
+    "category": "structure_to_text"
+  }
+]

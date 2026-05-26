@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Premise: an elderly person paints an imitation of a painting having on the wall while sitting.\n\nHypothesis: An elderly person paints.\n\n.Can we conclude that the hypothesis is true if the premise is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: A man with a green, star-shaped balloon is standing in front of a large building.\n\nHypothesis: A man is standing in front of a building.\n\n.Given the premise, can we conclude the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: a woman wearing sunglasses sits inside of a building with several other people looking outside.\n\nHypothesis: There are people sitting inside\n\n.Given the premise, can we conclude the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is it possible to conclude that \"Cleanup workers on cleaning on the road.\" if \"Workers are cleaning a road.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Based on the sentence \"A man dressed as a cowboy wrestles with a young calf in midair, an ambulance and onlookers are behind a fence.\", is the sentence \"A young calf is being wrestled by a man.\" a true sentence?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is it possible to conclude that \"A balding male in a yellow shirt sitting down, watching a crowd of people.\" if \"A human sitting\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is it possible to conclude that \"Young man with a cigarette placing food on a paper plate.\" if \"A young man has a cigarette\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: Two couples are dancing in an open-air retail area.\n\nHypothesis: Couples are dancing.\n\n.Can we conclude that the hypothesis is true if the premise is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is it possible to conclude that \"A street with a cafe and eatery in Italy.\" if \"An Italian city street withh two places to eat.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: A man is writing a note in his kitchen on a piece of paper.\n\nHypothesis: A man is writing a note in his kitchen/\n\n.Given the premise, can we conclude the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Based on the sentence \"A small child standing under a spraying water fountain.\", is the sentence \"The little kid is standing outside.\" a true sentence?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: One horse presses its nose to another horse in a field\n\nHypothesis: one horse pushes its nose to another horse outside\n\n.Given the premise, can we conclude the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"A business presentation where the presenter is wearing a striped shirt and using a projector.\", can we conclude \"There is a presentation happening.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is it possible to conclude that \"A child swings high at a park.\" if \"A child is on a swing\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Based on the sentence \"People are riding a bus.\", is the sentence \"The bus is moving.\" a true sentence?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"People looking over the rail at something in the distance.\", can we conclude \"People looking over bar\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: A female diving into the cove on a sunny day.\n\nHypothesis: A girl is going into the water.\n\n.Can we conclude that the hypothesis is true if the premise is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is the premise \"A young blond boy is eating a banana while an elderly woman in the background watches.\" true if \"boy eats banana\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is the premise \"A man dressed in gray is standing outside of an ice cream cart while a police office directs traffic in the background.\" true if \"Man at an ice cream cart watching police do work\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Here is a premise: \"A man wearing a kilt is standing on a field surrounded by flags and flowers.\"\n\nHere is a hypothesis: \"The man is wearing a kilt.\"\n\n.Does the premise tell us whether the hypothesis is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"People dressed in red pants wearing yellow gloves hold bright fireworks suspended on long poles.\", does this mean that \"Several people are holding something in their hands.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: A new mom holds her baby for the first time.\n\nHypothesis: A mom holds her baby for the first time.\n\n.Can we conclude that the hypothesis is true if the premise is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: A woman with a green shirt takes a drink from a water fountain.\n\nHypothesis: Someone is drinking water.\n\n.Can we conclude that the hypothesis is true if the premise is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: A young man in a black t-shirt plays Croquet with an inflatable mallet.\n\nHypothesis: A man playing croquet\n\n.Can we conclude that the hypothesis is true if the premise is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: There is a blue car on a road in the roads splashing through a puddle.\n\nHypothesis: The blue car is driving through a puddle.\n\n.Can we conclude that the hypothesis is true if the premise is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"A man in a blue plaid shirt is comforting a crying woman in a black truck.\", does it logically follow that \"A man comforts a crying woman.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is the premise \"A boy is leaning against a brick wall near some trees.\" true if \"There is a boy and trees near a brick building.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"A man wearing a helmet is driving a go-cart.\", does this mean that \"A man drives a go kart.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Here is a premise: \"A man in a black shirt is riding a mule trough the desert, with the sun shining in the background.\"\n\nHere is a hypothesis: \"A man is riding a mule outdoors.\"\n\n.Does the premise tell us whether the hypothesis is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is it possible to conclude that \"Asian people standing on the street waiting for a bus.\" if \"People are waiting for a bus.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Here is a premise: \"A man in a pink and green shirt is riding down what appears to be a parade route while on a tiny bicycle.\"\n\nHere is a hypothesis: \"A man has a pink and green shirt.\"\n\n.Does the premise tell us whether the hypothesis is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Based on the sentence \"a man with a black cap and blue shirt holding a young girl in a white sweater.\", is the sentence \"Two men are with a young child.\" a true sentence?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"Two little boys climbing into the gray van and the third little boy secure in his car set.\", does it logically follow that \"Children are getting into a vehicle.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is it possible to conclude that \"Four women in all black barefoot posing on the beach with sailboats in the distance.\" if \"four women posing on the beach\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is the premise \"The girl in white shirt is standing next to an interesting window.\" true if \"A girl stands by a window.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: People with a net are showing the little fish they have caught for the day.\n\nHypothesis: The people went fishing today.\n\n.Given the premise, can we conclude the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"Two women carrying a bag walking on sidewalk near a lake\", does it logically follow that \"There are two women walking outdoors.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"A boy wearing a red shirt is running through the sand.\", does this mean that \"boy runs in sand\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: A bald middle-aged man in a tank top is purchasing something from an elderly woman's table at a yard sale.\n\nHypothesis: The people are at a yard sale\n\n.Given the premise, can we conclude the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"A man in a yellow hard hat and blue overalls dumps dirt into a wheelbarrow.\", does it logically follow that \"The wheelbarrow has dirt in it.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Based on the sentence \"Two women share an umbrella as it rains.\", is the sentence \"Two women share an umbrella.\" a true sentence?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Premise: A man leans against a green post in front of an orange traffic cone.\n\nHypothesis: The man is outdoors leaning against a post.\n\n.Can we conclude that the hypothesis is true if the premise is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Here is a premise: \"A brown and black dog is laying on a shaggy rug.\"\n\nHere is a hypothesis: \"A dog is lying on a rug.\"\n\n.Does the premise tell us whether the hypothesis is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"A person with a construction vest is using a lawn tool to cut hedges off the top of a bush\", can we conclude \"The person is doing lawn work.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"People are at a party at night.\", does it logically follow that \"People who are having fun\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Here is a premise: \"A little boy in blue lays on an empty floor.\"\n\nHere is a hypothesis: \"A boy is laying.\"\n\n.Does the premise tell us whether the hypothesis is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"The man is driving a small red race car around a track.\", does it logically follow that \"The man is driving race car.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Here is a premise: \"Two teams compete in a basketball game.\"\n\nHere is a hypothesis: \"Several people play a game.\"\n\n.Does the premise tell us whether the hypothesis is true?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "If \"Two kids play with plastic shovels in a snowy pond.\", does this mean that \"The kids are playing outside.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  },
+  {
+    "instruction": "Is it possible to conclude that \"A woman in a black t-shirt is vacuuming the hallway.\" if \"The woman is touching the vacumm.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+    "output": "yes",
+    "task": "snli",
+    "category": "entailment"
+  }
+]

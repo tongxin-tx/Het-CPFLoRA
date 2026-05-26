@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Does word \"tautology\" have the same meaning in the following two sentences?\n\nGiven a Boolean A, \"A OR (NOT A)\" is a tautology.\n\nA logical statement which is neither a tautology nor a contradiction is a contingency.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does word \"admit\" have the same meaning in the following two sentences?\n\nTo admit a serious thought into the mind.\n\nTo admit evidence in the trial of a cause.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is flatten used to mean the same thing in the next two sentences?\n\nFlatten your stomach with these exercises.\n\nFlatten a road.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: While being impulsive can be great for artists, it is not a desirable quality for engineers.\nHere is another sentence: One of the qualities of pure iron is that it does not rust easily.\nDoes the term quality mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does word \"tab\" have the same meaning in the following two sentences?\n\nFiles with a red tab will be stored separately.\n\nThe filing cards were organized by cards having indexed tabs.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) My neighborhood voted for Bush. (2) It is a friendly neighborhood., does the word neighborhood mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is grip used to mean the same thing in the next two sentences?\n\nIt was an old briefcase but it still had a good grip.\n\nThere are several good grips on the northern face of this rock.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is help used to mean the same thing in the next two sentences?\n\nCan you help me carry this table?\n\nEveryone helped out during the earthquake.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"lightning\" mean the same thing in these two sentences?\n\nThat tree was hit by lightning.\n\nThe lightning was hot enough to melt the sand.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"empty\" mean the same thing in these two sentences?\n\nTo empty a well or a cistern.\n\nThe cinema emptied quickly after the end of the film.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"replace\" mean the same thing in these two sentences?\n\nThe insurance will replace the lost income.\n\nWe need to replace the secretary that left a month ago.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"canvas\" mean the same thing in \"The movie demanded a dramatic canvas of sound.\" and \"The crowded canvas of history.\"?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: To beam forth light.\nSentence 2: The fire beamed on their faces.\nDoes beam mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"enormity\" mean the same thing in \"In careful usage the noun enormity is not used to express the idea of great size.\" and \"Universities recognized the enormity of their task.\"?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"tell\" mean the same thing in \"I tell you that man is a crook!\" and \"Ellen told Helen about the situation.\"?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is find used to mean the same thing in the next two sentences?\n\nI find him to be obnoxious.\n\nI found the movie rather entertaining.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) To loosen a knot. (2) After the Thanksgiving meal, Bill loosened his belt., does the word loosen mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "He has just made his first sale.\nThey had to complete the sale before the banks closed.\nDoes the word \"sale\" mean the same thing in the above two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: Come down here!\nHere is another sentence: He came from France to Colorado.\nDoes the term come mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"create\" have the same definition in the next two sentences?\n\nYou can create the color orange by mixing yellow and red.\n\nHe created a new movement in painting.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"mirror\" have the same definition in the next two sentences?\n\nI had a look in the mirror to see if the blood had come off my face.\n\nWe could see the lorry in the mirror, so decided to change lanes.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: His conflict of interest made him ineligible for the post.\nSentence 2: A conflict of loyalties.\nDoes conflict mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"loss\" have the same definition in the next two sentences?\n\nA serious loss of business.\n\nWeight loss.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is seat used to mean the same thing in the next two sentences?\n\nThe seat of a saddle.\n\nThere were not enough seats for all the guests.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Sentence 1: Bob Dylan occupied the top slot for several weeks.\nSentence 2: She beat some tough competition for the number one slot.\nDoes slot mean the same thing in these two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here I stand, wondering what to do next.\nI am standing my ground and won't give in!\nDoes the word \"stand\" mean the same thing in the above two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"age\" have the same definition in the next two sentences?\n\nIt's been an age since we last saw you.\n\nIt was replaced because of its age.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"dwelling\" mean the same thing in \"The old house served as a dwelling for Albert.\" and \"Philip's dwelling fronted on the street. -- Alfred Tennyson.\"?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"bankruptcy\" used in the same way in the following two sentences?\n\nSpiritual bankruptcy.\n\nMoral bankruptcy.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: It was about 500 square feet in area.\nHere is another sentence: The photo is a little dark in that area.\nDoes the term area mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) A slight move of the tiller, and the boat will go off course. (2) His move put him directly in my path., does the word move mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: Read the advertisement.\nHere is another sentence: Have you read Salman Rushdie?\nDoes the term read mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"bear\" mean the same thing in these two sentences?\n\nBear a resemblance.\n\nBear a signature.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"head\" mean the same thing in these two sentences?\n\nHis horse won by a head.\n\nHe is two heads taller than his little sister.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"nose\" mean the same thing in \"Red Rum only won by a nose.\" and \"My horse lost the race by a nose.\"?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) The horse was tough to break. (2) I broke in the new intern., does the word break mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is spring used to mean the same thing in the next two sentences?\n\nThe emerging buds were a sure sign of spring.\n\nSpring is the time of the year most species reproduce.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "I give you credit for owning up to your mistake.\nHe arrived five minutes late, but to his credit he did work an extra ten minutes at the end of his shift.\nDoes the word \"credit\" mean the same thing in the above two sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"authority\" have the same definition in the next two sentences?\n\nRespect my authority!\n\nHe has the authority to issue warrants.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"improbability\" have the same definition in the next two sentences?\n\nThe improbability of such rare coincidences.\n\nImpossibility should never be confused with improbability.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is the word \"come\" used in the same way in the following two sentences?\n\nCome into contact with a terrorist group.\n\nThe water came to a boil.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) Kronas kurss -- the exchange rate of the krona. (2) Grāmata maksā piecas kronas -- the book costs five krona., does the word krona mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does the word \"run\" have the same definition in the next two sentences?\n\nThe sale will run for ten days.\n\nThe book runs 655 pages.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does word \"answer\" have the same meaning in the following two sentences?\n\nAnswer the telephone.\n\nAnswer the door.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Here is one sentence: Before they publish any book they try to determine the size of the market for it.\nHere is another sentence: We believe that the market for the new widget is the older homeowner.\nDoes the term market mean the same thing in both these sentences?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Is furniture used to mean the same thing in the next two sentences?\n\nA chair is furniture. Sofas are also furniture.\n\nHow much furniture did they leave behind?\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"gravitation\" mean the same thing in these two sentences?\n\n\"Gravitation can not be held responsible for people falling in love\" -- Albert Einstein.\n\nGravitation är svagare än elektromagnetismen, men påverkar all materia och energi.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "In these two sentences (1) Even if it's not illegal, plagiarism is usually frowned upon. (2) Copy from one, it's plagiarism. Copy from two, it's research., does the word plagiarism mean the same thing?\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does word \"authority\" have the same meaning in the following two sentences?\n\nRespect my authority!\n\nI have the authority to penalise the staff in my department, but not the authority to sack them.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  },
+  {
+    "instruction": "Does \"procession\" mean the same thing in these two sentences?\n\nA procession of mourners.\n\nProcessions were forbidden.\n\nOPTIONS:\n- different meanings\n- the same meaning",
+    "output": "the same meaning",
+    "task": "wic",
+    "category": "word_disambiguation"
+  }
+]

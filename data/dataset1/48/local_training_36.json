@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "Add punctuation to the following sentence: Doctors diagnose thalassemias using blood tests including a complete blood count CBC and special hemoglobin tests",
+    "output": "Doctors diagnose thalassemias using blood tests, including a complete blood count (CBC) and special hemoglobin tests.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: As a result of this brainstorming session a questionnaire was drawn up and sent out to every trainee along with an invitation letter to attend the seminar",
+    "output": "As a result of this brainstorming session, a questionnaire was drawn up and sent out to every trainee, along with an invitation letter to attend the seminar.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Christened in Ballum Church Denmark\n\nCould you correct the punctuation please?",
+    "output": "Christened in Ballum Church, Denmark",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: 2 fully extendable drawers with transparent front 1 of which deep and 1 shallow",
+    "output": "2 fully extendable drawers with transparent front, 1 of which deep and 1 shallow.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "It all depends on how YOU handle the situation\n\nPlease fix the punctuation.",
+    "output": "It all depends on how YOU handle the situation.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Archery is the practice of using a bow or crossbow to shoot arrows",
+    "output": "Archery is the practice of using a bow or crossbow to shoot arrows.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "One topic on the forum is wanting to get at runtime data so that courses should be able to get their own reports by querying the LMS or they should be able to look at  with some sort of authentication mechanism they should be able to look at either aggregate scores from prior attempts etc and would that be something you see a use for\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "One topic on the forum is wanting to get at run-time data, so that courses should be able to get their own reports by querying the LMS, or they should be able to look at — with some sort of authentication mechanism they should be able to look at either aggregate scores from prior attempts, etc., and would that be something you see a use for?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: The most favorite game Need for speed is always available on our website",
+    "output": "The most favorite game Need for speed is always available on our website.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: It is impossible not to note the positive line action game because it gives us the opportunity to throw out all the negative energy in the virtual world We can bomb the building storm of enemies and throw them in crowds from a machine gun and then sit in the tank and destroy the headquarters of the rebels Its great that you can do it in the virtual world and that would be the opposite",
+    "output": "It is impossible not to note the positive line action game, because it gives us the opportunity to throw out all the negative energy in the virtual world. We can bomb the building storm of enemies and throw them in crowds from a machine gun, and then sit in the tank and destroy the headquarters of the rebels. It's great that you can do it in the virtual world, and that would be the opposite.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Tourist agency  Recommended accommodation in Budva",
+    "output": "Tourist agency - Recommended accommodation in Budva",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "text with advertisement pictures which would also include links\n\nCould you correct the punctuation please?",
+    "output": "(text with advertisement pictures!) which would also include links",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Average retail price 868600",
+    "output": "Average retail price: 8686.00 Ö",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: The surfaces remain crackfree and do not show signs of bruise by clamping",
+    "output": "The surfaces remain crack-free and do not show signs of bruise by clamping",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: Not only does this paper provide a mathematically rigorous articulation of several ideas that had been developing in earlier mathematical logic it also presents foundations on which later logic could be built",
+    "output": "Not only does this paper provide a mathematically rigorous articulation of several ideas that had been developing in earlier mathematical logic, it also presents foundations on which later logic could be built.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nCount de Grasse took over command of the French fleet and again won important victories but he lost the Battle of the Saints off Dominica in 1782 Borda captained la Solitaire and commanded six ships in this battle He and the leader of the fleet de Grasse were both taken prisoner by the British",
+    "output": "Count de Grasse took over command of the French fleet and again won important victories but he lost the Battle of the Saints off Dominica in 1782. Borda captained \"la Solitaire\" and commanded six ships in this battle. He, and the leader of the fleet de Grasse, were both taken prisoner by the British.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "In addition when You interact with the Services Our servers keep an activity log unique to You that collects certain administrative and traffic information including source IP address time of access date of access web pages visited language use software crash reports and type of browser used\n\nPlease fix the punctuation.",
+    "output": "In addition, when You interact with the Services, Our servers keep an activity log unique to You that collects certain administrative and traffic information including: source IP address, time of access, date of access, web page(s) visited, language use, software crash reports and type of browser used.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Weve spared no expense Claude Dreyer declares adding that the BERNINA strategy is geared to the longterm and to sustainability\n\nPlease fix the punctuation.",
+    "output": "‘We've spared no expense' Claude Dreyer declares, adding that the BERNINA strategy is geared to the long-term and to sustainability.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Try to stay alive as long as possible Collect shields for protection\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Try to stay alive as long as possible. Collect shields for protection.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "BEF607 Midyear population population 1 July by municipality sex age and marital status DISCONTINUED\n\nPlease fix the punctuation.",
+    "output": "BEF607: Mid-year population (population 1. July) by municipality, sex, age and marital status (DISCONTINUED)",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "But he forsook the advice of the old men which they had given him and consulted with the young men who had grown up with him that stood before him\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "But he forsook the advice of the old men which they had given him, and consulted with the young men, who had grown up with him, that stood before him.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nAfter meiosis 1 formed two diploid cells with a combination of mothers and fathers chromosomes",
+    "output": "After meiosis 1 formed two diploid cells with a combination of mother's and father's chromosomes.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Hotel Manzard Panzi Location and transport\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "Hotel Manzard Panzió: Location and transport",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: What does header corruption of MOV file means",
+    "output": "What does header corruption of MOV file means?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation: Victoria is a person who loves to travel",
+    "output": "Victoria is a person who loves to travel!",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: machine solo toys homemade 18 pov squirt",
+    "output": "machine, solo, toys, homemade, 18, pov, squirt",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "It is not necessary to pretend\n\nCould you correct the punctuation please?",
+    "output": "It is not necessary to pretend,",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nPlaced in two adjacentinterrogation rooms we are unable to synchronize our stories",
+    "output": "Placed in two adjacentinterrogation rooms, we are unable to synchronize our stories.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "This product will give quick result\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "This product will give quick result.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nMeeting in the Council for Employment Social Policy Health and Consumer Affairs EPSCO",
+    "output": "Meeting in the Council for Employment, Social Policy, Health and Consumer Affairs (EPSCO)",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "You will be able to print as many copies of the completed forms as you require No need to go to the local courthouse to pick up legal forms Autoforms makes legal forms easier and affordable Forms included in this package Claim of Right to Possession Prejudgment Claim of Right to Possession \n\nCould you correct the punctuation please?",
+    "output": "You will be able to print as many copies of the completed forms as you require. No need to go to the local courthouse to pick up legal forms. Autoforms makes legal forms easier and affordable! Forms included in this package: Claim of Right to Possession Prejudgment Claim of Right to Possession \"",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: There are no wild symbols and the maximum payout is 2500 coins Name of this page is Slot Inter",
+    "output": "There are no wild symbols and the maximum payout is 2,500 coins. Name of this page is Slot Inter.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "SMdiagnosticsdll program freezing and system crashing Important system components such as Sentinelv35Clientdll and SMDiagnosticsresourcesdll become abnormal\n\nPlease fix the punctuation.",
+    "output": "SMdiagnostics.dll program freezing and system crashing: Important system components such as Sentinel.v3.5Client.dll and SMDiagnostics.resources.dll become abnormal.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: Mix flour cinnamon ginger baking powder and baking soda i a separate bowl set it aside",
+    "output": "Mix flour, cinnamon, ginger, baking powder and baking soda i a separate bowl, set it aside.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "How do I contact flowers4newzealandcom customer service if there is a problem\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "How do I contact flowers4newzealand.com customer service if there is a problem?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Thermogram C is a fuse clip where one contact is 55C 99F hotter than the others And thermogram D is a twophase wall plugin where the wire connections were loose causing the terminals to heat 55C 100F hotter than the ambient",
+    "output": "Thermogram C) is a fuse clip where one contact is 55C (99F) hotter than the others. And thermogram D) is a two-phase wall plug-in where the wire connections were loose causing the terminals to heat 55C (100F) hotter than the ambient.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "2nd Kings Chapter 13  World English Bible\n\nPlease fix the punctuation.",
+    "output": "2nd Kings Chapter 13 - World English Bible",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "23 And two boards shalt thou make for the corners of the tabernacle at the rear\n\nCould you correct the punctuation please?",
+    "output": "23 And two boards shalt thou make for the corners of the tabernacle at the rear;",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nThe calla lily  Greetings from South Africa  Winter Flowers Calla Lily Expert Knowledge",
+    "output": "The calla lily – Greetings from South Africa - Winter, Flowers, Calla Lily, Expert Knowledge",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The legislation is restricted to incidents involving personal information credit card information credit eligibility and tax file number information that would put individuals at real risk of serious harm\n\nCould you correct the punctuation please?",
+    "output": "The legislation is restricted to incidents involving personal information, credit card information, credit eligibility, and tax file number information that would put individuals at “real risk of serious harm”.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "or of the following Board i Holm\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "• or of the following Board i Holm;",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Add punctuation to the following sentence: You can install the Firefox addon Share Backported to bring it back",
+    "output": "You can install the Firefox add-on Share Backported to bring it back.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "BackgammonMasterscom reserves the right to cancel this offer at our sole discretion Terms  Conditions\n\nCan you repeat this sentence, but add in punctuation?",
+    "output": "BackgammonMasters.com reserves the right to cancel this offer at our sole discretion. Terms & Conditions",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: Unsure about which type of JAN93 file you have Do you want to know exactly what it is who created it and how to open it",
+    "output": "Unsure about which type of JAN93 file you have? Do you want to know exactly what it is, who created it, and how to open it?",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nPart Three of the Mario series is as tough and full of dangerous creatures Instructions Mario 3 Use the arrows to move up and do not try to jump on the creatures in the game for losing",
+    "output": "Part Three of the Mario series is as tough and full of dangerous creatures. Instructions Mario 3: Use the arrows to move up and do not try to jump on the creatures in the game for losing.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\n2 months ago 2500 Analdin penis small tits 18 small cock skinny Russian swallow",
+    "output": "2 months ago 25:00 Analdin penis, small tits, 18, small cock, skinny, Russian, swallow",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Please add punctuation to this: At HRG we never stand still",
+    "output": "At HRG we never stand still.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "Generate a correctly punctuated version of the following text: To begin your free file analysis simply draganddrop your BWT file inside the dotted lines below or click Browse My Computer and select your file",
+    "output": "To begin your free file analysis, simply drag-and-drop your BWT file inside the dotted lines below, or click \"Browse My Computer\" and select your file.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "If you pay by card will pay for the product highlighted on your account when the goods are delivered\n\nPlease fix the punctuation.",
+    "output": "If you pay by card will pay for the product highlighted on your account when the goods are delivered.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "The therapy depends on the number of fingers affected by onychomycosis type and severity of damage\n\nWhat is the correctly punctuated version of this sentence?",
+    "output": "The therapy depends on the number of fingers affected by onychomycosis type and severity of damage.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  },
+  {
+    "instruction": "What is the version of the following sentence with correct punctuation?\n\nThis helps our customers address their compliance and regulatory requirements",
+    "output": "This helps our customers address their compliance and regulatory requirements.",
+    "task": "fix_punct",
+    "category": "text_formatting"
+  }
+]

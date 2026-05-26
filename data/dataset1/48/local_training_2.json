@@ -1,0 +1,302 @@
+[
+  {
+    "instruction": "James asked Robert for a favor, but he refused.\nTell me who he is.\nOPTIONS:\n- James\n- Robert",
+    "output": "Robert",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Positive SSL sells wildcard certificates to Web hosting companies, but they have multiple options to purchase certificates from.\n\nWho is they referring to in this sentence?\nOPTIONS:\n- Positive SSL\n- Web hosting companies",
+    "output": "Web hosting companies",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Paula liked Ness more than Pokey because he was mean to her.\n\nWho is \"he\" in this prior sentence?\nOPTIONS:\n- Ness\n- Pokey",
+    "output": "Pokey",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The counselor gave the student advice because he is on the wrong track in life.\nBased on this sentence, who is he?\n\nOPTIONS:\n- The counselor\n- the student",
+    "output": "the student",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is he referring to in the following sentence?\nTom gave James a coat because he was cold.\n\nOPTIONS:\n- Tom\n- James",
+    "output": "James",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The policeman finally caught the criminal, because he turned himself in.\nBased on this sentence, who is he?\n\nOPTIONS:\n- The policeman\n- the criminal",
+    "output": "the criminal",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Treasure hunters have to constantly fear running into bandits, even though they are rarely out to get them.\nTell me who they is.\nOPTIONS:\n- Treasure hunters\n- bandits",
+    "output": "bandits",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which entity is they this sentence?\n\nThe Board of Directors fired the management from the company since they were not managing the company well.\n\nOPTIONS:\n- The Board of Directors\n- the management",
+    "output": "the management",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The Japanese eat a lot more seafood than the Americans because they have a lot of people who do not live near the ocean.\nTell me who they is.\nOPTIONS:\n- The Japanese\n- the Americans",
+    "output": "the Americans",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which person is it referring to in the following sentence?\nUncharted 3 did not introduce any new ideas since their last game, Uncharted 2, but it is still going to be a fun game.\n\nOPTIONS:\n- Uncharted 3\n- Uncharted 2",
+    "output": "Uncharted 2",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "U.S. Authors are fighting against Amazon's book lending program because they allow users a free book every month.\n\nWho is \"they\" in this prior sentence?\nOPTIONS:\n- U.S. Authors\n- Amazon's book lending program",
+    "output": "Amazon's book lending program",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The Roman legion attacked the Persians because they had invaded.\nWho is \"they\"?\nOPTIONS:\n- The Roman legion\n- the Persians",
+    "output": "the Persians",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is they referring to in the following sentence?\nMicrosoft Azure provides cloud servers for consumers, but they are still hesitant to switch to cloud computing.\n\nOPTIONS:\n- Microsoft Azure\n- consumers",
+    "output": "consumers",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "LA Galaxy is constantly seeking famous players to fill their ranks, but they are constantly sought after by many teams with offers.\nTell me who they is.\nOPTIONS:\n- LA Galaxy\n- famous players",
+    "output": "famous players",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Lorenze took his son to the hospital because he fell off his bike and hurt his leg.\nBased on this sentence, who is he?\n\nOPTIONS:\n- Lorenze\n- his son",
+    "output": "his son",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which person is he referring to in the following sentence?\nWill Smith and his new movie is highly anticipated by movie critic, John Billic, because he felt his role was well played in the previous movies.\n\nOPTIONS:\n- Will Smith\n- John Billic",
+    "output": "John Billic",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which person is they referring to in the following sentence?\nThe Magnificent Five will battle it out with Shen Yu's forces, but they may try and run away.\n\nOPTIONS:\n- The Magnificent Five\n- Shen Yu's forces",
+    "output": "Shen Yu's forces",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The infection spread throughout the building because it was ventilated.\nTell me who it is.\nOPTIONS:\n- The infection\n- the building",
+    "output": "the building",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Lions eat zebras because they are meaty.\nTell me who they is.\nOPTIONS:\n- Lions\n- zebras",
+    "output": "zebras",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which person is they referring to in the following sentence?\nSaturday Night Live often has politicians as one of their main centers of attention since they are what viewers want to see joked about.\n\nOPTIONS:\n- Saturday Night Live\n- politicians",
+    "output": "politicians",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which entity is they this sentence?\n\nThe DEA raided the Mexican Cartel's warehouse because they had their drug business discovered.\n\nOPTIONS:\n- DEA\n- Mexican Cartel",
+    "output": "Mexican Cartel",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The mother encouraged her daughter to sing a difficult song so she would be challenged.\n\nWho is \"she\" in this prior sentence?\nOPTIONS:\n- The mother\n- her daughter",
+    "output": "her daughter",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Walmart has leaked pages of their Black Friday Ad to the users of the internet, but they will have many other ads to look at to choose from.\nTell me who they is.\nOPTIONS:\n- Walmart\n- the users of the internet",
+    "output": "the users of the internet",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is he referring to in the following sentence?\nShawn Jun performed a huge upset over four time champion Leon Sung but he still received a large sum of money for being a runner up.\n\nOPTIONS:\n- Shawn Jun\n- Leon Sung",
+    "output": "Leon Sung",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is he referring to in the following sentence?\nJacob gave William money because he needed some.\n\nOPTIONS:\n- Jacob\n- William",
+    "output": "William",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The Philadelphia Eagles lost to the St. Louis Rams, but it was because they had the home field advantage.\nBased on this sentence, who is they?\n\nOPTIONS:\n- Philadelphia Eagles\n- St. Louis Rams",
+    "output": "St. Louis Rams",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The children played games because they were entertaining.\n\nWho is they referring to?\nOPTIONS:\n- The children\n- games",
+    "output": "games",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The police arrested the rioters because they were causing trouble.\n\nWho is they referring to?\nOPTIONS:\n- The police\n- the rioters",
+    "output": "the rioters",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "England won the bid over Spain because they did not prepare thoroughly.\n\nWho is they referring to in this sentence?\nOPTIONS:\n- England\n- Spain",
+    "output": "Spain",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is he in the following sentence?\n\nMaster Sifu passes wisdom on to Jack so he listens very intently to what he has to say.\n\nOPTIONS:\n- Master Sifu\n- Jack",
+    "output": "Jack",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which person is they referring to in the following sentence?\nThe Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios, but they will probably file another lawsuit again.\n\nOPTIONS:\n- The Minecraft developers\n- Bethesda Studios",
+    "output": "Bethesda Studios",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The glass told the toaster that it was fat.\nTell me who it is.\nOPTIONS:\n- The glass\n- the toaster",
+    "output": "the toaster",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "John flicked Bill because he had a fly on his shirt.\n\nWho is \"he\" in this prior sentence?\nOPTIONS:\n- John\n- Bill",
+    "output": "Bill",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which person is they referring to in the following sentence?\nNATO forces did precision predator strikes for the Libyan rebels because they did not have the capabilities themselves.\n\nOPTIONS:\n- NATO forces\n- Libyan rebels",
+    "output": "Libyan rebels",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Beowulf was granted the crown to succeed King Henry because he did not have a son to secede him instead.\n\nWho is \"he\" in this prior sentence?\nOPTIONS:\n- Beowulf\n- King Henry",
+    "output": "King Henry",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Steve scratched Johnny so he became angry.\nBased on this sentence, who is he?\n\nOPTIONS:\n- Steve\n- Johnny",
+    "output": "Johnny",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is it in the following sentence?\n\nThe government placed a tax on the product so it got more expensive.\n\nOPTIONS:\n- The government\n- the product",
+    "output": "the product",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is they referring to in the following sentence?\nApple recently had to recall 1st generation IPods because they had a defect in their batteries.\n\nOPTIONS:\n- Apple\n- 1st generation IPods",
+    "output": "1st generation IPods",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Entertainmart has to win over the consumers with their low prices because they are the ones that contribute to making a business successful.\nWho is \"they\"?\nOPTIONS:\n- Entertainmart\n- the consumers",
+    "output": "the consumers",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Chris was running after John, because he stole his watch.\n\nWho is \"he\" in this prior sentence?\nOPTIONS:\n- Chris\n- John",
+    "output": "John",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Pizza hut pizzas are tastier than Papa John pizzas because they give less ingredients and cheeses.\n\nWho is they referring to in this sentence?\nOPTIONS:\n- Pizza\n- Papa John",
+    "output": "Papa John",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Boyfriends always try to go out of their way to treat their girlfriends with respect because they are more inclined to stay with them when they are respected.\n\nWho is \"they\" in this prior sentence?\nOPTIONS:\n- Boyfriends\n- their girlfriends",
+    "output": "their girlfriends",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is she referring to in the following sentence?\nKathy looked after the children of Mrs. Faith since she wanted to have a night out at town.\n\nOPTIONS:\n- Kathy\n- Mrs. Faith",
+    "output": "Mrs. Faith",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "John nicked Bill because he was gullible.\n\nWho is \"he\" in this prior sentence?\nOPTIONS:\n- John\n- Bill",
+    "output": "Bill",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Space Marines are played more often than Orks, but they are noticed more often at tournaments due to their uniqueness.\nBased on this sentence, who is they?\n\nOPTIONS:\n- Space Marines\n- Orks",
+    "output": "Orks",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Which person is he referring to in the following sentence?\nThe big brother always beats the little brother at board games since he is not very good at games.\n\nOPTIONS:\n- The big brother\n- the little brother",
+    "output": "the little brother",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is it in the following sentence?\n\nThe cabbage was in the freezer and it became full.\n\nOPTIONS:\n- The cabbage\n- the freezer",
+    "output": "the freezer",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Ann helped Kim with her cooking skills, because she felt sorry for her.\nTell me who she is.\nOPTIONS:\n- Ann\n- Kim",
+    "output": "Ann",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "Who is it in the following sentence?\n\nThe bird ate the pie and it died.\n\nOPTIONS:\n- The bird\n- the pie",
+    "output": "The bird",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  },
+  {
+    "instruction": "The mechanic charged the man one hundred dollars although he had done no work.\n\nWho is he referring to?\nOPTIONS:\n- The mechanic\n- the man",
+    "output": "The mechanic",
+    "task": "definite_pronoun_resolution",
+    "category": "coreference"
+  }
+]
